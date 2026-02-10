@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visa Processing Time Estimator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+    <h2>Visa Processing Time Estimator</h2>
+
+    <form method="POST" action="/predict">
+
+        <label>Visa Type</label>
+        <input list="visaTypes" name="visa_type" required>
+        <datalist id="visaTypes">
+            <option value="Student">
+            <option value="Work">
+            <option value="Tourist">
+            <option value="Visiting">
+        </datalist>
+
+        <label>Destination Country</label>
+        <input list="countries" name="destination_country" required>
+        <datalist id="countries">
+            <option value="Canada">
+            <option value="USA">
+            <option value="UK">
+            <option value="Australia">
+        </datalist>
+
+        <label>Nationality</label>
+        <input list="nationalities" name="nationality" required>
+        <datalist id="nationalities">
+            <option value="India">
+            <option value="China">
+            <option value="Nigeria">
+            <option value="Brazil">
+            <option value="Philippines">
+        </datalist>
+
+        <label>Processing Center</label>
+        <input list="centers" name="processing_center" required>
+        <datalist id="centers">
+            <option value="Chennai">
+            <option value="Delhi">
+            <option value="Beijing">
+            <option value="Abuja">
+            <option value="Sao Paulo">
+        </datalist>
+
+        <label>Interview Required</label>
+        <select name="interview_required">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <label>Biometric Required</label>
+        <select name="biometric_required">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select>
+
+        <label>Application Mode</label>
+        <select name="application_mode">
+            <option value="1">Online</option>
+            <option value="0">Offline</option>
+        </select>
+
+        <label>Application Month</label>
+        <input type="number" min="1" max="12" name="application_month" required>
+
+        <button type="submit">Predict Processing Time</button>
+    </form>
+</div>
+
+</body>
+</html>
+

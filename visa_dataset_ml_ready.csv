@@ -1,0 +1,566 @@
+visa_type_cleaned,destination_country,nationality,processing_center,interview_required_num,biometric_required_num,application_mode_num,application_month,season,nationality_avg_processing,processing_time_days
+Tourist,Australia,Nigeria,Abuja,1,1,1,10,Normal,52.3125,37.0
+Student,Australia,India,Chennai,0,1,-1,3,Normal,52.24193548387097,68.0
+Work,Canada,Bangladesh,Dhaka,0,1,0,4,Normal,49.12643678160919,73.0
+Student,Canada,Philippines,Manila,1,1,-1,2,Normal,48.21111111111111,69.0
+Work,USA,Brazil,Sao Paulo,0,1,0,5,Normal,44.689655172413794,46.0
+Student,USA,Nigeria,Abuja,1,0,1,5,Normal,52.3125,65.0
+Work,UK,China,Beijing,1,1,1,12,Holiday,48.666666666666664,52.0
+Tourist,Australia,India,Mumbai,0,1,1,1,Holiday,52.24193548387097,27.0
+Student,UK,China,Beijing,1,1,-1,5,Normal,48.666666666666664,56.0
+Work,Australia,India,Bengaluru,1,0,0,5,Normal,52.24193548387097,35.0
+Tourist,USA,China,Shanghai,1,0,1,9,Normal,48.666666666666664,68.0
+Tourist,Canada,Brazil,Sao Paulo,0,0,1,1,Holiday,44.689655172413794,48.0
+Work,Canada,Pakistan,Lahore,1,0,-1,1,Holiday,50.73076923076923,22.0
+Student,Australia,Philippines,Manila,1,1,-1,5,Normal,48.21111111111111,29.0
+Tourist,USA,Philippines,Manila,0,0,0,5,Normal,48.21111111111111,31.0
+Work,USA,Philippines,Manila,1,0,1,2,Normal,48.21111111111111,33.0
+Tourist,UK,Philippines,Manila,1,0,-1,10,Normal,48.21111111111111,65.0
+Tourist,UK,Pakistan,Islamabad,1,1,-1,6,Peak,50.73076923076923,58.0
+Student,Canada,Brazil,Sao Paulo,1,1,-1,12,Holiday,44.689655172413794,62.0
+Work,USA,Brazil,Sao Paulo,1,1,1,3,Normal,44.689655172413794,57.0
+Tourist,USA,India,Bengaluru,0,0,1,9,Normal,52.24193548387097,62.0
+Tourist,UK,Philippines,Manila,1,1,0,5,Normal,48.21111111111111,72.0
+Tourist,UK,Nigeria,Abuja,1,0,0,8,Peak,52.3125,54.0
+Tourist,UK,Philippines,Manila,1,1,0,1,Holiday,48.21111111111111,75.0
+Tourist,Australia,Nigeria,Abuja,0,0,-1,5,Normal,52.3125,29.0
+Work,USA,China,Shanghai,1,0,0,6,Peak,48.666666666666664,42.0
+Student,UK,India,New Delhi,1,1,-1,6,Peak,52.24193548387097,68.0
+Student,Canada,Pakistan,Lahore,0,1,-1,1,Holiday,50.73076923076923,23.0
+Tourist,USA,Brazil,Sao Paulo,0,0,1,3,Normal,44.689655172413794,27.0
+Student,Canada,Bangladesh,Dhaka,0,0,-1,3,Normal,49.12643678160919,21.0
+Work,Australia,Nigeria,Lagos,1,1,1,1,Holiday,52.3125,22.0
+Work,Australia,Philippines,Manila,1,0,1,12,Holiday,48.21111111111111,31.0
+Work,Canada,China,Beijing,0,0,1,6,Peak,48.666666666666664,70.0
+Student,Australia,Nigeria,Lagos,1,1,1,10,Normal,52.3125,64.0
+Work,Australia,Bangladesh,Dhaka,0,1,1,7,Peak,49.12643678160919,71.0
+Work,UK,Nigeria,Lagos,1,0,0,6,Peak,52.3125,37.0
+Tourist,UK,Brazil,Sao Paulo,0,1,0,2,Normal,44.689655172413794,63.0
+Tourist,USA,China,Shanghai,1,0,1,9,Normal,48.666666666666664,35.0
+Work,Canada,Philippines,Manila,1,0,1,4,Normal,48.21111111111111,56.0
+Work,Australia,Nigeria,Abuja,0,1,0,5,Normal,52.3125,61.0
+Student,Australia,Nigeria,Abuja,0,1,-1,9,Normal,52.3125,78.0
+Tourist,UK,India,Hyderabad,1,0,1,4,Normal,52.24193548387097,28.0
+Tourist,Australia,Bangladesh,Dhaka,1,0,0,12,Holiday,49.12643678160919,50.0
+Student,UK,Brazil,Sao Paulo,0,1,1,9,Normal,44.689655172413794,43.0
+Student,Canada,China,Shanghai,1,0,-1,5,Normal,48.666666666666664,71.0
+Tourist,Australia,Nigeria,Lagos,1,0,1,5,Normal,52.3125,65.0
+Work,UK,Brazil,Sao Paulo,1,1,-1,3,Normal,44.689655172413794,66.0
+Work,Canada,China,Beijing,1,0,-1,3,Normal,48.666666666666664,56.0
+Tourist,UK,Bangladesh,Dhaka,1,0,0,2,Normal,49.12643678160919,54.0
+Tourist,USA,Brazil,Sao Paulo,0,1,0,4,Normal,44.689655172413794,77.0
+Student,USA,Nigeria,Lagos,0,1,1,10,Normal,52.3125,44.0
+Student,USA,Nigeria,Lagos,1,1,-1,6,Peak,52.3125,41.0
+Student,USA,Philippines,Manila,1,1,1,7,Peak,48.21111111111111,40.0
+Tourist,Canada,Pakistan,Islamabad,0,1,0,7,Peak,50.73076923076923,72.0
+Tourist,Australia,Bangladesh,Dhaka,1,0,1,2,Normal,49.12643678160919,25.0
+Student,UK,China,Beijing,0,0,0,4,Normal,48.666666666666664,47.0
+Work,Australia,Pakistan,Islamabad,0,0,1,11,Normal,50.73076923076923,27.0
+Tourist,Canada,Bangladesh,Dhaka,0,1,1,2,Normal,49.12643678160919,75.0
+Work,Canada,Pakistan,Lahore,1,0,1,2,Normal,50.73076923076923,42.0
+Student,Canada,Philippines,Manila,0,1,1,2,Normal,48.21111111111111,29.0
+Tourist,Australia,China,Shanghai,0,0,1,7,Peak,48.666666666666664,57.0
+Tourist,Canada,Bangladesh,Dhaka,1,1,1,10,Normal,49.12643678160919,73.0
+Student,UK,China,Shanghai,1,0,-1,1,Holiday,48.666666666666664,64.0
+Tourist,UK,Pakistan,Lahore,1,1,1,8,Peak,50.73076923076923,53.0
+Student,Canada,Nigeria,Abuja,0,1,0,5,Normal,52.3125,64.0
+Student,Canada,China,Shanghai,0,1,1,6,Peak,48.666666666666664,22.0
+Tourist,USA,Brazil,Sao Paulo,0,0,-1,3,Normal,44.689655172413794,28.0
+Work,Australia,Bangladesh,Dhaka,0,0,-1,4,Normal,49.12643678160919,23.0
+Student,Canada,Bangladesh,Dhaka,1,1,0,12,Holiday,49.12643678160919,59.0
+Tourist,USA,Brazil,Sao Paulo,1,1,1,12,Holiday,44.689655172413794,74.0
+Student,Canada,Brazil,Sao Paulo,1,0,-1,11,Normal,44.689655172413794,52.0
+Student,Australia,Nigeria,Abuja,0,0,1,10,Normal,52.3125,63.0
+Work,Canada,Bangladesh,Dhaka,1,1,-1,3,Normal,49.12643678160919,78.0
+Work,USA,India,Bengaluru,0,0,1,2,Normal,52.24193548387097,63.0
+Student,Canada,Pakistan,Lahore,0,0,-1,11,Normal,50.73076923076923,74.0
+Student,Australia,Bangladesh,Dhaka,1,1,0,4,Normal,49.12643678160919,49.0
+Tourist,UK,Bangladesh,Dhaka,0,0,1,6,Peak,49.12643678160919,56.0
+Student,UK,China,Shanghai,1,0,-1,5,Normal,48.666666666666664,62.0
+Work,USA,Nigeria,Lagos,1,0,-1,7,Peak,52.3125,74.0
+Tourist,USA,Bangladesh,Dhaka,1,1,-1,10,Normal,49.12643678160919,26.0
+Work,Australia,China,Beijing,0,1,-1,7,Peak,48.666666666666664,41.0
+Student,Australia,China,Shanghai,0,0,0,10,Normal,48.666666666666664,77.0
+Student,USA,Bangladesh,Dhaka,0,1,-1,9,Normal,49.12643678160919,83.0
+Tourist,Canada,Brazil,Sao Paulo,1,1,1,6,Peak,44.689655172413794,57.0
+Work,Canada,Nigeria,Lagos,0,0,1,1,Holiday,52.3125,44.0
+Student,Canada,China,Beijing,0,0,-1,4,Normal,48.666666666666664,35.0
+Work,UK,Philippines,Manila,0,1,1,3,Normal,48.21111111111111,72.0
+Work,USA,Bangladesh,Dhaka,0,0,0,11,Normal,49.12643678160919,54.0
+Work,Australia,Pakistan,Islamabad,0,1,0,9,Normal,50.73076923076923,29.0
+Work,Canada,Bangladesh,Dhaka,0,0,0,3,Normal,49.12643678160919,38.0
+Student,Australia,Philippines,Manila,1,1,-1,12,Holiday,48.21111111111111,54.0
+Tourist,Canada,China,Beijing,0,0,1,1,Holiday,48.666666666666664,55.0
+Tourist,Canada,Brazil,Sao Paulo,1,1,0,10,Normal,44.689655172413794,17.0
+Work,Australia,China,Beijing,1,0,1,1,Holiday,48.666666666666664,25.0
+Work,USA,Pakistan,Islamabad,1,0,-1,5,Normal,50.73076923076923,62.0
+Tourist,USA,Brazil,Sao Paulo,1,1,-1,9,Normal,44.689655172413794,40.0
+Tourist,UK,Nigeria,Lagos,1,1,1,6,Peak,52.3125,38.0
+Work,USA,Bangladesh,Dhaka,0,1,-1,6,Peak,49.12643678160919,56.0
+Tourist,Canada,China,Shanghai,1,0,1,12,Holiday,48.666666666666664,31.0
+Student,Canada,Brazil,Sao Paulo,0,1,0,8,Peak,44.689655172413794,64.0
+Tourist,Canada,Bangladesh,Dhaka,0,0,0,5,Normal,49.12643678160919,38.0
+Student,Australia,Pakistan,Lahore,1,1,-1,8,Peak,50.73076923076923,42.0
+Student,Canada,India,Bengaluru,0,0,-1,5,Normal,52.24193548387097,51.0
+Student,Canada,China,Beijing,0,0,0,6,Peak,48.666666666666664,42.0
+Work,UK,Philippines,Manila,1,1,0,1,Holiday,48.21111111111111,33.0
+Work,UK,Bangladesh,Dhaka,0,0,1,3,Normal,49.12643678160919,59.0
+Work,Australia,Bangladesh,Dhaka,1,0,1,10,Normal,49.12643678160919,79.0
+Work,Canada,Philippines,Manila,1,0,1,6,Peak,48.21111111111111,39.0
+Tourist,Australia,China,Beijing,1,1,1,11,Normal,48.666666666666664,69.0
+Work,USA,Nigeria,Abuja,1,1,-1,2,Normal,52.3125,33.0
+Student,USA,Philippines,Manila,1,1,1,5,Normal,48.21111111111111,55.0
+Tourist,Canada,Pakistan,Lahore,0,1,1,7,Peak,50.73076923076923,63.0
+Tourist,Australia,Philippines,Manila,0,0,0,3,Normal,48.21111111111111,41.0
+Work,USA,China,Shanghai,1,0,-1,10,Normal,48.666666666666664,78.0
+Work,UK,Brazil,Sao Paulo,0,1,1,8,Peak,44.689655172413794,62.0
+Tourist,UK,Brazil,Sao Paulo,0,1,0,3,Normal,44.689655172413794,71.0
+Student,Australia,India,Bengaluru,1,1,0,4,Normal,52.24193548387097,23.0
+Student,USA,China,Shanghai,0,1,1,9,Normal,48.666666666666664,57.0
+Student,UK,Philippines,Manila,0,1,1,1,Holiday,48.21111111111111,71.0
+Work,UK,Pakistan,Lahore,0,1,1,7,Peak,50.73076923076923,18.0
+Work,USA,Philippines,Manila,0,0,-1,10,Normal,48.21111111111111,39.0
+Student,USA,Nigeria,Lagos,1,0,0,4,Normal,52.3125,72.0
+Work,USA,Nigeria,Lagos,0,1,1,3,Normal,52.3125,69.0
+Work,USA,Pakistan,Lahore,0,1,-1,8,Peak,50.73076923076923,88.0
+Tourist,Canada,Pakistan,Lahore,1,0,0,3,Normal,50.73076923076923,70.0
+Student,Australia,Philippines,Manila,1,0,1,4,Normal,48.21111111111111,46.0
+Student,USA,Bangladesh,Dhaka,0,1,-1,1,Holiday,49.12643678160919,54.0
+Tourist,UK,Bangladesh,Dhaka,0,0,-1,5,Normal,49.12643678160919,65.0
+Tourist,UK,Philippines,Manila,0,0,0,1,Holiday,48.21111111111111,58.0
+Student,Australia,China,Shanghai,1,1,1,8,Peak,48.666666666666664,32.0
+Work,UK,Philippines,Manila,1,1,-1,2,Normal,48.21111111111111,39.0
+Student,Canada,India,Hyderabad,1,1,1,4,Normal,52.24193548387097,50.0
+Student,Australia,China,Beijing,0,0,1,8,Peak,48.666666666666664,42.0
+Tourist,Australia,Nigeria,Lagos,1,1,1,3,Normal,52.3125,31.0
+Student,USA,Philippines,Manila,1,0,1,3,Normal,48.21111111111111,29.0
+Tourist,USA,Nigeria,Lagos,1,0,1,6,Peak,52.3125,48.0
+Work,Australia,India,New Delhi,1,0,-1,10,Normal,52.24193548387097,71.0
+Tourist,UK,Brazil,Sao Paulo,1,0,1,10,Normal,44.689655172413794,35.0
+Tourist,USA,Nigeria,Abuja,1,1,-1,12,Holiday,52.3125,48.0
+Tourist,UK,Philippines,Manila,1,1,1,5,Normal,48.21111111111111,53.0
+Work,USA,Nigeria,Abuja,0,0,1,2,Normal,52.3125,66.0
+Student,USA,Philippines,Manila,0,0,1,9,Normal,48.21111111111111,30.0
+Work,Canada,Nigeria,Lagos,1,1,0,2,Normal,52.3125,52.0
+Tourist,USA,Bangladesh,Dhaka,0,1,0,6,Peak,49.12643678160919,78.0
+Work,USA,Nigeria,Abuja,1,1,-1,5,Normal,52.3125,32.0
+Tourist,USA,India,Chennai,1,0,1,2,Normal,52.24193548387097,34.0
+Student,Canada,Brazil,Sao Paulo,1,1,-1,12,Holiday,44.689655172413794,42.0
+Work,Australia,India,New Delhi,1,1,0,10,Normal,52.24193548387097,75.0
+Tourist,Canada,Nigeria,Abuja,1,1,-1,1,Holiday,52.3125,48.0
+Work,Canada,China,Shanghai,1,1,1,3,Normal,48.666666666666664,73.0
+Work,USA,China,Shanghai,1,0,0,6,Peak,48.666666666666664,63.0
+Tourist,USA,Philippines,Manila,1,1,1,7,Peak,48.21111111111111,23.0
+Student,UK,Bangladesh,Dhaka,1,0,0,5,Normal,49.12643678160919,53.0
+Tourist,Australia,Bangladesh,Dhaka,1,1,0,4,Normal,49.12643678160919,39.0
+Student,Australia,Nigeria,Lagos,1,0,-1,5,Normal,52.3125,34.0
+Tourist,UK,China,Beijing,0,1,-1,2,Normal,48.666666666666664,51.0
+Work,USA,Brazil,Sao Paulo,0,1,0,2,Normal,44.689655172413794,40.0
+Tourist,USA,Brazil,Sao Paulo,1,1,-1,6,Peak,44.689655172413794,37.0
+Tourist,UK,Brazil,Sao Paulo,1,1,1,1,Holiday,44.689655172413794,17.0
+Student,USA,China,Shanghai,1,0,1,3,Normal,48.666666666666664,48.0
+Tourist,Australia,Nigeria,Lagos,1,0,1,6,Peak,52.3125,68.0
+Work,UK,Nigeria,Lagos,0,0,0,9,Normal,52.3125,52.0
+Tourist,Canada,Nigeria,Abuja,1,0,1,11,Normal,52.3125,58.0
+Work,Canada,Brazil,Sao Paulo,1,0,0,11,Normal,44.689655172413794,73.0
+Tourist,Australia,Bangladesh,Dhaka,0,0,1,1,Holiday,49.12643678160919,42.0
+Work,Canada,Brazil,Sao Paulo,1,0,-1,7,Peak,44.689655172413794,16.0
+Student,Canada,India,Bengaluru,1,1,-1,6,Peak,52.24193548387097,81.0
+Student,UK,Bangladesh,Dhaka,1,1,0,2,Normal,49.12643678160919,22.0
+Tourist,Canada,Pakistan,Islamabad,1,0,-1,3,Normal,50.73076923076923,38.0
+Tourist,Canada,India,Chennai,0,0,0,4,Normal,52.24193548387097,30.0
+Work,UK,Nigeria,Abuja,0,1,-1,6,Peak,52.3125,21.0
+Tourist,Australia,China,Beijing,1,1,0,7,Peak,48.666666666666664,78.0
+Work,USA,India,New Delhi,1,1,-1,10,Normal,52.24193548387097,30.0
+Work,USA,Pakistan,Islamabad,1,1,0,9,Normal,50.73076923076923,77.0
+Work,Canada,Brazil,Sao Paulo,0,1,-1,4,Normal,44.689655172413794,63.0
+Tourist,UK,Nigeria,Lagos,1,0,0,9,Normal,52.3125,44.0
+Work,UK,Philippines,Manila,1,1,-1,4,Normal,48.21111111111111,41.0
+Student,UK,China,Beijing,0,0,-1,6,Peak,48.666666666666664,38.0
+Tourist,Canada,India,Hyderabad,1,0,1,9,Normal,52.24193548387097,19.0
+Tourist,Australia,India,Chennai,0,1,1,4,Normal,52.24193548387097,83.0
+Student,USA,India,Bengaluru,1,0,1,4,Normal,52.24193548387097,77.0
+Tourist,USA,India,New Delhi,0,0,-1,5,Normal,52.24193548387097,20.0
+Tourist,UK,Philippines,Manila,0,0,-1,1,Holiday,48.21111111111111,64.0
+Tourist,Australia,Nigeria,Abuja,1,1,0,3,Normal,52.3125,19.0
+Student,Canada,Pakistan,Lahore,1,1,1,5,Normal,50.73076923076923,75.0
+Tourist,Australia,Philippines,Manila,0,1,-1,2,Normal,48.21111111111111,76.0
+Tourist,Australia,Pakistan,Islamabad,0,0,-1,3,Normal,50.73076923076923,32.0
+Tourist,Australia,Philippines,Manila,1,0,1,5,Normal,48.21111111111111,41.0
+Work,Canada,Brazil,Sao Paulo,0,1,1,2,Normal,44.689655172413794,30.0
+Work,Canada,China,Beijing,0,1,1,2,Normal,48.666666666666664,48.0
+Work,UK,Nigeria,Abuja,1,0,-1,7,Peak,52.3125,29.0
+Tourist,Canada,Bangladesh,Dhaka,1,0,-1,9,Normal,49.12643678160919,85.0
+Student,UK,Bangladesh,Dhaka,1,0,0,2,Normal,49.12643678160919,32.0
+Tourist,Canada,Philippines,Manila,0,0,0,4,Normal,48.21111111111111,73.0
+Student,UK,Pakistan,Lahore,0,1,0,4,Normal,50.73076923076923,20.0
+Tourist,USA,China,Shanghai,0,1,1,6,Peak,48.666666666666664,34.0
+Work,USA,Brazil,Sao Paulo,1,0,1,3,Normal,44.689655172413794,22.0
+Work,USA,Brazil,Sao Paulo,1,0,1,6,Peak,44.689655172413794,47.0
+Tourist,UK,China,Beijing,0,0,1,4,Normal,48.666666666666664,68.0
+Student,USA,Nigeria,Lagos,1,1,1,5,Normal,52.3125,43.0
+Work,Australia,Brazil,Sao Paulo,1,0,0,3,Normal,44.689655172413794,34.0
+Student,USA,Nigeria,Abuja,1,0,0,5,Normal,52.3125,78.0
+Student,UK,Philippines,Manila,1,0,0,5,Normal,48.21111111111111,45.0
+Work,Canada,India,Bengaluru,1,0,1,6,Peak,52.24193548387097,25.0
+Student,Canada,Pakistan,Lahore,1,1,0,1,Holiday,50.73076923076923,72.0
+Work,Australia,Nigeria,Abuja,0,1,0,5,Normal,52.3125,36.0
+Tourist,Australia,Brazil,Sao Paulo,1,1,1,3,Normal,44.689655172413794,54.0
+Tourist,Canada,Philippines,Manila,1,1,-1,3,Normal,48.21111111111111,40.0
+Student,Canada,India,New Delhi,1,0,1,5,Normal,52.24193548387097,73.0
+Student,UK,India,Hyderabad,0,1,1,10,Normal,52.24193548387097,28.0
+Work,Australia,Philippines,Manila,0,0,-1,1,Holiday,48.21111111111111,52.0
+Work,Canada,Nigeria,Lagos,0,1,0,12,Holiday,52.3125,78.0
+Tourist,Canada,Bangladesh,Dhaka,0,1,1,1,Holiday,49.12643678160919,56.0
+Work,Australia,Philippines,Manila,1,1,1,2,Normal,48.21111111111111,74.0
+Tourist,UK,India,Hyderabad,1,1,-1,1,Holiday,52.24193548387097,69.0
+Work,Australia,Philippines,Manila,0,1,1,2,Normal,48.21111111111111,54.0
+Tourist,USA,Brazil,Sao Paulo,0,0,0,2,Normal,44.689655172413794,36.0
+Student,UK,Pakistan,Lahore,1,0,-1,4,Normal,50.73076923076923,17.0
+Tourist,USA,Pakistan,Islamabad,1,1,0,6,Peak,50.73076923076923,55.0
+Work,Canada,Pakistan,Islamabad,0,0,1,4,Normal,50.73076923076923,19.0
+Student,USA,Pakistan,Islamabad,0,1,0,2,Normal,50.73076923076923,55.0
+Tourist,Australia,Nigeria,Abuja,1,1,0,3,Normal,52.3125,66.0
+Work,Australia,Bangladesh,Dhaka,0,0,0,12,Holiday,49.12643678160919,33.0
+Work,Canada,Bangladesh,Dhaka,1,1,0,4,Normal,49.12643678160919,62.0
+Work,UK,Nigeria,Lagos,0,0,-1,1,Holiday,52.3125,53.0
+Student,UK,Philippines,Manila,1,1,1,3,Normal,48.21111111111111,57.0
+Work,UK,India,Chennai,1,0,1,12,Holiday,52.24193548387097,69.0
+Tourist,Canada,Philippines,Manila,0,0,1,1,Holiday,48.21111111111111,43.0
+Student,Australia,Nigeria,Abuja,0,0,1,5,Normal,52.3125,28.0
+Student,Australia,Philippines,Manila,1,1,1,7,Peak,48.21111111111111,33.0
+Tourist,Australia,Philippines,Manila,1,1,0,7,Peak,48.21111111111111,39.0
+Work,UK,Nigeria,Abuja,0,0,0,2,Normal,52.3125,41.0
+Work,USA,Brazil,Sao Paulo,0,1,1,8,Peak,44.689655172413794,55.0
+Work,USA,Brazil,Sao Paulo,0,1,0,10,Normal,44.689655172413794,40.0
+Work,Australia,Pakistan,Islamabad,0,1,0,4,Normal,50.73076923076923,66.0
+Tourist,USA,China,Beijing,1,0,-1,3,Normal,48.666666666666664,75.0
+Tourist,Canada,Pakistan,Lahore,1,0,0,4,Normal,50.73076923076923,25.0
+Student,Australia,Pakistan,Islamabad,0,0,-1,5,Normal,50.73076923076923,26.0
+Tourist,Australia,China,Beijing,0,1,0,11,Normal,48.666666666666664,36.0
+Work,Canada,Philippines,Manila,1,1,-1,3,Normal,48.21111111111111,61.0
+Student,Canada,India,Bengaluru,1,1,-1,3,Normal,52.24193548387097,73.0
+Tourist,UK,India,Chennai,0,0,0,9,Normal,52.24193548387097,16.0
+Student,Canada,China,Beijing,0,0,1,7,Peak,48.666666666666664,46.0
+Student,Canada,Philippines,Manila,1,1,-1,9,Normal,48.21111111111111,70.0
+Tourist,Canada,Brazil,Sao Paulo,1,0,-1,5,Normal,44.689655172413794,45.0
+Tourist,UK,India,New Delhi,0,1,-1,5,Normal,52.24193548387097,58.0
+Tourist,Canada,Philippines,Manila,0,1,-1,3,Normal,48.21111111111111,19.0
+Student,UK,Brazil,Sao Paulo,1,1,1,5,Normal,44.689655172413794,31.0
+Work,USA,Pakistan,Islamabad,1,1,1,11,Normal,50.73076923076923,35.0
+Tourist,Australia,Pakistan,Lahore,0,0,0,1,Holiday,50.73076923076923,65.0
+Work,Canada,Nigeria,Lagos,1,0,-1,4,Normal,52.3125,30.0
+Tourist,Canada,Pakistan,Islamabad,0,0,-1,3,Normal,50.73076923076923,61.0
+Work,UK,Brazil,Sao Paulo,1,0,-1,6,Peak,44.689655172413794,65.0
+Student,UK,Philippines,Manila,1,1,1,7,Peak,48.21111111111111,27.0
+Work,USA,Pakistan,Lahore,0,0,0,10,Normal,50.73076923076923,42.0
+Student,UK,China,Beijing,0,1,0,7,Peak,48.666666666666664,68.0
+Tourist,Canada,Bangladesh,Dhaka,0,0,1,1,Holiday,49.12643678160919,64.0
+Work,Canada,Philippines,Manila,0,1,0,6,Peak,48.21111111111111,38.0
+Work,UK,India,Hyderabad,0,0,1,7,Peak,52.24193548387097,68.0
+Tourist,Canada,Brazil,Sao Paulo,1,0,0,4,Normal,44.689655172413794,33.0
+Work,USA,Pakistan,Islamabad,1,1,1,5,Normal,50.73076923076923,71.0
+Tourist,USA,Nigeria,Lagos,1,1,1,1,Holiday,52.3125,65.0
+Student,Canada,India,Mumbai,1,0,-1,5,Normal,52.24193548387097,62.0
+Tourist,USA,Brazil,Sao Paulo,1,1,-1,5,Normal,44.689655172413794,29.0
+Student,UK,Bangladesh,Dhaka,0,1,0,2,Normal,49.12643678160919,37.0
+Work,Australia,Brazil,Sao Paulo,1,0,1,12,Holiday,44.689655172413794,42.0
+Work,USA,Pakistan,Lahore,0,0,-1,1,Holiday,50.73076923076923,42.0
+Tourist,Canada,Philippines,Manila,1,0,-1,10,Normal,48.21111111111111,57.0
+Student,Australia,Philippines,Manila,1,0,1,2,Normal,48.21111111111111,27.0
+Tourist,USA,China,Shanghai,1,1,-1,9,Normal,48.666666666666664,57.0
+Work,UK,China,Shanghai,0,0,-1,7,Peak,48.666666666666664,22.0
+Work,USA,Philippines,Manila,0,0,0,8,Peak,48.21111111111111,85.0
+Tourist,UK,Philippines,Manila,1,0,-1,9,Normal,48.21111111111111,71.0
+Student,UK,China,Beijing,0,1,-1,12,Holiday,48.666666666666664,50.0
+Work,UK,Bangladesh,Dhaka,1,1,0,6,Peak,49.12643678160919,15.0
+Tourist,USA,Bangladesh,Dhaka,0,0,-1,4,Normal,49.12643678160919,80.0
+Tourist,Australia,Philippines,Manila,1,0,1,8,Peak,48.21111111111111,65.0
+Tourist,USA,Nigeria,Lagos,1,0,0,4,Normal,52.3125,81.0
+Work,USA,Nigeria,Lagos,0,0,1,6,Peak,52.3125,27.0
+Student,USA,Pakistan,Lahore,1,1,1,2,Normal,50.73076923076923,79.0
+Tourist,UK,Bangladesh,Dhaka,0,1,1,3,Normal,49.12643678160919,40.0
+Tourist,Australia,Brazil,Sao Paulo,0,0,0,5,Normal,44.689655172413794,51.0
+Student,USA,Pakistan,Islamabad,0,1,0,8,Peak,50.73076923076923,82.0
+Work,USA,Philippines,Manila,0,1,1,3,Normal,48.21111111111111,27.0
+Tourist,Australia,China,Shanghai,1,0,-1,5,Normal,48.666666666666664,22.0
+Work,Canada,Pakistan,Islamabad,0,0,0,9,Normal,50.73076923076923,74.0
+Work,Australia,Bangladesh,Dhaka,0,0,-1,10,Normal,49.12643678160919,59.0
+Work,USA,Bangladesh,Dhaka,0,1,-1,8,Peak,49.12643678160919,50.0
+Student,Australia,Pakistan,Islamabad,0,0,1,11,Normal,50.73076923076923,42.0
+Tourist,UK,Brazil,Sao Paulo,1,0,1,4,Normal,44.689655172413794,66.0
+Tourist,Canada,Nigeria,Abuja,0,1,1,5,Normal,52.3125,36.0
+Work,Canada,Nigeria,Abuja,0,1,-1,6,Peak,52.3125,62.0
+Work,Canada,Bangladesh,Dhaka,0,0,1,12,Holiday,49.12643678160919,79.0
+Student,UK,Philippines,Manila,1,0,1,5,Normal,48.21111111111111,27.0
+Tourist,UK,Philippines,Manila,1,0,0,1,Holiday,48.21111111111111,45.0
+Work,Canada,Bangladesh,Dhaka,0,0,-1,9,Normal,49.12643678160919,67.0
+Work,UK,Nigeria,Lagos,1,0,-1,4,Normal,52.3125,39.0
+Tourist,USA,Nigeria,Lagos,1,1,-1,12,Holiday,52.3125,55.0
+Work,USA,Bangladesh,Dhaka,1,0,-1,5,Normal,49.12643678160919,45.0
+Tourist,Australia,Bangladesh,Dhaka,1,0,1,12,Holiday,49.12643678160919,41.0
+Student,Australia,Brazil,Sao Paulo,1,0,-1,5,Normal,44.689655172413794,41.0
+Student,Australia,India,New Delhi,0,0,0,1,Holiday,52.24193548387097,43.0
+Tourist,Australia,Bangladesh,Dhaka,0,0,0,4,Normal,49.12643678160919,59.0
+Tourist,Australia,Philippines,Manila,1,0,-1,12,Holiday,48.21111111111111,83.0
+Work,UK,Brazil,Sao Paulo,0,1,-1,3,Normal,44.689655172413794,55.0
+Tourist,UK,Bangladesh,Dhaka,0,0,0,1,Holiday,49.12643678160919,22.0
+Work,Canada,China,Beijing,1,1,-1,9,Normal,48.666666666666664,14.0
+Tourist,UK,China,Beijing,0,0,1,4,Normal,48.666666666666664,70.0
+Tourist,UK,Bangladesh,Dhaka,0,0,1,2,Normal,49.12643678160919,32.0
+Work,UK,Bangladesh,Dhaka,1,1,-1,8,Peak,49.12643678160919,26.0
+Tourist,USA,Nigeria,Lagos,1,1,0,1,Holiday,52.3125,34.0
+Work,Australia,Pakistan,Islamabad,1,1,1,6,Peak,50.73076923076923,70.0
+Tourist,Canada,China,Shanghai,1,0,1,1,Holiday,48.666666666666664,73.0
+Work,UK,China,Shanghai,0,1,0,3,Normal,48.666666666666664,32.0
+Work,USA,Bangladesh,Dhaka,0,1,-1,5,Normal,49.12643678160919,34.0
+Work,USA,Philippines,Manila,0,0,-1,10,Normal,48.21111111111111,40.0
+Tourist,UK,Bangladesh,Dhaka,0,0,0,3,Normal,49.12643678160919,47.0
+Student,USA,India,Chennai,0,0,0,4,Normal,52.24193548387097,27.0
+Work,Canada,Nigeria,Abuja,0,0,0,6,Peak,52.3125,40.0
+Tourist,UK,Philippines,Manila,1,0,0,5,Normal,48.21111111111111,39.0
+Student,USA,India,New Delhi,1,1,0,10,Normal,52.24193548387097,69.0
+Work,Canada,Brazil,Sao Paulo,0,1,1,2,Normal,44.689655172413794,39.0
+Tourist,Canada,India,Hyderabad,1,1,1,1,Holiday,52.24193548387097,62.0
+Work,UK,Bangladesh,Dhaka,1,0,1,8,Peak,49.12643678160919,26.0
+Tourist,USA,China,Beijing,0,1,0,5,Normal,48.666666666666664,71.0
+Work,Canada,Bangladesh,Dhaka,0,0,1,3,Normal,49.12643678160919,33.0
+Tourist,UK,Brazil,Sao Paulo,0,1,0,7,Peak,44.689655172413794,19.0
+Work,USA,Brazil,Sao Paulo,0,1,-1,4,Normal,44.689655172413794,49.0
+Work,Australia,India,Hyderabad,0,0,1,6,Peak,52.24193548387097,46.0
+Tourist,USA,Pakistan,Lahore,0,1,-1,6,Peak,50.73076923076923,53.0
+Student,Australia,Pakistan,Islamabad,1,1,-1,4,Normal,50.73076923076923,61.0
+Tourist,Canada,China,Beijing,1,0,-1,9,Normal,48.666666666666664,74.0
+Tourist,USA,Brazil,Sao Paulo,0,0,1,10,Normal,44.689655172413794,31.0
+Tourist,UK,China,Shanghai,1,0,0,1,Holiday,48.666666666666664,44.0
+Work,Canada,Philippines,Manila,0,0,1,5,Normal,48.21111111111111,82.0
+Tourist,Australia,Philippines,Manila,1,1,-1,10,Normal,48.21111111111111,82.0
+Student,USA,Brazil,Sao Paulo,0,0,-1,8,Peak,44.689655172413794,28.0
+Work,Canada,Bangladesh,Dhaka,0,0,1,8,Peak,49.12643678160919,64.0
+Student,USA,China,Shanghai,1,1,1,4,Normal,48.666666666666664,34.0
+Tourist,USA,India,Chennai,0,0,1,9,Normal,52.24193548387097,78.0
+Student,USA,Philippines,Manila,0,0,0,2,Normal,48.21111111111111,38.0
+Tourist,UK,India,Chennai,0,0,1,1,Holiday,52.24193548387097,23.0
+Work,Australia,Philippines,Manila,0,0,1,12,Holiday,48.21111111111111,71.0
+Work,USA,Nigeria,Lagos,1,0,1,3,Normal,52.3125,65.0
+Student,UK,Brazil,Sao Paulo,0,1,1,1,Holiday,44.689655172413794,35.0
+Tourist,Canada,China,Beijing,1,0,1,2,Normal,48.666666666666664,26.0
+Student,USA,Bangladesh,Dhaka,1,0,1,2,Normal,49.12643678160919,86.0
+Student,USA,Pakistan,Islamabad,1,1,-1,3,Normal,50.73076923076923,65.0
+Work,Canada,Brazil,Sao Paulo,0,1,1,9,Normal,44.689655172413794,73.0
+Work,Australia,China,Shanghai,1,1,1,2,Normal,48.666666666666664,34.0
+Student,Canada,India,Mumbai,1,0,1,1,Holiday,52.24193548387097,72.0
+Work,Australia,China,Beijing,0,1,-1,2,Normal,48.666666666666664,73.0
+Work,Canada,Pakistan,Islamabad,1,0,1,5,Normal,50.73076923076923,31.0
+Work,Canada,Brazil,Sao Paulo,1,1,1,1,Holiday,44.689655172413794,50.0
+Student,Australia,Pakistan,Islamabad,1,1,-1,1,Holiday,50.73076923076923,71.0
+Work,Canada,Philippines,Manila,1,1,1,6,Peak,48.21111111111111,28.0
+Tourist,UK,Brazil,Sao Paulo,0,0,0,1,Holiday,44.689655172413794,23.0
+Student,UK,Brazil,Sao Paulo,1,0,0,1,Holiday,44.689655172413794,25.0
+Work,Australia,Bangladesh,Dhaka,1,0,-1,3,Normal,49.12643678160919,32.0
+Student,UK,Bangladesh,Dhaka,0,0,0,11,Normal,49.12643678160919,44.0
+Work,USA,Philippines,Manila,0,1,0,8,Peak,48.21111111111111,83.0
+Tourist,USA,India,New Delhi,0,0,0,4,Normal,52.24193548387097,72.0
+Work,Australia,Bangladesh,Dhaka,1,0,-1,4,Normal,49.12643678160919,73.0
+Work,UK,China,Shanghai,1,1,-1,9,Normal,48.666666666666664,43.0
+Work,Australia,Philippines,Manila,0,0,-1,10,Normal,48.21111111111111,71.0
+Student,USA,Philippines,Manila,1,1,1,9,Normal,48.21111111111111,55.0
+Student,USA,Nigeria,Lagos,1,1,1,7,Peak,52.3125,81.0
+Tourist,USA,China,Shanghai,0,1,-1,10,Normal,48.666666666666664,82.0
+Student,UK,Nigeria,Abuja,1,0,1,12,Holiday,52.3125,31.0
+Student,Australia,Bangladesh,Dhaka,1,0,-1,4,Normal,49.12643678160919,30.0
+Tourist,Australia,Bangladesh,Dhaka,1,0,-1,5,Normal,49.12643678160919,23.0
+Work,UK,Bangladesh,Dhaka,1,1,1,1,Holiday,49.12643678160919,74.0
+Tourist,Australia,India,Chennai,1,0,0,1,Holiday,52.24193548387097,22.0
+Work,USA,China,Beijing,1,0,0,4,Normal,48.666666666666664,34.0
+Student,USA,India,Chennai,0,1,1,2,Normal,52.24193548387097,37.0
+Tourist,Australia,Pakistan,Lahore,0,0,0,3,Normal,50.73076923076923,44.0
+Student,UK,Brazil,Sao Paulo,0,0,0,1,Holiday,44.689655172413794,31.0
+Student,UK,India,New Delhi,0,1,-1,12,Holiday,52.24193548387097,15.0
+Student,Australia,China,Shanghai,1,0,-1,9,Normal,48.666666666666664,56.0
+Student,USA,China,Beijing,0,1,0,2,Normal,48.666666666666664,52.0
+Student,USA,India,Hyderabad,1,1,0,4,Normal,52.24193548387097,56.0
+Work,Australia,China,Beijing,1,0,-1,11,Normal,48.666666666666664,57.0
+Tourist,UK,Pakistan,Lahore,1,0,0,4,Normal,50.73076923076923,19.0
+Work,UK,Pakistan,Islamabad,0,1,-1,4,Normal,50.73076923076923,34.0
+Work,USA,Philippines,Manila,1,0,1,5,Normal,48.21111111111111,55.0
+Work,USA,Nigeria,Lagos,0,0,0,2,Normal,52.3125,77.0
+Tourist,Australia,Bangladesh,Dhaka,1,0,0,4,Normal,49.12643678160919,73.0
+Work,Canada,Bangladesh,Dhaka,0,1,-1,3,Normal,49.12643678160919,76.0
+Work,Canada,Bangladesh,Dhaka,0,1,-1,6,Peak,49.12643678160919,71.0
+Student,USA,Brazil,Sao Paulo,1,1,0,8,Peak,44.689655172413794,81.0
+Work,UK,Nigeria,Abuja,0,0,-1,4,Normal,52.3125,70.0
+Student,Australia,Philippines,Manila,0,1,1,2,Normal,48.21111111111111,34.0
+Work,UK,Philippines,Manila,1,0,-1,1,Holiday,48.21111111111111,31.0
+Student,UK,Pakistan,Lahore,1,0,-1,6,Peak,50.73076923076923,74.0
+Student,USA,Brazil,Sao Paulo,0,1,1,4,Normal,44.689655172413794,40.0
+Work,Australia,Bangladesh,Dhaka,1,1,-1,11,Normal,49.12643678160919,70.0
+Tourist,UK,India,New Delhi,0,1,1,2,Normal,52.24193548387097,53.0
+Work,USA,Pakistan,Lahore,0,1,0,4,Normal,50.73076923076923,75.0
+Work,UK,Bangladesh,Dhaka,0,1,1,5,Normal,49.12643678160919,56.0
+Work,Australia,Pakistan,Lahore,0,1,1,1,Holiday,50.73076923076923,41.0
+Tourist,UK,Philippines,Manila,0,0,0,4,Normal,48.21111111111111,18.0
+Student,Australia,China,Beijing,1,0,1,1,Holiday,48.666666666666664,64.0
+Tourist,Australia,China,Beijing,1,0,-1,4,Normal,48.666666666666664,54.0
+Tourist,UK,Pakistan,Islamabad,1,0,0,2,Normal,50.73076923076923,35.0
+Tourist,UK,Bangladesh,Dhaka,1,1,-1,4,Normal,49.12643678160919,15.0
+Student,UK,Brazil,Sao Paulo,0,1,0,10,Normal,44.689655172413794,15.0
+Tourist,Canada,Bangladesh,Dhaka,0,1,-1,9,Normal,49.12643678160919,76.0
+Student,USA,Philippines,Manila,1,1,-1,6,Peak,48.21111111111111,65.0
+Work,USA,China,Beijing,1,0,-1,9,Normal,48.666666666666664,70.0
+Tourist,Australia,Nigeria,Lagos,0,1,0,6,Peak,52.3125,20.0
+Tourist,Canada,Pakistan,Lahore,1,1,1,5,Normal,50.73076923076923,52.0
+Work,UK,Philippines,Manila,0,1,0,5,Normal,48.21111111111111,59.0
+Tourist,Canada,Philippines,Manila,1,0,0,4,Normal,48.21111111111111,20.0
+Student,Australia,Philippines,Manila,1,0,-1,7,Peak,48.21111111111111,29.0
+Work,Australia,Bangladesh,Dhaka,0,1,0,7,Peak,49.12643678160919,20.0
+Visiting,Canada,Nigeria,Lagos,1,0,-1,8,Peak,52.3125,45.0
+Work,Canada,United States of America,New Delhi,0,0,0,12,Holiday,39.53846153846154,63.0
+Visiting,Canada,Philippines,Manila,0,1,1,5,Normal,48.21111111111111,22.0
+,Canada,All,New Delhi,1,1,0,4,Normal,21.0,21.0
+Work,Canada,India,Mumbai,1,1,0,4,Normal,52.24193548387097,133.0
+Student,Canada,China,New Delhi,0,1,0,8,Peak,48.666666666666664,35.0
+Visiting,Canada,Bangladesh,Dhaka,1,0,1,4,Normal,49.12643678160919,38.0
+Visiting,Canada,Australia,New Delhi,0,1,-1,12,Holiday,32.76470588235294,5.0
+Work,Canada,Bangladesh,Dhaka,0,1,-1,4,Normal,49.12643678160919,70.0
+Work,Canada,Nigeria,Lagos,0,0,0,12,Holiday,52.3125,63.0
+Student,Canada,Philippines,Manila,0,0,0,8,Peak,48.21111111111111,56.0
+Visiting,Canada,Bangladesh,Dhaka,0,1,1,9,Normal,49.12643678160919,26.0
+Student,Canada,United States of America,New Delhi,0,1,1,8,Peak,39.53846153846154,63.0
+Student,Canada,India,Bengaluru,0,0,-1,11,Normal,52.24193548387097,28.0
+Student,Canada,Nigeria,Lagos,1,0,0,6,Peak,52.3125,35.0
+Work,Canada,India,Bengaluru,0,0,1,12,Holiday,52.24193548387097,63.0
+Visiting,Canada,Bangladesh,Dhaka,0,1,0,8,Peak,49.12643678160919,42.0
+Student,Canada,Australia,New Delhi,1,1,-1,8,Peak,32.76470588235294,56.0
+Work,Canada,India,Bengaluru,0,1,1,6,Peak,52.24193548387097,91.0
+Visiting,Canada,Philippines,Manila,1,1,0,8,Peak,48.21111111111111,28.0
+Visiting,Canada,Nigeria,Lagos,1,0,0,8,Peak,52.3125,40.0
+Visiting,Canada,China,New Delhi,0,0,-1,12,Holiday,48.666666666666664,21.0
+Visiting,Canada,Philippines,Manila,1,1,0,9,Normal,48.21111111111111,19.0
+Work,Canada,Philippines,Manila,0,0,1,10,Normal,48.21111111111111,49.0
+Visiting,Canada,Japan,New Delhi,1,1,-1,5,Normal,28.0,24.0
+Student,Canada,Philippines,Manila,1,0,0,3,Normal,48.21111111111111,35.0
+Student,Canada,Nigeria,Abuja,1,1,-1,3,Normal,52.3125,42.0
+Visiting,Canada,Australia,New Delhi,0,1,0,3,Normal,32.76470588235294,13.0
+Student,Canada,Philippines,Manila,1,1,-1,8,Peak,48.21111111111111,56.0
+Student,Canada,Bangladesh,Dhaka,1,1,-1,11,Normal,49.12643678160919,28.0
+Work,Canada,Nigeria,Abuja,0,0,1,6,Peak,52.3125,112.0
+Visiting,Canada,Japan,New Delhi,0,1,0,6,Peak,28.0,26.0
+Student,Canada,Philippines,Manila,1,1,1,6,Peak,48.21111111111111,105.0
+Student,Canada,United States of America,New Delhi,0,0,1,11,Normal,39.53846153846154,28.0
+Student,Canada,Australia,New Delhi,1,1,0,9,Normal,32.76470588235294,77.0
+Student,Canada,United Kingdom,New Delhi,1,1,0,12,Holiday,55.2,35.0
+Student,Canada,India,New Delhi,0,1,-1,9,Normal,52.24193548387097,35.0
+Work,Canada,Bangladesh,Dhaka,0,0,1,12,Holiday,49.12643678160919,56.0
+Student,Canada,China,New Delhi,1,1,0,12,Holiday,48.666666666666664,28.0
+Visiting,Canada,Japan,New Delhi,1,0,-1,4,Normal,28.0,20.0
+Visiting,Canada,Bangladesh,Dhaka,1,1,1,6,Peak,49.12643678160919,40.0
+Student,Canada,India,Bengaluru,1,0,0,8,Peak,52.24193548387097,28.0
+Work,Canada,India,Mumbai,0,0,-1,8,Peak,52.24193548387097,42.0
+Visiting,Canada,United Kingdom,New Delhi,0,1,-1,8,Peak,55.2,60.0
+Visiting,Canada,Japan,New Delhi,0,0,0,10,Normal,28.0,35.0
+Student,Canada,United Kingdom,New Delhi,1,1,0,8,Peak,55.2,63.0
+Student,Canada,Bangladesh,Dhaka,1,0,1,8,Peak,49.12643678160919,28.0
+Work,Canada,China,New Delhi,0,1,0,9,Normal,48.666666666666664,49.0
+Student,Canada,Japan,New Delhi,0,0,1,11,Normal,28.0,7.0
+Visiting,Canada,Nigeria,Abuja,0,0,-1,10,Normal,52.3125,35.0
+Visiting,Canada,Japan,New Delhi,0,1,0,4,Normal,28.0,20.0
+Visiting,Canada,United Kingdom,New Delhi,1,0,-1,10,Normal,55.2,60.0
+Visiting,Canada,China,New Delhi,1,0,1,8,Peak,48.666666666666664,26.0
+Student,Canada,Bangladesh,Dhaka,1,1,0,4,Normal,49.12643678160919,42.0
+Visiting,Canada,Nigeria,Abuja,0,0,0,8,Peak,52.3125,40.0
+Visiting,Canada,China,New Delhi,0,0,-1,4,Normal,48.666666666666664,26.0
+Work,Canada,Australia,New Delhi,0,1,0,11,Normal,32.76470588235294,42.0
+Work,Canada,Nigeria,Abuja,1,0,-1,7,Peak,52.3125,70.0
+Work,Canada,Japan,New Delhi,1,1,1,10,Normal,28.0,56.0
+Student,Canada,Nigeria,Abuja,0,1,-1,7,Peak,52.3125,35.0
+Student,Canada,United Kingdom,New Delhi,1,0,0,9,Normal,55.2,70.0
+Work,Canada,Philippines,Manila,0,0,1,10,Normal,48.21111111111111,49.0
+Work,Canada,Japan,New Delhi,0,1,-1,9,Normal,28.0,49.0
+Work,Canada,India,Mumbai,0,0,0,7,Peak,52.24193548387097,49.0
+Visiting,Canada,Bangladesh,Dhaka,0,0,1,8,Peak,49.12643678160919,42.0
+Work,Canada,India,Chandigarh,0,0,0,8,Peak,52.24193548387097,42.0
+Student,Canada,China,New Delhi,0,0,-1,8,Peak,48.666666666666664,28.0
+Work,Canada,Bangladesh,Dhaka,0,1,-1,10,Normal,49.12643678160919,63.0
+Student,Canada,India,Chandigarh,1,1,-1,10,Normal,52.24193548387097,42.0
+Visiting,Canada,China,New Delhi,1,0,1,11,Normal,48.666666666666664,21.0
+Work,Canada,China,New Delhi,0,1,-1,11,Normal,48.666666666666664,49.0
+Student,Canada,United Kingdom,New Delhi,1,0,-1,8,Peak,55.2,63.0
+Work,Canada,China,New Delhi,1,0,0,4,Normal,48.666666666666664,84.0
+Student,Canada,India,Mumbai,1,0,1,12,Holiday,52.24193548387097,28.0
+Work,Canada,Philippines,Manila,1,1,1,3,Normal,48.21111111111111,42.0
+Work,Canada,Australia,New Delhi,1,1,1,4,Normal,32.76470588235294,42.0
+Student,Canada,Nigeria,Lagos,0,0,0,8,Peak,52.3125,35.0
+Student,Canada,Philippines,Manila,0,1,0,7,Peak,48.21111111111111,70.0
+Student,Canada,Australia,New Delhi,0,1,-1,6,Peak,32.76470588235294,42.0
+Student,Canada,United States of America,New Delhi,0,1,1,8,Peak,39.53846153846154,49.0
+Visiting,Canada,India,Bengaluru,0,1,0,8,Peak,52.24193548387097,54.0
+Student,Canada,United Kingdom,New Delhi,0,1,0,8,Peak,55.2,70.0
+Visiting,Canada,Bangladesh,Dhaka,0,1,-1,12,Holiday,49.12643678160919,25.0
+Visiting,Canada,United States of America,New Delhi,1,0,0,6,Peak,39.53846153846154,19.0
+Visiting,Canada,India,Chandigarh,0,1,1,8,Peak,52.24193548387097,36.0
+Visiting,Canada,United States of America,New Delhi,1,0,-1,6,Peak,39.53846153846154,19.0
+Work,Canada,Australia,New Delhi,0,1,0,8,Peak,32.76470588235294,28.0
+Visiting,Canada,Bangladesh,Dhaka,1,0,0,5,Normal,49.12643678160919,36.0
+Student,Canada,Japan,New Delhi,0,1,1,10,Normal,28.0,14.0
+Student,Canada,Nigeria,Abuja,0,1,-1,5,Normal,52.3125,35.0
+Visiting,Canada,Australia,New Delhi,0,1,-1,12,Holiday,32.76470588235294,5.0
+Work,Canada,Japan,New Delhi,1,0,0,9,Normal,28.0,49.0
+Work,Canada,Nigeria,Abuja,0,1,0,4,Normal,52.3125,98.0
+Work,Canada,Nigeria,Lagos,1,1,-1,8,Peak,52.3125,63.0
+Student,Canada,Australia,New Delhi,0,0,1,9,Normal,32.76470588235294,77.0
+Student,Canada,Philippines,Manila,1,1,0,11,Normal,48.21111111111111,28.0
+Student,Canada,Bangladesh,Dhaka,1,0,0,12,Holiday,49.12643678160919,28.0
+Work,Canada,Bangladesh,Dhaka,0,0,1,11,Normal,49.12643678160919,70.0
+Student,Canada,Japan,New Delhi,1,1,0,7,Peak,28.0,42.0
+Work,Canada,Japan,New Delhi,1,0,-1,9,Normal,28.0,49.0
+Student,Canada,Japan,New Delhi,0,1,0,12,Holiday,28.0,7.0
+Student,Canada,Nigeria,Abuja,1,1,-1,3,Normal,52.3125,42.0
+Visiting,Canada,Australia,New Delhi,1,0,-1,7,Peak,32.76470588235294,10.0
+Student,Canada,India,Mumbai,0,0,1,7,Peak,52.24193548387097,28.0
+Student,Canada,Australia,New Delhi,1,1,-1,5,Normal,32.76470588235294,42.0
+Student,Canada,Bangladesh,Dhaka,1,1,0,8,Peak,49.12643678160919,28.0
+Student,Canada,Bangladesh,Dhaka,1,0,0,10,Normal,49.12643678160919,28.0
+Student,Canada,Nigeria,Lagos,1,1,1,10,Normal,52.3125,56.0
+Visiting,Canada,Philippines,Manila,0,1,0,11,Normal,48.21111111111111,20.0
+Work,Canada,India,Bengaluru,1,0,-1,11,Normal,52.24193548387097,70.0
+Student,Canada,United Kingdom,New Delhi,0,1,0,5,Normal,55.2,21.0
+Student,Canada,India,New Delhi,0,1,0,5,Normal,52.24193548387097,56.0
+Work,Canada,China,New Delhi,0,0,1,12,Holiday,48.666666666666664,56.0
+Work,Canada,Philippines,Manila,0,1,-1,8,Peak,48.21111111111111,35.0
+Student,Canada,Bangladesh,Dhaka,1,0,-1,3,Normal,49.12643678160919,49.0
+Visiting,Canada,United Kingdom,New Delhi,1,0,1,8,Peak,55.2,60.0
+Visiting,Canada,Australia,New Delhi,0,1,1,8,Peak,32.76470588235294,12.0
+Student,Canada,Nigeria,Lagos,1,0,-1,9,Normal,52.3125,49.0
+Student,Canada,United States of America,New Delhi,1,1,0,8,Peak,39.53846153846154,63.0
+Visiting,Canada,China,New Delhi,1,1,-1,8,Peak,48.666666666666664,26.0
+Student,Canada,Bangladesh,Dhaka,1,0,-1,5,Normal,49.12643678160919,35.0
+Student,Canada,United States of America,New Delhi,1,0,-1,12,Holiday,39.53846153846154,42.0
+Visiting,Canada,Japan,New Delhi,1,1,-1,7,Peak,28.0,22.0
+Work,Canada,India,Bengaluru,1,0,-1,11,Normal,52.24193548387097,70.0
+Student,Canada,United States of America,New Delhi,1,0,-1,12,Holiday,39.53846153846154,42.0
+Student,Canada,Australia,New Delhi,1,1,1,8,Peak,32.76470588235294,56.0
+Work,Canada,Nigeria,Lagos,0,0,-1,10,Normal,52.3125,70.0
+Student,Canada,Japan,New Delhi,0,0,0,11,Normal,28.0,7.0
+Visiting,Canada,Australia,New Delhi,1,1,0,10,Normal,32.76470588235294,17.0
+Visiting,Canada,China,New Delhi,1,0,0,3,Normal,48.666666666666664,34.0
+Work,Canada,Nigeria,Lagos,1,1,0,6,Peak,52.3125,112.0
+Work,Canada,Australia,New Delhi,1,0,-1,8,Peak,32.76470588235294,28.0
+Work,Canada,Nigeria,Lagos,0,0,-1,3,Normal,52.3125,84.0
+Student,Canada,China,New Delhi,0,1,-1,8,Peak,48.666666666666664,28.0
+Student,Canada,United States of America,New Delhi,0,1,1,4,Normal,39.53846153846154,42.0
+Student,Canada,Philippines,Manila,0,1,0,5,Normal,48.21111111111111,70.0
+Visiting,Canada,China,New Delhi,1,0,0,6,Peak,48.666666666666664,23.0
+Visiting,Canada,Philippines,Manila,1,1,1,6,Peak,48.21111111111111,30.0
+Visiting,Canada,Philippines,Manila,0,1,-1,6,Peak,48.21111111111111,30.0
+Work,Canada,United States of America,New Delhi,1,0,-1,10,Normal,39.53846153846154,28.0
+Work,Canada,Japan,New Delhi,1,1,0,3,Normal,28.0,21.0
+Visiting,Canada,Australia,New Delhi,1,1,-1,12,Holiday,32.76470588235294,5.0
+Work,Canada,China,New Delhi,0,0,-1,8,Peak,48.666666666666664,42.0
+Work,Canada,United States of America,New Delhi,0,0,0,8,Peak,39.53846153846154,28.0
+Work,Canada,Philippines,Manila,0,0,1,10,Normal,48.21111111111111,49.0
+Work,Canada,India,Bengaluru,1,1,0,4,Normal,52.24193548387097,133.0
+Work,Canada,United States of America,New Delhi,0,1,0,8,Peak,39.53846153846154,28.0
+Student,Canada,All,New Delhi,1,1,1,6,Peak,21.0,21.0
+Visiting,Canada,United Kingdom,New Delhi,0,1,1,12,Holiday,55.2,50.0
+Work,Canada,Nigeria,Lagos,1,1,1,9,Normal,52.3125,84.0

@@ -1,0 +1,1501 @@
+application_id,destination_country,visa_type,nationality,application_date,decision_date,processing_time_days,visa_status,processing_center,biometric_required,interview_required,application_mode
+VISA000001,USA,Visiting,India,2022-04-13,2022-06-13,61,Approved,Bengaluru,Yes,Yes,Online
+VISA000002,UK,Student,Nigeria,2023-03-12,2023-05-02,51,Approved,Beijing,Yes,No,Offline
+VISA000003,UK,Work,Bangladesh,2022-09-28,2022-11-07,40,Approved,Shanghai,No,Yes,Online
+VISA000004,USA,Student,Philippines,2022-04-17,2022-06-06,50,Approved,Manila,No,Yes,Online
+VISA000005,Canada,Work,Bangladesh,2022-03-13,2022-05-15,63,Approved,Chennai,Yes,Yes,Online
+VISA000006,UK,Work,Nigeria,2023-12-02,2024-01-03,32,Approved,Dhaka,No,No,Offline
+VISA000007,Canada,Student,India,2022-01-21,2022-03-29,67,Rejected,Shanghai,Yes,Yes,Online
+VISA000008,USA,Visiting,Nigeria,2023-09-07,2023-11-04,58,Approved,Bengaluru,Yes,No,Online
+VISA000009,Australia,Visiting,India,2022-05-02,2022-06-23,52,Approved,Chennai,Yes,No,Offline
+VISA000010,Australia,Work,China,2023-04-12,2023-05-27,45,Approved,Mumbai,Yes,Yes,Online
+VISA000011,UK,Visiting,India,2022-08-03,2022-09-19,47,Approved,Sao Paulo,No,No,Online
+VISA000012,USA,Work,China,2022-11-27,2023-01-29,63,Approved,Manila,Yes,No,Offline
+VISA000013,Canada,Visiting,China,2023-04-04,2023-05-27,53,Approved,Sao Paulo,Yes,No,Online
+VISA000014,UK,Work,India,2022-03-29,2022-05-15,47,Approved,Chennai,No,Yes,Offline
+VISA000015,USA,Visiting,Philippines,2023-01-08,2023-03-11,62,Approved,Chennai,No,No,Online
+VISA000016,USA,Tourist,Brazil,2022-04-10,2022-06-11,62,Approved,Sao Paulo,Yes,Yes,Online
+VISA000017,Canada,Student,India,2023-10-26,2023-12-01,36,Approved,Bengaluru,Yes,No,Offline
+VISA000018,UK,Tourist,Bangladesh,2022-05-11,2022-07-13,63,Approved,Bengaluru,Yes,Yes,Online
+VISA000019,USA,Student,Philippines,2023-10-24,2024-01-24,92,Rejected,Abuja,Yes,Yes,Online
+VISA000020,USA,Student,Philippines,2022-11-05,2023-01-06,62,Approved,Mumbai,No,No,Offline
+VISA000021,USA,Work,Bangladesh,2022-12-10,2023-01-08,29,Approved,Bengaluru,No,No,Offline
+VISA000022,Canada,Student,Brazil,2023-05-07,2023-07-03,57,Approved,Mumbai,Yes,Yes,Offline
+VISA000023,UK,Tourist,Philippines,2023-02-18,2023-03-17,27,Approved,Mumbai,Yes,Yes,Online
+VISA000024,UK,Tourist,China,2023-01-21,2023-05-03,102,Rejected,Chennai,Yes,Yes,Online
+VISA000025,UK,Visiting,Brazil,2022-07-11,2022-10-07,88,Rejected,Mumbai,No,No,Online
+VISA000026,UK,Tourist,Bangladesh,2022-10-04,2022-11-18,45,Approved,Manila,Yes,No,Online
+VISA000027,Australia,Visiting,Brazil,2022-06-10,2022-07-01,21,Approved,Sao Paulo,Yes,No,Offline
+VISA000028,Australia,Student,India,2023-04-05,2023-05-16,41,Approved,Abuja,Yes,Yes,Online
+VISA000029,UK,Tourist,Brazil,2022-11-10,2023-01-01,52,Approved,Shanghai,Yes,Yes,Online
+VISA000030,Canada,Student,China,2022-01-22,2022-02-19,28,Approved,Beijing,Yes,No,Online
+VISA000031,Australia,Tourist,India,2022-09-10,2022-11-02,53,Approved,Abuja,Yes,No,Online
+VISA000032,USA,Tourist,Nigeria,2023-07-15,2023-09-05,52,Approved,Manila,No,Yes,Offline
+VISA000033,Australia,Visiting,Bangladesh,2023-04-20,2023-06-15,56,Approved,Abuja,No,No,Online
+VISA000034,USA,Student,Bangladesh,2022-02-28,2022-04-27,58,Approved,Mumbai,No,Yes,Online
+VISA000035,UK,Tourist,Brazil,2023-05-26,2023-07-05,40,Approved,Chennai,Yes,Yes,Offline
+VISA000036,Australia,Work,Philippines,2023-11-13,2023-12-25,42,Approved,Beijing,Yes,Yes,Online
+VISA000037,Canada,Student,India,2023-04-21,2023-06-15,55,Approved,Bengaluru,Yes,Yes,Online
+VISA000038,Australia,Student,Nigeria,2023-12-01,2024-01-15,45,Approved,Chennai,Yes,Yes,Online
+VISA000039,Australia,Student,India,2022-07-09,2022-09-15,68,Rejected,Mumbai,No,Yes,Online
+VISA000040,Australia,Visiting,Bangladesh,2023-11-18,2024-01-12,55,Approved,Mumbai,Yes,Yes,Online
+VISA000041,UK,Work,India,2023-07-17,2023-10-07,82,Rejected,Beijing,Yes,No,Offline
+VISA000042,Canada,Student,Nigeria,2023-07-21,2023-09-26,67,Rejected,Beijing,No,Yes,Online
+VISA000043,Australia,Tourist,Philippines,2022-09-01,2022-11-11,71,Rejected,Dhaka,No,Yes,Offline
+VISA000044,Canada,Tourist,Brazil,2023-05-20,2023-07-15,56,Approved,Chennai,Yes,Yes,Offline
+VISA000045,UK,Visiting,China,2022-05-11,2022-07-07,57,Approved,Bengaluru,Yes,Yes,Online
+VISA000046,USA,Tourist,India,2023-04-30,2023-07-19,80,Rejected,Abuja,Yes,No,Online
+VISA000047,Australia,Student,China,2023-10-09,2023-11-27,49,Approved,Mumbai,Yes,Yes,Online
+VISA000048,Canada,Tourist,Bangladesh,2022-01-21,2022-03-25,63,Approved,Mumbai,Yes,No,Online
+VISA000049,Canada,Student,Brazil,2022-06-16,2022-08-06,51,Approved,Dhaka,Yes,No,Offline
+VISA000050,UK,Tourist,Brazil,2022-10-01,2022-11-20,50,Approved,Chennai,No,Yes,Online
+VISA000051,Australia,Work,India,2023-01-23,2023-03-01,37,Approved,Chennai,Yes,Yes,Online
+VISA000052,USA,Visiting,Philippines,2023-08-24,2023-10-06,43,Approved,Sao Paulo,Yes,Yes,Online
+VISA000053,Canada,Visiting,Brazil,2022-11-12,2022-12-23,41,Approved,Beijing,Yes,Yes,Online
+VISA000054,Australia,Work,India,2022-01-14,2022-03-18,63,Approved,Bengaluru,Yes,No,Online
+VISA000055,USA,Work,India,2022-08-30,2022-11-08,70,Rejected,Beijing,No,Yes,Online
+VISA000056,Canada,Visiting,China,2022-12-12,2023-02-03,53,Approved,Bengaluru,Yes,Yes,Online
+VISA000057,Canada,Work,Brazil,2023-07-19,2023-09-15,58,Approved,Manila,Yes,Yes,Online
+VISA000058,USA,Student,India,2022-12-06,2023-01-27,52,Approved,Shanghai,Yes,Yes,Online
+VISA000059,USA,Tourist,China,2022-04-02,2022-05-14,42,Approved,Bengaluru,No,Yes,Online
+VISA000060,UK,Visiting,Nigeria,2023-01-02,2023-03-10,67,Rejected,Beijing,Yes,Yes,Online
+VISA000061,Australia,Work,China,2023-03-31,2023-06-03,64,Approved,Mumbai,No,Yes,Online
+VISA000062,Australia,Student,China,2023-03-04,2023-03-30,26,Approved,Beijing,Yes,Yes,Online
+VISA000063,UK,Visiting,India,2023-05-24,2023-07-13,50,Approved,Bengaluru,Yes,No,Online
+VISA000064,Canada,Work,Bangladesh,2022-02-04,2022-03-17,41,Approved,Chennai,Yes,No,Offline
+VISA000065,USA,Visiting,Bangladesh,2022-07-25,2022-09-12,49,Approved,Beijing,No,Yes,Online
+VISA000066,USA,Work,Philippines,2022-03-22,2022-05-05,44,Approved,Dhaka,No,Yes,Online
+VISA000067,USA,Visiting,Bangladesh,2023-07-16,2023-09-08,54,Approved,Sao Paulo,Yes,No,Offline
+VISA000068,Canada,Student,China,2023-01-23,2023-03-14,50,Approved,Mumbai,Yes,Yes,Offline
+VISA000069,USA,Student,Philippines,2022-01-02,2022-02-20,49,Approved,Dhaka,Yes,Yes,Online
+VISA000070,USA,Tourist,India,2023-01-25,2023-04-06,71,Rejected,Bengaluru,Yes,Yes,Online
+VISA000071,UK,Visiting,Brazil,2023-07-20,2023-09-21,63,Approved,Manila,Yes,No,Online
+VISA000072,Canada,Tourist,China,2022-04-16,2022-05-30,44,Approved,Dhaka,No,Yes,Online
+VISA000073,Australia,Visiting,China,2023-04-22,2023-06-07,46,Approved,Shanghai,No,No,Offline
+VISA000074,UK,Work,Philippines,2023-12-04,2024-02-04,62,Approved,Manila,Yes,No,Online
+VISA000075,UK,Work,India,2023-02-06,2023-04-09,62,Approved,Abuja,Yes,No,Online
+VISA000076,Australia,Tourist,Nigeria,2023-12-31,2024-02-14,45,Approved,Mumbai,No,No,Online
+VISA000077,UK,Visiting,China,2023-07-10,2023-08-30,51,Approved,Abuja,No,Yes,Online
+VISA000078,Canada,Tourist,Nigeria,2022-06-11,2022-09-01,82,Rejected,Beijing,Yes,Yes,Online
+VISA000079,USA,Student,Nigeria,2022-07-21,2022-09-05,46,Approved,Bengaluru,Yes,No,Offline
+VISA000080,Canada,Tourist,Bangladesh,2022-09-27,2022-12-19,83,Rejected,Mumbai,Yes,No,Online
+VISA000081,Australia,Tourist,India,2022-09-28,2022-12-08,71,Rejected,Chennai,Yes,Yes,Online
+VISA000082,Australia,Work,Nigeria,2023-04-01,2023-06-20,80,Rejected,Manila,Yes,No,Online
+VISA000083,UK,Tourist,India,2023-04-07,2023-05-22,45,Approved,Chennai,Yes,Yes,Online
+VISA000084,Canada,Visiting,Bangladesh,2023-12-28,2024-02-18,52,Approved,Abuja,Yes,Yes,Online
+VISA000085,Canada,Work,India,2022-09-09,2022-10-27,48,Approved,Dhaka,Yes,Yes,Offline
+VISA000086,Australia,Tourist,China,2023-12-03,2024-02-12,71,Rejected,Dhaka,Yes,Yes,Online
+VISA000087,Canada,Student,Nigeria,2022-10-23,2022-12-08,46,Approved,Bengaluru,Yes,Yes,Offline
+VISA000088,Australia,Tourist,India,2023-12-26,2024-02-29,65,Approved,Abuja,No,Yes,Online
+VISA000089,Canada,Tourist,Brazil,2023-12-21,2024-02-24,65,Approved,Sao Paulo,No,Yes,Online
+VISA000090,Canada,Tourist,India,2022-12-04,2023-01-27,54,Approved,Mumbai,Yes,Yes,Online
+VISA000091,Canada,Work,Nigeria,2022-02-22,2022-05-07,74,Rejected,Manila,Yes,Yes,Online
+VISA000092,Australia,Visiting,Bangladesh,2022-08-05,2022-09-30,56,Approved,Dhaka,No,No,Offline
+VISA000093,UK,Student,Bangladesh,2022-07-07,2022-09-12,67,Rejected,Dhaka,Yes,Yes,Online
+VISA000094,Canada,Tourist,Nigeria,2023-01-15,2023-03-03,47,Approved,Chennai,Yes,Yes,Online
+VISA000095,Australia,Visiting,China,2023-05-08,2023-06-21,44,Approved,Chennai,Yes,Yes,Online
+VISA000096,Australia,Visiting,China,2022-02-10,2022-04-16,65,Approved,Beijing,Yes,Yes,Offline
+VISA000097,Canada,Work,Bangladesh,2022-06-06,2022-08-06,61,Approved,Sao Paulo,Yes,No,Online
+VISA000098,Canada,Student,Bangladesh,2022-01-15,2022-03-14,58,Approved,Chennai,No,Yes,Online
+VISA000099,UK,Work,Nigeria,2022-03-06,2022-04-24,49,Approved,Chennai,Yes,No,Online
+VISA000100,Australia,Visiting,China,2023-06-05,2023-08-22,78,Rejected,Mumbai,Yes,Yes,Online
+VISA000101,Australia,Visiting,Bangladesh,2022-12-10,2023-01-17,38,Approved,Chennai,No,Yes,Online
+VISA000102,USA,Visiting,China,2022-05-09,2022-06-15,37,Approved,Manila,Yes,Yes,Offline
+VISA000103,Australia,Work,Bangladesh,2023-10-10,2023-12-18,69,Rejected,Mumbai,Yes,Yes,Online
+VISA000104,UK,Student,India,2023-04-17,2023-06-23,67,Rejected,Beijing,Yes,Yes,Online
+VISA000105,USA,Tourist,Brazil,2022-03-04,2022-05-03,60,Approved,Abuja,Yes,Yes,Online
+VISA000106,USA,Work,Philippines,2022-05-19,2022-07-08,50,Approved,Mumbai,Yes,Yes,Online
+VISA000107,USA,Visiting,India,2023-05-14,2023-07-15,62,Approved,Abuja,Yes,Yes,Online
+VISA000108,Canada,Work,Philippines,2023-08-16,2023-11-04,80,Rejected,Dhaka,Yes,No,Offline
+VISA000109,Canada,Visiting,Bangladesh,2023-01-27,2023-04-29,92,Rejected,Beijing,Yes,Yes,Offline
+VISA000110,Australia,Tourist,Brazil,2023-11-06,2023-12-06,30,Approved,Beijing,Yes,Yes,Offline
+VISA000111,USA,Tourist,Brazil,2023-02-23,2023-04-12,48,Approved,Mumbai,Yes,Yes,Offline
+VISA000112,UK,Student,Bangladesh,2022-10-16,2022-12-02,47,Approved,Shanghai,Yes,Yes,Online
+VISA000113,Canada,Visiting,Bangladesh,2023-01-14,2023-04-03,79,Rejected,Beijing,Yes,Yes,Online
+VISA000114,UK,Student,China,2023-05-05,2023-05-22,17,Approved,Abuja,Yes,No,Online
+VISA000115,UK,Student,Bangladesh,2022-08-19,2022-10-20,62,Approved,Beijing,No,No,Online
+VISA000116,Canada,Tourist,Nigeria,2022-02-10,2022-04-02,51,Approved,Dhaka,Yes,Yes,Online
+VISA000117,Canada,Work,Bangladesh,2022-01-28,2022-04-17,79,Rejected,Manila,Yes,Yes,Online
+VISA000118,Canada,Work,Nigeria,2022-05-15,2022-07-31,77,Rejected,Shanghai,No,Yes,Online
+VISA000119,Canada,Student,Bangladesh,2022-07-20,2022-09-18,60,Approved,Bengaluru,Yes,No,Offline
+VISA000120,USA,Tourist,China,2022-02-02,2022-03-05,31,Approved,Beijing,Yes,Yes,Online
+VISA000121,USA,Visiting,Nigeria,2022-02-17,2022-04-04,46,Approved,Chennai,No,Yes,Offline
+VISA000122,USA,Work,India,2023-05-18,2023-07-05,48,Approved,Mumbai,No,Yes,Online
+VISA000123,USA,Student,Nigeria,2023-02-11,2023-03-18,35,Approved,Mumbai,Yes,No,Online
+VISA000124,Australia,Work,China,2023-07-28,2023-10-08,72,Rejected,Mumbai,Yes,Yes,Online
+VISA000125,USA,Work,Philippines,2023-12-29,2024-01-31,33,Approved,Sao Paulo,Yes,Yes,Online
+VISA000126,Canada,Visiting,Nigeria,2022-04-09,2022-07-02,84,Rejected,Shanghai,No,No,Online
+VISA000127,UK,Tourist,Bangladesh,2023-11-15,2024-02-07,84,Rejected,Shanghai,Yes,Yes,Online
+VISA000128,USA,Visiting,Bangladesh,2023-12-27,2024-02-14,49,Approved,Abuja,Yes,No,Online
+VISA000129,Australia,Tourist,Philippines,2023-07-01,2023-08-29,59,Approved,Beijing,No,Yes,Online
+VISA000130,Canada,Work,China,2023-09-05,2023-10-28,53,Approved,Bengaluru,Yes,No,Online
+VISA000131,UK,Student,Brazil,2023-04-07,2023-06-14,68,Rejected,Mumbai,No,No,Online
+VISA000132,UK,Visiting,Bangladesh,2023-10-05,2023-12-18,74,Rejected,Beijing,Yes,Yes,Online
+VISA000133,USA,Tourist,India,2022-01-05,2022-03-04,58,Approved,Shanghai,Yes,No,Online
+VISA000134,UK,Work,China,2022-08-06,2022-10-07,62,Approved,Dhaka,Yes,Yes,Online
+VISA000135,USA,Tourist,Nigeria,2023-05-18,2023-07-02,45,Approved,Mumbai,No,No,Online
+VISA000136,USA,Tourist,Nigeria,2023-02-02,2023-04-04,61,Approved,Beijing,Yes,Yes,Online
+VISA000137,Canada,Tourist,India,2023-01-28,2023-03-26,57,Approved,Shanghai,Yes,No,Online
+VISA000138,Canada,Work,Bangladesh,2022-07-26,2022-09-05,41,Approved,Manila,Yes,Yes,Offline
+VISA000139,Australia,Student,China,2022-01-15,2022-03-10,54,Approved,Shanghai,No,No,Online
+VISA000140,Canada,Student,India,2023-07-08,2023-08-26,49,Approved,Chennai,No,Yes,Online
+VISA000141,Canada,Student,Bangladesh,2023-04-06,2023-05-21,45,Approved,Sao Paulo,Yes,No,Online
+VISA000142,USA,Tourist,China,2023-11-22,2023-12-29,37,Approved,Sao Paulo,Yes,No,Online
+VISA000143,Canada,Work,Nigeria,2023-07-29,2023-09-22,55,Approved,Mumbai,No,Yes,Online
+VISA000144,USA,Tourist,China,2022-08-29,2022-10-11,43,Approved,Manila,Yes,No,Online
+VISA000145,USA,Student,Philippines,2023-07-18,2023-09-03,47,Approved,Manila,Yes,No,Online
+VISA000146,Canada,Student,Brazil,2022-04-06,2022-06-16,71,Rejected,Mumbai,Yes,Yes,Online
+VISA000147,Australia,Work,China,2023-04-30,2023-07-03,64,Approved,Beijing,No,Yes,Online
+VISA000148,Australia,Tourist,Brazil,2023-02-11,2023-03-23,40,Approved,Mumbai,Yes,Yes,Online
+VISA000149,UK,Visiting,China,2022-08-19,2022-10-18,60,Approved,Bengaluru,Yes,Yes,Online
+VISA000150,UK,Visiting,Brazil,2023-10-17,2023-12-12,56,Approved,Bengaluru,Yes,Yes,Online
+VISA000151,Canada,Student,Philippines,2022-06-20,2022-09-08,80,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000152,Australia,Work,Nigeria,2023-06-25,2023-09-08,75,Rejected,Shanghai,Yes,Yes,Offline
+VISA000153,USA,Tourist,Bangladesh,2022-02-05,2022-03-08,31,Approved,Mumbai,Yes,Yes,Offline
+VISA000154,UK,Tourist,Brazil,2023-06-09,2023-08-15,67,Rejected,Mumbai,Yes,Yes,Online
+VISA000155,USA,Student,Philippines,2022-06-09,2022-08-21,73,Rejected,Beijing,Yes,No,Online
+VISA000156,UK,Student,Brazil,2023-11-30,2024-02-01,63,Approved,Abuja,Yes,No,Online
+VISA000157,Canada,Tourist,Nigeria,2022-08-31,2022-10-19,49,Approved,Sao Paulo,No,Yes,Online
+VISA000158,Australia,Tourist,Brazil,2022-03-27,2022-06-26,91,Rejected,Sao Paulo,No,No,Offline
+VISA000159,UK,Student,Philippines,2023-08-01,2023-10-04,64,Approved,Sao Paulo,No,No,Offline
+VISA000160,Australia,Tourist,Philippines,2023-11-13,2024-02-05,84,Rejected,Shanghai,Yes,No,Online
+VISA000161,USA,Visiting,India,2023-07-11,2023-09-24,75,Rejected,Dhaka,Yes,Yes,Online
+VISA000162,Canada,Student,Nigeria,2023-07-28,2023-09-27,61,Approved,Abuja,Yes,Yes,Online
+VISA000163,Australia,Tourist,India,2023-10-08,2023-11-23,46,Approved,Shanghai,No,No,Online
+VISA000164,Canada,Student,Nigeria,2022-01-28,2022-03-23,54,Approved,Bengaluru,No,No,Offline
+VISA000165,Australia,Work,Brazil,2023-09-12,2023-11-02,51,Approved,Beijing,No,No,Offline
+VISA000166,USA,Student,Philippines,2023-07-10,2023-08-15,36,Approved,Bengaluru,Yes,No,Online
+VISA000167,USA,Student,India,2022-12-06,2023-02-08,64,Approved,Manila,Yes,Yes,Online
+VISA000168,Canada,Work,Brazil,2022-11-27,2023-02-13,78,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000169,USA,Visiting,Philippines,2023-10-02,2023-11-21,50,Approved,Chennai,Yes,Yes,Online
+VISA000170,UK,Tourist,Nigeria,2023-05-21,2023-08-16,87,Rejected,Sao Paulo,Yes,Yes,Offline
+VISA000171,Australia,Work,Philippines,2022-12-14,2023-01-14,31,Approved,Sao Paulo,No,No,Online
+VISA000172,USA,Student,Brazil,2023-04-18,2023-06-27,70,Rejected,Beijing,Yes,Yes,Online
+VISA000173,UK,Tourist,India,2022-08-19,2022-11-07,80,Rejected,Abuja,Yes,Yes,Online
+VISA000174,Canada,Work,India,2022-07-09,2022-08-29,51,Approved,Bengaluru,Yes,No,Offline
+VISA000175,UK,Tourist,Philippines,2022-08-13,2022-10-04,52,Approved,Manila,No,Yes,Online
+VISA000176,Canada,Tourist,Brazil,2023-01-20,2023-03-31,70,Rejected,Sao Paulo,Yes,No,Offline
+VISA000177,Canada,Work,China,2023-01-12,2023-03-15,62,Approved,Mumbai,Yes,No,Offline
+VISA000178,Australia,Tourist,Nigeria,2022-10-10,2022-11-04,25,Approved,Dhaka,No,Yes,Offline
+VISA000179,Australia,Visiting,Nigeria,2023-09-25,2023-11-06,42,Approved,Mumbai,Yes,Yes,Online
+VISA000180,UK,Work,Brazil,2023-09-20,2023-11-13,54,Approved,Mumbai,Yes,Yes,Online
+VISA000181,Australia,Visiting,China,2022-09-16,2022-10-20,34,Approved,Beijing,Yes,Yes,Online
+VISA000182,Australia,Student,India,2022-12-25,2023-02-10,47,Approved,Chennai,Yes,Yes,Online
+VISA000183,Australia,Tourist,Bangladesh,2023-12-11,2024-01-14,34,Approved,Chennai,No,Yes,Online
+VISA000184,UK,Student,Bangladesh,2023-04-01,2023-05-20,49,Approved,Bengaluru,No,No,Online
+VISA000185,USA,Student,Brazil,2023-02-15,2023-04-05,49,Approved,Chennai,Yes,Yes,Online
+VISA000186,Australia,Tourist,China,2023-10-11,2023-12-10,60,Approved,Mumbai,Yes,No,Offline
+VISA000187,Australia,Work,China,2022-11-14,2023-01-06,53,Approved,Beijing,Yes,Yes,Online
+VISA000188,UK,Tourist,Nigeria,2023-11-08,2024-01-09,62,Approved,Manila,Yes,Yes,Online
+VISA000189,USA,Student,India,2022-08-13,2022-10-12,60,Approved,Bengaluru,Yes,No,Offline
+VISA000190,Australia,Student,Philippines,2022-08-22,2022-10-31,70,Rejected,Shanghai,Yes,Yes,Offline
+VISA000191,Canada,Work,China,2023-11-15,2024-01-22,68,Rejected,Manila,Yes,Yes,Offline
+VISA000192,UK,Tourist,Philippines,2023-10-26,2023-12-31,66,Rejected,Abuja,No,No,Online
+VISA000193,Australia,Student,Bangladesh,2023-01-09,2023-04-20,101,Rejected,Abuja,Yes,No,Offline
+VISA000194,Australia,Visiting,Philippines,2023-11-03,2024-01-02,60,Approved,Abuja,Yes,No,Online
+VISA000195,Canada,Student,India,2023-08-31,2023-12-02,93,Rejected,Abuja,Yes,Yes,Online
+VISA000196,Canada,Student,India,2023-04-17,2023-06-17,61,Approved,Beijing,No,Yes,Online
+VISA000197,UK,Work,Philippines,2022-08-21,2022-10-13,53,Approved,Manila,Yes,No,Online
+VISA000198,UK,Visiting,Brazil,2023-11-23,2024-01-11,49,Approved,Sao Paulo,Yes,No,Online
+VISA000199,Canada,Student,China,2022-04-23,2022-07-09,77,Rejected,Dhaka,Yes,Yes,Online
+VISA000200,UK,Student,Brazil,2023-05-12,2023-07-30,79,Rejected,Bengaluru,No,No,Online
+VISA000201,Canada,Visiting,Philippines,2023-03-18,2023-05-20,63,Approved,Shanghai,Yes,Yes,Online
+VISA000202,Australia,Tourist,China,2023-07-18,2023-09-28,72,Rejected,Mumbai,No,Yes,Online
+VISA000203,Canada,Tourist,Nigeria,2022-09-25,2022-10-30,35,Approved,Abuja,No,Yes,Offline
+VISA000204,Canada,Student,Brazil,2023-05-25,2023-06-25,31,Approved,Shanghai,No,Yes,Online
+VISA000205,USA,Student,Brazil,2023-01-21,2023-04-04,73,Rejected,Dhaka,Yes,Yes,Online
+VISA000206,Canada,Tourist,Philippines,2023-01-22,2023-03-16,53,Approved,Shanghai,Yes,Yes,Online
+VISA000207,Canada,Work,Bangladesh,2022-04-23,2022-06-28,66,Rejected,Manila,Yes,Yes,Offline
+VISA000208,USA,Visiting,Philippines,2023-09-05,2023-10-19,44,Approved,Shanghai,No,No,Offline
+VISA000209,UK,Visiting,Brazil,2023-09-17,2023-12-05,79,Rejected,Abuja,Yes,No,Online
+VISA000210,USA,Work,China,2022-03-22,2022-04-22,31,Approved,Dhaka,Yes,No,Online
+VISA000211,Australia,Work,Bangladesh,2023-11-30,2024-01-03,34,Approved,Mumbai,Yes,No,Online
+VISA000212,USA,Work,Philippines,2022-04-23,2022-07-08,76,Rejected,Sao Paulo,Yes,Yes,Offline
+VISA000213,Australia,Work,Philippines,2022-01-02,2022-01-17,15,Approved,Chennai,Yes,Yes,Offline
+VISA000214,UK,Work,Brazil,2023-10-04,2023-12-03,60,Approved,Abuja,Yes,No,Offline
+VISA000215,USA,Work,Brazil,2022-08-08,2022-09-30,53,Approved,Dhaka,Yes,Yes,Online
+VISA000216,USA,Visiting,Nigeria,2023-07-20,2023-09-01,43,Approved,Manila,No,Yes,Online
+VISA000217,UK,Work,Philippines,2022-08-13,2022-10-04,52,Approved,Beijing,Yes,Yes,Offline
+VISA000218,Australia,Tourist,Brazil,2023-01-20,2023-03-03,42,Approved,Dhaka,Yes,No,Online
+VISA000219,USA,Work,India,2023-02-07,2023-04-26,78,Rejected,Chennai,Yes,Yes,Online
+VISA000220,Australia,Work,Bangladesh,2023-09-30,2023-12-21,82,Rejected,Chennai,Yes,No,Online
+VISA000221,USA,Visiting,India,2022-05-10,2022-06-23,44,Approved,Bengaluru,No,Yes,Offline
+VISA000222,Canada,Visiting,Bangladesh,2022-02-22,2022-04-22,59,Approved,Sao Paulo,Yes,No,Online
+VISA000223,USA,Work,Philippines,2023-11-15,2023-12-20,35,Approved,Chennai,Yes,No,Online
+VISA000224,UK,Visiting,Nigeria,2023-12-31,2024-03-11,71,Rejected,Bengaluru,Yes,No,Online
+VISA000225,UK,Student,Brazil,2023-11-03,2024-01-12,70,Rejected,Bengaluru,No,Yes,Offline
+VISA000226,Australia,Visiting,Brazil,2023-12-11,2024-01-30,50,Approved,Bengaluru,Yes,Yes,Online
+VISA000227,USA,Visiting,Brazil,2023-02-20,2023-04-16,55,Approved,Dhaka,No,No,Online
+VISA000228,Australia,Visiting,Philippines,2022-09-04,2022-10-27,53,Approved,Bengaluru,Yes,Yes,Online
+VISA000229,Australia,Visiting,Bangladesh,2023-03-15,2023-04-14,30,Approved,Abuja,Yes,Yes,Offline
+VISA000230,Canada,Tourist,Brazil,2022-07-22,2022-10-08,78,Rejected,Abuja,Yes,Yes,Offline
+VISA000231,Canada,Tourist,India,2022-07-03,2022-08-15,43,Approved,Beijing,No,No,Offline
+VISA000232,UK,Tourist,Brazil,2022-05-03,2022-06-15,43,Approved,Chennai,Yes,Yes,Online
+VISA000233,Australia,Work,Philippines,2023-02-05,2023-03-29,52,Approved,Sao Paulo,No,No,Offline
+VISA000234,UK,Work,Nigeria,2022-10-21,2022-12-29,69,Rejected,Bengaluru,Yes,Yes,Online
+VISA000235,USA,Student,India,2022-10-07,2022-11-22,46,Approved,Manila,Yes,Yes,Online
+VISA000236,Australia,Tourist,Brazil,2023-09-02,2023-09-27,25,Approved,Manila,Yes,No,Online
+VISA000237,Australia,Work,Brazil,2022-07-17,2022-08-27,41,Approved,Chennai,No,Yes,Online
+VISA000238,USA,Visiting,China,2023-05-26,2023-07-26,61,Approved,Beijing,Yes,Yes,Offline
+VISA000239,USA,Visiting,Bangladesh,2022-05-24,2022-08-19,87,Rejected,Manila,No,No,Online
+VISA000240,UK,Tourist,India,2023-09-01,2023-10-07,36,Approved,Abuja,No,No,Online
+VISA000241,UK,Student,China,2022-07-20,2022-08-24,35,Approved,Shanghai,No,Yes,Online
+VISA000242,USA,Student,Nigeria,2022-05-04,2022-06-05,32,Approved,Dhaka,Yes,No,Online
+VISA000243,UK,Visiting,Bangladesh,2022-07-06,2022-08-05,30,Approved,Mumbai,Yes,No,Online
+VISA000244,USA,Student,India,2022-11-22,2023-02-03,73,Rejected,Manila,No,No,Online
+VISA000245,Australia,Tourist,Brazil,2023-04-09,2023-06-25,77,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000246,Australia,Visiting,India,2022-12-15,2023-02-10,57,Approved,Bengaluru,Yes,Yes,Online
+VISA000247,Canada,Work,Brazil,2023-10-22,2023-12-08,47,Approved,Sao Paulo,Yes,No,Online
+VISA000248,Australia,Work,Bangladesh,2023-02-07,2023-04-29,81,Rejected,Dhaka,Yes,No,Offline
+VISA000249,USA,Student,Brazil,2022-12-12,2023-02-07,57,Approved,Abuja,Yes,Yes,Online
+VISA000250,UK,Visiting,Nigeria,2023-05-26,2023-08-05,71,Rejected,Beijing,Yes,Yes,Offline
+VISA000251,Canada,Visiting,Philippines,2022-05-27,2022-07-13,47,Approved,Dhaka,Yes,Yes,Offline
+VISA000252,UK,Work,Brazil,2022-05-28,2022-07-22,55,Approved,Mumbai,Yes,Yes,Offline
+VISA000253,USA,Visiting,Nigeria,2023-12-12,2024-01-17,36,Approved,Shanghai,Yes,Yes,Online
+VISA000254,Australia,Visiting,Philippines,2023-05-04,2023-07-07,64,Approved,Manila,Yes,Yes,Online
+VISA000255,Canada,Visiting,Bangladesh,2023-10-02,2023-11-28,57,Approved,Beijing,Yes,No,Offline
+VISA000256,USA,Student,Bangladesh,2023-07-05,2023-08-15,41,Approved,Beijing,Yes,Yes,Online
+VISA000257,Canada,Visiting,India,2022-12-04,2023-01-14,41,Approved,Manila,Yes,No,Online
+VISA000258,Canada,Tourist,Nigeria,2023-10-03,2023-12-21,79,Rejected,Manila,Yes,Yes,Online
+VISA000259,Australia,Student,Nigeria,2023-04-18,2023-07-11,84,Rejected,Manila,Yes,Yes,Online
+VISA000260,USA,Visiting,China,2022-05-31,2022-07-21,51,Approved,Manila,No,Yes,Offline
+VISA000261,UK,Visiting,China,2023-02-19,2023-04-16,56,Approved,Manila,Yes,Yes,Online
+VISA000262,Canada,Tourist,Philippines,2022-10-25,2022-12-25,61,Approved,Beijing,No,No,Online
+VISA000263,Canada,Student,Philippines,2023-09-03,2023-10-30,57,Approved,Chennai,Yes,No,Online
+VISA000264,UK,Work,China,2022-09-20,2022-10-19,29,Approved,Chennai,Yes,Yes,Online
+VISA000265,USA,Work,Philippines,2022-05-24,2022-07-24,61,Approved,Sao Paulo,Yes,Yes,Online
+VISA000266,Canada,Student,Brazil,2022-12-12,2023-01-04,23,Approved,Chennai,Yes,Yes,Online
+VISA000267,Canada,Visiting,China,2023-09-16,2023-10-30,44,Approved,Mumbai,Yes,No,Online
+VISA000268,Canada,Visiting,Nigeria,2023-07-26,2023-09-26,62,Approved,Chennai,Yes,No,Online
+VISA000269,USA,Work,Brazil,2022-01-02,2022-03-06,63,Approved,Beijing,Yes,Yes,Offline
+VISA000270,USA,Work,Philippines,2022-10-31,2022-12-12,42,Approved,Manila,Yes,No,Online
+VISA000271,UK,Work,Bangladesh,2022-09-11,2022-10-29,48,Approved,Bengaluru,Yes,No,Online
+VISA000272,USA,Tourist,India,2023-10-14,2023-11-29,46,Approved,Bengaluru,No,Yes,Online
+VISA000273,USA,Work,China,2023-03-29,2023-05-21,53,Approved,Mumbai,Yes,Yes,Online
+VISA000274,Australia,Tourist,Bangladesh,2022-02-06,2022-04-01,54,Approved,Beijing,Yes,No,Offline
+VISA000275,UK,Student,Philippines,2022-06-09,2022-08-13,65,Approved,Abuja,Yes,No,Offline
+VISA000276,Canada,Visiting,Nigeria,2022-01-09,2022-02-25,47,Approved,Dhaka,Yes,Yes,Online
+VISA000277,USA,Work,India,2022-08-21,2022-10-20,60,Approved,Sao Paulo,No,Yes,Online
+VISA000278,Canada,Visiting,Bangladesh,2022-04-09,2022-06-10,62,Approved,Abuja,Yes,Yes,Online
+VISA000279,Canada,Visiting,India,2023-10-21,2023-12-17,57,Approved,Beijing,Yes,Yes,Online
+VISA000280,Australia,Work,China,2022-07-27,2022-09-16,51,Approved,Chennai,No,No,Online
+VISA000281,USA,Work,Philippines,2022-05-11,2022-07-07,57,Approved,Manila,Yes,Yes,Offline
+VISA000282,UK,Student,Nigeria,2023-02-08,2023-04-15,66,Rejected,Abuja,Yes,No,Online
+VISA000283,USA,Tourist,Philippines,2022-06-01,2022-08-07,67,Rejected,Dhaka,No,No,Offline
+VISA000284,Canada,Tourist,India,2022-02-23,2022-05-16,82,Rejected,Bengaluru,Yes,Yes,Online
+VISA000285,UK,Visiting,Bangladesh,2022-04-30,2022-06-09,40,Approved,Dhaka,Yes,Yes,Online
+VISA000286,USA,Work,China,2023-11-04,2023-12-22,48,Approved,Manila,Yes,Yes,Online
+VISA000287,Canada,Student,China,2023-09-20,2023-10-20,30,Approved,Chennai,Yes,No,Online
+VISA000288,Canada,Student,Philippines,2023-08-10,2023-10-17,68,Rejected,Dhaka,Yes,Yes,Online
+VISA000289,Australia,Student,Bangladesh,2023-09-17,2023-11-05,49,Approved,Sao Paulo,No,No,Online
+VISA000290,Australia,Student,Bangladesh,2023-02-24,2023-04-23,58,Approved,Dhaka,Yes,No,Online
+VISA000291,Australia,Student,India,2023-02-26,2023-04-12,45,Approved,Beijing,No,Yes,Online
+VISA000292,Canada,Tourist,Philippines,2022-04-14,2022-06-03,50,Approved,Chennai,No,No,Online
+VISA000293,USA,Tourist,Philippines,2022-09-11,2022-11-23,73,Rejected,Manila,Yes,No,Online
+VISA000294,Australia,Tourist,Brazil,2022-08-15,2022-10-19,65,Approved,Bengaluru,Yes,Yes,Online
+VISA000295,USA,Work,Philippines,2022-04-22,2022-06-14,53,Approved,Bengaluru,Yes,Yes,Online
+VISA000296,Australia,Visiting,China,2023-05-25,2023-07-30,66,Rejected,Dhaka,No,No,Online
+VISA000297,UK,Student,India,2023-04-18,2023-06-23,66,Rejected,Beijing,No,No,Online
+VISA000298,UK,Work,Bangladesh,2022-04-09,2022-05-28,49,Approved,Abuja,Yes,Yes,Online
+VISA000299,Australia,Student,Philippines,2022-06-02,2022-07-04,32,Approved,Abuja,Yes,Yes,Online
+VISA000300,Canada,Tourist,India,2022-12-04,2023-01-14,41,Approved,Beijing,Yes,Yes,Offline
+VISA000301,Australia,Work,Philippines,2023-12-07,2024-01-10,34,Approved,Sao Paulo,No,No,Online
+VISA000302,Australia,Tourist,Bangladesh,2022-06-12,2022-08-23,72,Rejected,Abuja,Yes,Yes,Online
+VISA000303,Canada,Student,Nigeria,2023-12-21,2024-03-05,75,Rejected,Abuja,Yes,Yes,Offline
+VISA000304,UK,Student,Bangladesh,2023-11-12,2024-01-29,78,Rejected,Manila,No,No,Online
+VISA000305,USA,Visiting,Bangladesh,2022-06-10,2022-07-04,24,Approved,Manila,Yes,Yes,Online
+VISA000306,Australia,Student,Bangladesh,2023-08-03,2023-10-13,71,Rejected,Chennai,Yes,No,Offline
+VISA000307,Canada,Tourist,Philippines,2023-02-02,2023-05-01,88,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000308,Australia,Student,Brazil,2022-10-04,2022-12-14,71,Rejected,Sao Paulo,Yes,No,Offline
+VISA000309,Canada,Visiting,Bangladesh,2023-05-19,2023-06-10,22,Approved,Chennai,Yes,Yes,Online
+VISA000310,USA,Visiting,China,2023-01-27,2023-04-18,81,Rejected,Sao Paulo,No,No,Online
+VISA000311,USA,Tourist,China,2022-05-15,2022-07-09,55,Approved,Mumbai,Yes,No,Offline
+VISA000312,UK,Work,India,2022-07-14,2022-09-03,51,Approved,Shanghai,Yes,Yes,Online
+VISA000313,Canada,Student,Brazil,2023-02-05,2023-04-07,61,Approved,Manila,Yes,Yes,Online
+VISA000314,Canada,Visiting,India,2023-10-02,2023-11-10,39,Approved,Chennai,Yes,Yes,Online
+VISA000315,UK,Student,China,2022-02-02,2022-03-29,55,Approved,Chennai,Yes,Yes,Online
+VISA000316,UK,Student,China,2023-11-19,2024-02-06,79,Rejected,Sao Paulo,No,No,Online
+VISA000317,Canada,Work,Nigeria,2023-04-05,2023-06-08,64,Approved,Abuja,No,No,Online
+VISA000318,UK,Visiting,Bangladesh,2023-04-15,2023-06-09,55,Approved,Bengaluru,Yes,Yes,Online
+VISA000319,USA,Student,China,2023-01-10,2023-03-07,56,Approved,Dhaka,Yes,No,Online
+VISA000320,Australia,Visiting,Philippines,2022-01-22,2022-02-28,37,Approved,Dhaka,Yes,No,Online
+VISA000321,USA,Tourist,Philippines,2023-11-01,2023-12-23,52,Approved,Chennai,No,No,Online
+VISA000322,UK,Tourist,India,2022-02-07,2022-03-09,30,Approved,Mumbai,Yes,Yes,Online
+VISA000323,Canada,Student,India,2022-08-18,2022-10-27,70,Rejected,Chennai,No,Yes,Offline
+VISA000324,Canada,Visiting,Bangladesh,2022-12-31,2023-01-22,22,Approved,Manila,Yes,Yes,Online
+VISA000325,USA,Student,Bangladesh,2023-07-17,2023-09-22,67,Rejected,Sao Paulo,No,Yes,Online
+VISA000326,Canada,Visiting,Nigeria,2023-03-14,2023-05-22,69,Rejected,Sao Paulo,No,Yes,Offline
+VISA000327,UK,Visiting,Brazil,2022-10-10,2022-12-23,74,Rejected,Mumbai,No,Yes,Offline
+VISA000328,USA,Work,India,2022-01-27,2022-03-24,56,Approved,Manila,Yes,Yes,Online
+VISA000329,Canada,Work,Bangladesh,2022-08-14,2022-10-21,68,Rejected,Bengaluru,Yes,No,Offline
+VISA000330,Australia,Work,India,2022-10-04,2022-11-25,52,Approved,Abuja,Yes,Yes,Online
+VISA000331,Australia,Student,Bangladesh,2023-09-01,2023-10-08,37,Approved,Manila,No,Yes,Offline
+VISA000332,UK,Work,China,2022-10-11,2022-12-27,77,Rejected,Beijing,Yes,Yes,Online
+VISA000333,Canada,Work,India,2023-04-26,2023-06-18,53,Approved,Shanghai,No,Yes,Online
+VISA000334,UK,Tourist,China,2023-03-29,2023-05-01,33,Approved,Chennai,No,Yes,Online
+VISA000335,USA,Visiting,India,2023-10-21,2023-12-07,47,Approved,Beijing,Yes,Yes,Offline
+VISA000336,Australia,Visiting,Brazil,2023-05-31,2023-07-18,48,Approved,Mumbai,No,Yes,Online
+VISA000337,USA,Work,Nigeria,2023-07-01,2023-08-31,61,Approved,Beijing,Yes,Yes,Online
+VISA000338,Canada,Visiting,Philippines,2022-07-11,2022-10-09,90,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000339,UK,Tourist,Philippines,2022-02-18,2022-04-21,62,Approved,Abuja,Yes,Yes,Offline
+VISA000340,UK,Tourist,Philippines,2023-05-27,2023-07-24,58,Approved,Dhaka,Yes,No,Offline
+VISA000341,UK,Work,China,2022-01-17,2022-04-18,91,Rejected,Chennai,No,Yes,Online
+VISA000342,USA,Tourist,Bangladesh,2022-06-21,2022-08-29,69,Rejected,Dhaka,Yes,Yes,Online
+VISA000343,Australia,Visiting,Philippines,2022-08-08,2022-10-05,58,Approved,Sao Paulo,Yes,Yes,Online
+VISA000344,USA,Student,Brazil,2022-06-07,2022-07-24,47,Approved,Sao Paulo,Yes,Yes,Online
+VISA000345,USA,Visiting,Philippines,2023-04-22,2023-06-20,59,Approved,Chennai,No,Yes,Offline
+VISA000346,Canada,Student,India,2022-02-15,2022-04-10,54,Approved,Dhaka,Yes,Yes,Online
+VISA000347,Canada,Work,China,2023-01-08,2023-03-05,56,Approved,Manila,No,No,Online
+VISA000348,Canada,Student,India,2023-06-02,2023-08-15,74,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000349,Australia,Tourist,India,2022-04-09,2022-05-25,46,Approved,Dhaka,Yes,Yes,Online
+VISA000350,Australia,Visiting,India,2022-02-06,2022-04-09,62,Approved,Bengaluru,Yes,No,Online
+VISA000351,Canada,Student,Nigeria,2022-10-07,2022-12-15,69,Rejected,Dhaka,Yes,No,Online
+VISA000352,Canada,Visiting,Nigeria,2022-12-15,2023-01-29,45,Approved,Bengaluru,No,Yes,Online
+VISA000353,Australia,Work,Bangladesh,2023-05-12,2023-06-23,42,Approved,Bengaluru,Yes,Yes,Online
+VISA000354,UK,Work,China,2022-10-29,2022-12-20,52,Approved,Sao Paulo,No,Yes,Online
+VISA000355,Australia,Tourist,Brazil,2022-06-30,2022-08-17,48,Approved,Chennai,Yes,Yes,Online
+VISA000356,Australia,Work,Brazil,2023-08-30,2023-11-10,72,Rejected,Mumbai,Yes,Yes,Online
+VISA000357,Australia,Student,Brazil,2022-04-09,2022-05-18,39,Approved,Sao Paulo,No,Yes,Offline
+VISA000358,Canada,Work,India,2023-12-01,2024-01-26,56,Approved,Chennai,No,No,Online
+VISA000359,UK,Tourist,Nigeria,2022-04-26,2022-07-28,93,Rejected,Chennai,Yes,Yes,Online
+VISA000360,Australia,Visiting,China,2022-07-10,2022-09-09,61,Approved,Beijing,Yes,Yes,Online
+VISA000361,Canada,Visiting,India,2022-09-10,2022-11-12,63,Approved,Shanghai,Yes,Yes,Online
+VISA000362,USA,Work,Nigeria,2022-06-10,2022-08-21,72,Rejected,Sao Paulo,Yes,No,Online
+VISA000363,USA,Student,Nigeria,2022-09-13,2022-10-31,48,Approved,Chennai,No,Yes,Online
+VISA000364,Australia,Tourist,Philippines,2022-11-19,2022-12-27,38,Approved,Beijing,No,No,Online
+VISA000365,USA,Student,Philippines,2022-05-08,2022-07-04,57,Approved,Bengaluru,Yes,Yes,Online
+VISA000366,UK,Tourist,China,2022-01-18,2022-03-17,58,Approved,Mumbai,No,Yes,Online
+VISA000367,USA,Work,China,2023-07-20,2023-08-19,30,Approved,Mumbai,Yes,Yes,Offline
+VISA000368,USA,Tourist,China,2023-07-24,2023-09-22,60,Approved,Bengaluru,Yes,Yes,Offline
+VISA000369,UK,Tourist,India,2022-11-19,2023-01-29,71,Rejected,Dhaka,Yes,Yes,Online
+VISA000370,Australia,Work,Bangladesh,2023-11-17,2023-12-28,41,Approved,Dhaka,Yes,Yes,Online
+VISA000371,Australia,Student,China,2023-09-18,2023-11-18,61,Approved,Sao Paulo,Yes,Yes,Online
+VISA000372,UK,Work,Philippines,2022-10-15,2022-12-22,68,Rejected,Shanghai,Yes,No,Online
+VISA000373,UK,Tourist,Bangladesh,2023-10-25,2023-12-27,63,Approved,Beijing,Yes,Yes,Online
+VISA000374,UK,Work,India,2023-10-01,2023-12-05,65,Approved,Mumbai,Yes,Yes,Offline
+VISA000375,USA,Tourist,Bangladesh,2022-06-04,2022-07-25,51,Approved,Abuja,No,Yes,Online
+VISA000376,UK,Work,Brazil,2023-05-05,2023-06-12,38,Approved,Abuja,Yes,No,Offline
+VISA000377,Canada,Visiting,Bangladesh,2023-01-21,2023-03-10,48,Approved,Manila,Yes,No,Online
+VISA000378,USA,Visiting,China,2022-04-14,2022-05-30,46,Approved,Chennai,No,Yes,Offline
+VISA000379,Australia,Work,India,2023-01-28,2023-03-22,53,Approved,Bengaluru,No,Yes,Online
+VISA000380,Australia,Student,China,2022-09-03,2022-11-13,71,Rejected,Chennai,No,Yes,Online
+VISA000381,Australia,Tourist,Philippines,2022-06-25,2022-07-30,35,Approved,Chennai,Yes,No,Online
+VISA000382,USA,Visiting,Brazil,2022-02-08,2022-04-06,57,Approved,Beijing,Yes,No,Online
+VISA000383,Canada,Student,Philippines,2023-04-22,2023-05-31,39,Approved,Manila,Yes,Yes,Online
+VISA000384,UK,Tourist,China,2023-11-13,2023-12-26,43,Approved,Shanghai,Yes,Yes,Online
+VISA000385,UK,Visiting,China,2023-06-22,2023-08-24,63,Approved,Manila,No,Yes,Online
+VISA000386,Australia,Visiting,China,2023-02-12,2023-03-21,37,Approved,Mumbai,Yes,Yes,Online
+VISA000387,Australia,Work,Nigeria,2023-06-09,2023-08-14,66,Rejected,Beijing,Yes,No,Offline
+VISA000388,USA,Tourist,Brazil,2023-05-21,2023-06-24,34,Approved,Chennai,Yes,Yes,Online
+VISA000389,Canada,Student,China,2022-02-05,2022-04-11,65,Approved,Shanghai,Yes,Yes,Online
+VISA000390,UK,Student,China,2023-11-16,2023-12-17,31,Approved,Chennai,No,No,Online
+VISA000391,USA,Student,Philippines,2022-01-20,2022-03-06,45,Approved,Sao Paulo,Yes,No,Offline
+VISA000392,UK,Tourist,Philippines,2022-11-17,2023-02-08,83,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000393,Australia,Student,China,2023-05-27,2023-08-15,80,Rejected,Dhaka,Yes,No,Online
+VISA000394,UK,Student,India,2023-02-04,2023-03-24,48,Approved,Manila,Yes,Yes,Online
+VISA000395,Canada,Student,Nigeria,2023-10-16,2023-12-15,60,Approved,Shanghai,Yes,No,Offline
+VISA000396,Canada,Work,Philippines,2023-04-16,2023-06-28,73,Rejected,Sao Paulo,Yes,No,Offline
+VISA000397,Australia,Work,India,2022-05-23,2022-07-27,65,Approved,Dhaka,Yes,Yes,Online
+VISA000398,Canada,Tourist,Nigeria,2022-04-02,2022-05-22,50,Approved,Beijing,No,No,Online
+VISA000399,Canada,Tourist,China,2022-12-20,2023-02-01,43,Approved,Shanghai,No,No,Online
+VISA000400,USA,Student,Brazil,2023-12-28,2024-03-05,68,Rejected,Dhaka,No,Yes,Online
+VISA000401,UK,Work,Bangladesh,2022-02-20,2022-05-02,71,Rejected,Bengaluru,No,Yes,Online
+VISA000402,Australia,Visiting,Bangladesh,2023-10-27,2024-01-15,80,Rejected,Shanghai,Yes,No,Online
+VISA000403,Australia,Visiting,China,2023-11-29,2023-12-28,29,Approved,Dhaka,Yes,Yes,Offline
+VISA000404,Australia,Student,Philippines,2023-07-29,2023-09-03,36,Approved,Chennai,Yes,Yes,Online
+VISA000405,Australia,Student,India,2022-07-09,2022-09-19,72,Rejected,Bengaluru,No,No,Online
+VISA000406,Australia,Work,Brazil,2022-05-05,2022-06-05,31,Approved,Sao Paulo,No,No,Online
+VISA000407,Canada,Work,Nigeria,2022-05-30,2022-08-11,73,Rejected,Abuja,No,Yes,Online
+VISA000408,USA,Work,China,2022-11-10,2022-12-31,51,Approved,Dhaka,Yes,Yes,Offline
+VISA000409,Australia,Tourist,Brazil,2023-07-24,2023-09-09,47,Approved,Beijing,No,Yes,Online
+VISA000410,USA,Tourist,Brazil,2022-12-08,2023-02-04,58,Approved,Dhaka,Yes,Yes,Online
+VISA000411,USA,Student,Philippines,2022-11-01,2022-12-05,34,Approved,Abuja,Yes,Yes,Online
+VISA000412,Canada,Tourist,Nigeria,2023-11-23,2024-01-29,67,Rejected,Bengaluru,Yes,No,Online
+VISA000413,Australia,Work,Brazil,2023-11-13,2024-02-01,80,Rejected,Bengaluru,Yes,Yes,Offline
+VISA000414,Canada,Work,Philippines,2022-02-23,2022-05-02,68,Rejected,Shanghai,Yes,Yes,Online
+VISA000415,Australia,Tourist,India,2023-03-20,2023-05-10,51,Approved,Beijing,Yes,Yes,Offline
+VISA000416,Canada,Visiting,Philippines,2023-09-05,2023-10-06,31,Approved,Beijing,Yes,No,Online
+VISA000417,USA,Student,India,2022-09-21,2022-10-23,32,Approved,Beijing,Yes,Yes,Offline
+VISA000418,Australia,Visiting,India,2022-02-22,2022-03-29,35,Approved,Abuja,No,Yes,Online
+VISA000419,UK,Student,Brazil,2023-07-26,2023-09-18,54,Approved,Beijing,Yes,Yes,Offline
+VISA000420,USA,Visiting,Philippines,2023-09-12,2023-11-07,56,Approved,Mumbai,Yes,Yes,Online
+VISA000421,UK,Tourist,India,2022-01-05,2022-03-14,68,Rejected,Abuja,No,Yes,Online
+VISA000422,USA,Student,Nigeria,2022-04-13,2022-05-11,28,Approved,Bengaluru,No,Yes,Online
+VISA000423,Canada,Student,Brazil,2022-07-15,2022-09-27,74,Rejected,Abuja,Yes,Yes,Online
+VISA000424,Australia,Student,Philippines,2022-12-16,2023-02-19,65,Approved,Chennai,Yes,Yes,Online
+VISA000425,USA,Work,Philippines,2022-02-16,2022-04-07,50,Approved,Chennai,Yes,Yes,Online
+VISA000426,Canada,Work,Bangladesh,2023-10-18,2023-11-24,37,Approved,Beijing,Yes,Yes,Offline
+VISA000427,Australia,Visiting,Philippines,2022-09-26,2022-12-08,73,Rejected,Bengaluru,Yes,Yes,Online
+VISA000428,Australia,Tourist,Brazil,2023-01-05,2023-02-24,50,Approved,Abuja,No,Yes,Offline
+VISA000429,USA,Work,Nigeria,2023-09-28,2023-11-21,54,Approved,Abuja,Yes,Yes,Offline
+VISA000430,Australia,Student,Philippines,2022-04-16,2022-06-15,60,Approved,Abuja,No,Yes,Online
+VISA000431,USA,Work,Bangladesh,2023-11-01,2023-12-12,41,Approved,Mumbai,No,No,Online
+VISA000432,Australia,Tourist,Brazil,2023-10-21,2023-12-10,50,Approved,Chennai,No,Yes,Online
+VISA000433,UK,Work,India,2023-10-19,2023-12-25,67,Rejected,Abuja,Yes,Yes,Online
+VISA000434,Canada,Student,China,2022-04-30,2022-07-05,66,Rejected,Mumbai,No,Yes,Online
+VISA000435,UK,Visiting,China,2023-08-27,2023-11-01,66,Rejected,Chennai,Yes,No,Offline
+VISA000436,USA,Student,India,2022-02-27,2022-04-05,37,Approved,Mumbai,Yes,No,Online
+VISA000437,UK,Tourist,Philippines,2022-12-12,2023-02-01,51,Approved,Shanghai,Yes,Yes,Online
+VISA000438,USA,Visiting,China,2023-04-19,2023-06-07,49,Approved,Chennai,Yes,Yes,Online
+VISA000439,Australia,Work,China,2022-04-27,2022-06-27,61,Approved,Sao Paulo,No,Yes,Offline
+VISA000440,Australia,Work,India,2022-05-07,2022-07-06,60,Approved,Shanghai,Yes,Yes,Online
+VISA000441,USA,Work,Philippines,2023-01-28,2023-03-26,57,Approved,Abuja,Yes,Yes,Online
+VISA000442,UK,Visiting,Philippines,2023-10-03,2024-01-02,91,Rejected,Bengaluru,Yes,No,Online
+VISA000443,Australia,Student,India,2022-02-27,2022-04-18,50,Approved,Mumbai,Yes,Yes,Online
+VISA000444,Canada,Visiting,Philippines,2023-09-26,2023-11-13,48,Approved,Mumbai,Yes,No,Offline
+VISA000445,Australia,Visiting,Philippines,2023-05-28,2023-07-04,37,Approved,Mumbai,No,Yes,Offline
+VISA000446,Canada,Tourist,Brazil,2022-04-06,2022-05-07,31,Approved,Mumbai,Yes,No,Online
+VISA000447,UK,Visiting,Brazil,2023-09-30,2023-11-05,36,Approved,Bengaluru,Yes,No,Online
+VISA000448,Canada,Work,India,2022-04-28,2022-06-11,44,Approved,Dhaka,Yes,Yes,Online
+VISA000449,Canada,Student,Nigeria,2023-07-14,2023-09-26,74,Rejected,Mumbai,Yes,Yes,Online
+VISA000450,Canada,Student,China,2023-08-24,2023-10-18,55,Approved,Dhaka,Yes,Yes,Online
+VISA000451,Canada,Student,Brazil,2023-05-03,2023-06-29,57,Approved,Bengaluru,Yes,Yes,Online
+VISA000452,Australia,Work,China,2022-08-25,2022-10-17,53,Approved,Bengaluru,No,Yes,Online
+VISA000453,Canada,Work,Bangladesh,2022-09-29,2022-11-28,60,Approved,Shanghai,Yes,Yes,Offline
+VISA000454,Australia,Work,India,2022-07-08,2022-09-22,76,Rejected,Chennai,Yes,Yes,Online
+VISA000455,Canada,Work,Nigeria,2023-12-05,2023-12-30,25,Approved,Sao Paulo,Yes,No,Offline
+VISA000456,USA,Work,Bangladesh,2023-03-23,2023-06-04,73,Rejected,Beijing,No,Yes,Online
+VISA000457,UK,Visiting,Bangladesh,2023-08-04,2023-08-21,17,Approved,Sao Paulo,Yes,No,Online
+VISA000458,Canada,Work,Philippines,2022-09-04,2022-10-29,55,Approved,Beijing,Yes,Yes,Offline
+VISA000459,USA,Work,Bangladesh,2022-03-17,2022-06-12,87,Rejected,Bengaluru,No,No,Online
+VISA000460,Canada,Work,India,2022-06-03,2022-08-07,65,Approved,Sao Paulo,Yes,Yes,Online
+VISA000461,Canada,Work,Brazil,2023-10-18,2023-12-17,60,Approved,Manila,Yes,Yes,Online
+VISA000462,Canada,Student,India,2023-03-11,2023-06-04,85,Rejected,Chennai,Yes,No,Online
+VISA000463,USA,Work,Brazil,2022-03-27,2022-05-10,44,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000464,UK,Visiting,Bangladesh,2023-11-28,2024-01-28,61,Approved,Chennai,Yes,No,Offline
+VISA000465,USA,Visiting,Bangladesh,2022-10-12,2022-12-14,63,Approved,Dhaka,Yes,Yes,Online
+VISA000466,UK,Visiting,Nigeria,2022-08-08,2022-09-24,47,Approved,Chennai,Yes,Yes,Online
+VISA000467,Canada,Tourist,Brazil,2022-03-10,2022-04-27,48,Approved,Dhaka,Yes,Yes,Online
+VISA000468,Australia,Student,Bangladesh,2022-02-16,2022-04-03,46,Approved,Mumbai,Yes,No,Online
+VISA000469,Canada,Work,Philippines,2022-04-04,2022-05-30,56,Approved,Dhaka,No,Yes,Online
+VISA000470,UK,Tourist,China,2023-03-29,2023-05-31,63,Approved,Shanghai,No,No,Online
+VISA000471,USA,Work,Nigeria,2022-07-23,2022-09-17,56,Approved,Mumbai,No,No,Online
+VISA000472,Canada,Tourist,India,2022-08-06,2022-10-10,65,Approved,Bengaluru,Yes,Yes,Online
+VISA000473,USA,Tourist,Nigeria,2023-04-19,2023-05-14,25,Approved,Abuja,Yes,Yes,Online
+VISA000474,USA,Visiting,China,2023-03-08,2023-04-28,51,Approved,Dhaka,Yes,No,Online
+VISA000475,USA,Visiting,Brazil,2022-12-07,2023-01-15,39,Approved,Dhaka,Yes,Yes,Online
+VISA000476,Canada,Tourist,India,2023-07-05,2023-09-02,59,Approved,Chennai,No,Yes,Offline
+VISA000477,USA,Visiting,India,2023-09-04,2023-11-02,59,Approved,Bengaluru,Yes,Yes,Offline
+VISA000478,USA,Tourist,Brazil,2022-10-16,2022-12-08,53,Approved,Sao Paulo,Yes,Yes,Online
+VISA000479,Canada,Student,Nigeria,2022-09-11,2022-11-12,62,Approved,Manila,Yes,Yes,Online
+VISA000480,USA,Visiting,Bangladesh,2022-12-23,2023-03-02,69,Rejected,Beijing,Yes,Yes,Offline
+VISA000481,Canada,Visiting,Nigeria,2022-01-23,2022-03-18,54,Approved,Dhaka,Yes,No,Offline
+VISA000482,UK,Visiting,China,2023-06-06,2023-07-15,39,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000483,UK,Student,Philippines,2022-04-10,2022-05-11,31,Approved,Manila,Yes,Yes,Online
+VISA000484,UK,Tourist,Bangladesh,2022-06-29,2022-08-23,55,Approved,Beijing,No,No,Offline
+VISA000485,USA,Work,Nigeria,2022-08-11,2022-10-08,58,Approved,Abuja,Yes,No,Online
+VISA000486,Australia,Visiting,Philippines,2023-10-21,2023-11-30,40,Approved,Chennai,No,No,Online
+VISA000487,Australia,Tourist,Philippines,2023-03-18,2023-05-22,65,Approved,Sao Paulo,No,Yes,Offline
+VISA000488,USA,Student,Brazil,2023-08-31,2023-10-18,48,Approved,Chennai,Yes,No,Online
+VISA000489,Australia,Work,China,2022-11-21,2022-12-21,30,Approved,Beijing,No,Yes,Offline
+VISA000490,Canada,Visiting,China,2023-05-31,2023-08-12,73,Rejected,Shanghai,Yes,Yes,Online
+VISA000491,Australia,Student,China,2022-01-16,2022-03-29,72,Rejected,Dhaka,No,Yes,Offline
+VISA000492,USA,Student,Bangladesh,2022-12-02,2022-12-26,24,Approved,Mumbai,Yes,Yes,Online
+VISA000493,USA,Work,India,2022-09-15,2022-10-31,46,Approved,Manila,Yes,No,Offline
+VISA000494,Canada,Tourist,Bangladesh,2023-05-12,2023-06-26,45,Approved,Bengaluru,Yes,Yes,Online
+VISA000495,UK,Visiting,Nigeria,2022-06-09,2022-08-27,79,Rejected,Dhaka,Yes,No,Online
+VISA000496,USA,Visiting,Philippines,2023-04-20,2023-06-12,53,Approved,Mumbai,No,No,Online
+VISA000497,Canada,Tourist,Philippines,2023-10-26,2023-11-27,32,Approved,Sao Paulo,Yes,Yes,Online
+VISA000498,Australia,Tourist,India,2023-11-21,2024-01-28,68,Rejected,Abuja,Yes,Yes,Online
+VISA000499,Australia,Tourist,Nigeria,2023-11-06,2023-12-12,36,Approved,Dhaka,Yes,Yes,Online
+VISA000500,Canada,Work,India,2023-01-15,2023-03-07,51,Approved,Chennai,No,Yes,Online
+VISA000501,Canada,Work,Philippines,2023-06-29,2023-08-11,43,Approved,Shanghai,Yes,Yes,Online
+VISA000502,USA,Visiting,Bangladesh,2023-11-22,2024-01-07,46,Approved,Bengaluru,Yes,No,Online
+VISA000503,Australia,Work,China,2023-03-03,2023-05-11,69,Rejected,Chennai,Yes,Yes,Offline
+VISA000504,Canada,Student,Philippines,2023-09-05,2023-11-21,77,Rejected,Mumbai,No,Yes,Online
+VISA000505,Australia,Visiting,Brazil,2022-09-25,2022-10-30,35,Approved,Dhaka,Yes,No,Online
+VISA000506,Canada,Work,China,2023-07-31,2023-10-03,64,Approved,Shanghai,Yes,Yes,Online
+VISA000507,Australia,Tourist,Philippines,2023-02-21,2023-04-06,44,Approved,Dhaka,Yes,No,Online
+VISA000508,UK,Student,Bangladesh,2022-06-17,2022-07-31,44,Approved,Sao Paulo,No,Yes,Online
+VISA000509,USA,Tourist,India,2022-02-12,2022-04-15,62,Approved,Abuja,Yes,Yes,Online
+VISA000510,Australia,Visiting,China,2023-07-10,2023-08-18,39,Approved,Beijing,Yes,Yes,Offline
+VISA000511,UK,Tourist,Bangladesh,2022-10-12,2022-12-13,62,Approved,Dhaka,Yes,Yes,Online
+VISA000512,Australia,Work,Nigeria,2023-02-01,2023-04-07,65,Approved,Mumbai,No,Yes,Online
+VISA000513,Australia,Work,Brazil,2022-01-12,2022-03-01,48,Approved,Chennai,No,No,Online
+VISA000514,UK,Visiting,China,2023-08-30,2023-11-12,74,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000515,Australia,Tourist,India,2022-10-29,2022-12-03,35,Approved,Mumbai,Yes,No,Online
+VISA000516,Australia,Visiting,Nigeria,2022-09-10,2022-11-24,75,Rejected,Bengaluru,Yes,Yes,Offline
+VISA000517,USA,Tourist,Bangladesh,2023-05-14,2023-06-08,25,Approved,Beijing,Yes,Yes,Online
+VISA000518,UK,Student,Brazil,2022-02-04,2022-05-10,95,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000519,UK,Work,India,2023-12-28,2024-02-14,48,Approved,Abuja,Yes,No,Online
+VISA000520,Canada,Visiting,Bangladesh,2022-03-31,2022-05-07,37,Approved,Beijing,Yes,Yes,Offline
+VISA000521,Australia,Student,Bangladesh,2023-08-28,2023-10-18,51,Approved,Mumbai,No,Yes,Online
+VISA000522,USA,Student,China,2023-08-25,2023-10-03,39,Approved,Bengaluru,Yes,No,Online
+VISA000523,Australia,Visiting,China,2023-02-22,2023-04-23,60,Approved,Manila,Yes,Yes,Online
+VISA000524,Australia,Visiting,India,2022-04-25,2022-07-09,75,Rejected,Abuja,Yes,No,Online
+VISA000525,Canada,Student,Philippines,2023-09-09,2023-10-19,40,Approved,Shanghai,Yes,Yes,Offline
+VISA000526,Australia,Tourist,Philippines,2022-07-15,2022-09-16,63,Approved,Manila,Yes,No,Online
+VISA000527,USA,Student,Bangladesh,2023-05-16,2023-06-17,32,Approved,Dhaka,Yes,No,Online
+VISA000528,USA,Visiting,China,2023-09-18,2023-11-27,70,Rejected,Bengaluru,Yes,No,Offline
+VISA000529,Canada,Student,Brazil,2023-05-08,2023-07-08,61,Approved,Chennai,No,Yes,Online
+VISA000530,Australia,Tourist,Brazil,2022-03-16,2022-05-26,71,Rejected,Shanghai,No,Yes,Online
+VISA000531,USA,Work,Bangladesh,2023-02-17,2023-04-11,53,Approved,Mumbai,Yes,No,Online
+VISA000532,Australia,Work,China,2023-01-11,2023-02-28,48,Approved,Bengaluru,Yes,Yes,Online
+VISA000533,Australia,Student,India,2023-02-24,2023-05-02,67,Rejected,Beijing,Yes,Yes,Online
+VISA000534,Australia,Tourist,India,2023-12-30,2024-02-03,35,Approved,Sao Paulo,Yes,No,Offline
+VISA000535,Canada,Work,India,2022-10-04,2022-11-01,28,Approved,Beijing,Yes,Yes,Online
+VISA000536,Australia,Student,Brazil,2023-11-07,2023-12-31,54,Approved,Beijing,No,Yes,Online
+VISA000537,USA,Student,China,2023-01-29,2023-03-19,49,Approved,Dhaka,No,Yes,Offline
+VISA000538,Australia,Tourist,China,2023-04-02,2023-06-04,63,Approved,Abuja,No,Yes,Online
+VISA000539,USA,Visiting,Brazil,2022-07-11,2022-09-20,71,Rejected,Chennai,Yes,Yes,Online
+VISA000540,Australia,Student,India,2023-11-20,2024-01-21,62,Approved,Shanghai,No,No,Online
+VISA000541,USA,Visiting,India,2022-04-09,2022-06-18,70,Rejected,Abuja,No,Yes,Offline
+VISA000542,USA,Visiting,Bangladesh,2023-07-02,2023-08-30,59,Approved,Bengaluru,Yes,No,Offline
+VISA000543,Australia,Work,Philippines,2022-04-06,2022-06-07,62,Approved,Beijing,Yes,No,Offline
+VISA000544,Australia,Visiting,Nigeria,2023-10-26,2023-12-18,53,Approved,Dhaka,No,No,Offline
+VISA000545,USA,Tourist,Philippines,2023-10-25,2023-12-25,61,Approved,Bengaluru,Yes,Yes,Online
+VISA000546,UK,Work,China,2022-07-09,2022-09-04,57,Approved,Sao Paulo,Yes,No,Online
+VISA000547,Canada,Work,China,2022-02-06,2022-04-06,59,Approved,Chennai,Yes,Yes,Offline
+VISA000548,UK,Work,China,2023-01-04,2023-02-25,52,Approved,Shanghai,Yes,Yes,Online
+VISA000549,UK,Student,Philippines,2023-11-26,2024-02-01,67,Rejected,Sao Paulo,Yes,No,Online
+VISA000550,Australia,Student,Nigeria,2023-06-09,2023-07-23,44,Approved,Dhaka,No,Yes,Online
+VISA000551,Canada,Visiting,Bangladesh,2022-10-06,2022-11-29,54,Approved,Chennai,Yes,No,Online
+VISA000552,UK,Work,Philippines,2022-08-05,2022-10-18,74,Rejected,Bengaluru,Yes,Yes,Offline
+VISA000553,Australia,Work,Nigeria,2022-09-30,2022-11-09,40,Approved,Beijing,Yes,No,Online
+VISA000554,UK,Tourist,India,2022-03-03,2022-03-25,22,Approved,Beijing,Yes,Yes,Online
+VISA000555,UK,Visiting,India,2023-08-19,2023-10-18,60,Approved,Beijing,Yes,No,Offline
+VISA000556,Australia,Tourist,China,2023-12-30,2024-02-19,51,Approved,Manila,Yes,Yes,Online
+VISA000557,Australia,Visiting,Brazil,2022-12-08,2023-02-16,70,Rejected,Beijing,Yes,Yes,Online
+VISA000558,Australia,Visiting,China,2023-02-01,2023-03-26,53,Approved,Manila,Yes,Yes,Online
+VISA000559,Canada,Student,Brazil,2023-11-30,2024-01-14,45,Approved,Mumbai,Yes,Yes,Offline
+VISA000560,UK,Student,Nigeria,2022-01-19,2022-03-13,53,Approved,Manila,Yes,Yes,Offline
+VISA000561,Australia,Tourist,India,2022-06-26,2022-09-05,71,Rejected,Chennai,Yes,Yes,Offline
+VISA000562,USA,Visiting,Philippines,2023-09-04,2023-11-06,63,Approved,Sao Paulo,Yes,Yes,Online
+VISA000563,UK,Work,Brazil,2023-01-31,2023-02-18,18,Approved,Chennai,No,Yes,Online
+VISA000564,USA,Student,Nigeria,2023-03-21,2023-05-17,57,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000565,Canada,Work,India,2022-08-21,2022-10-18,58,Approved,Mumbai,Yes,No,Offline
+VISA000566,Australia,Tourist,Philippines,2022-03-17,2022-05-10,54,Approved,Sao Paulo,Yes,No,Online
+VISA000567,USA,Student,Brazil,2022-09-22,2022-11-06,45,Approved,Sao Paulo,Yes,No,Online
+VISA000568,Canada,Student,China,2023-03-31,2023-06-11,72,Rejected,Dhaka,No,No,Offline
+VISA000569,Australia,Visiting,China,2023-12-19,2024-03-01,73,Rejected,Abuja,Yes,Yes,Offline
+VISA000570,USA,Tourist,China,2023-01-19,2023-02-09,21,Approved,Abuja,Yes,Yes,Offline
+VISA000571,USA,Visiting,Nigeria,2023-07-18,2023-08-30,43,Approved,Dhaka,Yes,Yes,Offline
+VISA000572,Canada,Student,China,2023-05-21,2023-07-12,52,Approved,Beijing,Yes,No,Online
+VISA000573,Australia,Tourist,Bangladesh,2023-01-02,2023-03-12,69,Rejected,Dhaka,No,No,Online
+VISA000574,Australia,Student,India,2022-05-24,2022-07-18,55,Approved,Sao Paulo,Yes,Yes,Online
+VISA000575,USA,Tourist,Nigeria,2022-03-10,2022-04-23,44,Approved,Sao Paulo,Yes,Yes,Online
+VISA000576,USA,Student,Philippines,2022-04-09,2022-06-13,65,Approved,Dhaka,Yes,Yes,Online
+VISA000577,USA,Work,China,2023-01-31,2023-03-23,51,Approved,Dhaka,Yes,Yes,Online
+VISA000578,Australia,Work,India,2022-01-25,2022-03-19,53,Approved,Beijing,No,Yes,Online
+VISA000579,Canada,Visiting,Brazil,2023-04-14,2023-06-07,54,Approved,Chennai,Yes,Yes,Online
+VISA000580,Canada,Work,China,2023-04-29,2023-07-01,63,Approved,Mumbai,Yes,No,Online
+VISA000581,Australia,Student,India,2023-07-19,2023-09-07,50,Approved,Bengaluru,Yes,Yes,Online
+VISA000582,UK,Student,Bangladesh,2022-05-31,2022-08-04,65,Approved,Sao Paulo,Yes,No,Online
+VISA000583,Canada,Work,Brazil,2022-05-24,2022-07-16,53,Approved,Mumbai,Yes,No,Online
+VISA000584,USA,Visiting,Bangladesh,2023-07-23,2023-08-30,38,Approved,Dhaka,Yes,No,Online
+VISA000585,UK,Work,Philippines,2022-02-08,2022-04-03,54,Approved,Beijing,Yes,No,Offline
+VISA000586,UK,Tourist,India,2022-04-19,2022-05-28,39,Approved,Manila,Yes,No,Online
+VISA000587,Canada,Tourist,Bangladesh,2023-11-24,2024-01-18,55,Approved,Beijing,Yes,No,Online
+VISA000588,UK,Tourist,Philippines,2022-02-11,2022-04-19,67,Rejected,Shanghai,No,No,Online
+VISA000589,UK,Work,India,2022-07-05,2022-08-12,38,Approved,Shanghai,Yes,Yes,Online
+VISA000590,Canada,Work,India,2023-02-02,2023-04-03,60,Approved,Mumbai,Yes,No,Online
+VISA000591,Canada,Work,Bangladesh,2022-08-11,2022-09-22,42,Approved,Abuja,Yes,No,Offline
+VISA000592,UK,Tourist,India,2023-09-26,2023-11-23,58,Approved,Shanghai,Yes,No,Offline
+VISA000593,USA,Visiting,China,2022-05-13,2022-07-19,67,Rejected,Shanghai,Yes,No,Online
+VISA000594,Australia,Student,India,2022-06-12,2022-07-05,23,Approved,Chennai,No,Yes,Online
+VISA000595,UK,Work,Nigeria,2022-08-03,2022-09-10,38,Approved,Manila,Yes,Yes,Offline
+VISA000596,UK,Visiting,Philippines,2022-08-23,2022-10-11,49,Approved,Chennai,Yes,Yes,Offline
+VISA000597,USA,Student,India,2023-10-20,2023-12-18,59,Approved,Manila,Yes,Yes,Online
+VISA000598,UK,Student,Nigeria,2023-08-11,2023-10-02,52,Approved,Bengaluru,Yes,No,Online
+VISA000599,UK,Student,India,2022-01-09,2022-03-04,54,Approved,Sao Paulo,Yes,Yes,Online
+VISA000600,Australia,Visiting,India,2022-03-15,2022-06-08,85,Rejected,Shanghai,No,Yes,Online
+VISA000601,Australia,Visiting,Bangladesh,2023-05-07,2023-06-12,36,Approved,Sao Paulo,Yes,Yes,Online
+VISA000602,Australia,Tourist,China,2022-09-10,2022-11-21,72,Rejected,Shanghai,Yes,Yes,Online
+VISA000603,Canada,Visiting,Philippines,2022-08-18,2022-10-06,49,Approved,Chennai,Yes,No,Online
+VISA000604,Canada,Visiting,China,2023-06-03,2023-08-05,63,Approved,Bengaluru,Yes,No,Online
+VISA000605,Australia,Visiting,Brazil,2022-06-23,2022-09-17,86,Rejected,Chennai,Yes,Yes,Offline
+VISA000606,Australia,Student,Bangladesh,2023-10-15,2023-12-19,65,Approved,Chennai,Yes,Yes,Offline
+VISA000607,Canada,Work,Bangladesh,2022-06-17,2022-08-16,60,Approved,Manila,Yes,Yes,Online
+VISA000608,USA,Tourist,China,2022-06-19,2022-09-05,78,Rejected,Abuja,Yes,Yes,Offline
+VISA000609,UK,Work,Bangladesh,2023-01-28,2023-04-09,71,Rejected,Beijing,Yes,Yes,Online
+VISA000610,UK,Work,China,2023-09-26,2023-11-08,43,Approved,Mumbai,Yes,No,Offline
+VISA000611,Australia,Visiting,Bangladesh,2022-07-13,2022-09-10,59,Approved,Sao Paulo,Yes,Yes,Online
+VISA000612,USA,Tourist,India,2023-06-01,2023-06-30,29,Approved,Shanghai,Yes,Yes,Online
+VISA000613,Canada,Work,China,2022-01-29,2022-03-16,46,Approved,Chennai,Yes,Yes,Online
+VISA000614,Australia,Work,China,2022-06-14,2022-08-12,59,Approved,Abuja,Yes,No,Online
+VISA000615,USA,Tourist,Nigeria,2023-02-26,2023-04-12,45,Approved,Chennai,Yes,No,Offline
+VISA000616,USA,Visiting,Bangladesh,2022-12-05,2023-02-02,59,Approved,Bengaluru,No,No,Online
+VISA000617,USA,Work,Bangladesh,2023-10-10,2023-12-03,54,Approved,Manila,Yes,Yes,Online
+VISA000618,Canada,Student,China,2023-05-11,2023-07-13,63,Approved,Beijing,Yes,No,Online
+VISA000619,Canada,Work,India,2022-12-31,2023-02-17,48,Approved,Bengaluru,Yes,Yes,Online
+VISA000620,UK,Student,India,2022-12-08,2023-01-17,40,Approved,Dhaka,Yes,Yes,Online
+VISA000621,UK,Visiting,Philippines,2023-05-15,2023-07-31,77,Rejected,Chennai,Yes,Yes,Online
+VISA000622,USA,Work,India,2023-10-19,2023-12-05,47,Approved,Bengaluru,Yes,Yes,Offline
+VISA000623,USA,Tourist,Bangladesh,2023-05-26,2023-07-29,64,Approved,Beijing,Yes,No,Offline
+VISA000624,Canada,Tourist,Nigeria,2022-11-23,2023-02-07,76,Rejected,Abuja,Yes,No,Offline
+VISA000625,UK,Work,China,2022-08-05,2022-10-01,57,Approved,Abuja,Yes,Yes,Online
+VISA000626,USA,Visiting,Brazil,2022-10-28,2022-12-09,42,Approved,Sao Paulo,No,No,Online
+VISA000627,UK,Visiting,Nigeria,2022-05-12,2022-07-03,52,Approved,Beijing,Yes,No,Online
+VISA000628,UK,Tourist,Brazil,2022-03-11,2022-05-20,70,Rejected,Abuja,Yes,No,Online
+VISA000629,USA,Work,Nigeria,2022-09-09,2022-11-06,58,Approved,Bengaluru,Yes,Yes,Online
+VISA000630,Canada,Visiting,India,2023-02-19,2023-03-27,36,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000631,USA,Tourist,Bangladesh,2023-03-21,2023-05-23,63,Approved,Abuja,Yes,Yes,Online
+VISA000632,USA,Student,Brazil,2022-07-01,2022-09-05,66,Rejected,Manila,Yes,No,Offline
+VISA000633,UK,Work,Nigeria,2022-06-16,2022-08-04,49,Approved,Dhaka,Yes,Yes,Offline
+VISA000634,USA,Student,Bangladesh,2022-04-01,2022-06-04,64,Approved,Beijing,Yes,Yes,Offline
+VISA000635,Canada,Student,Brazil,2023-12-15,2024-02-11,58,Approved,Bengaluru,No,Yes,Offline
+VISA000636,USA,Visiting,China,2023-06-15,2023-08-06,52,Approved,Shanghai,No,Yes,Online
+VISA000637,Canada,Visiting,Nigeria,2022-02-08,2022-03-15,35,Approved,Chennai,Yes,No,Online
+VISA000638,Canada,Visiting,China,2022-05-06,2022-07-16,71,Rejected,Bengaluru,Yes,No,Online
+VISA000639,UK,Work,India,2023-03-27,2023-06-01,66,Rejected,Abuja,Yes,No,Online
+VISA000640,Australia,Student,China,2022-06-22,2022-08-24,63,Approved,Bengaluru,Yes,No,Online
+VISA000641,Australia,Work,China,2023-10-15,2024-01-01,78,Rejected,Shanghai,Yes,Yes,Online
+VISA000642,UK,Visiting,Philippines,2022-08-08,2022-10-16,69,Rejected,Chennai,Yes,Yes,Online
+VISA000643,USA,Student,Nigeria,2023-09-30,2023-12-04,65,Approved,Sao Paulo,No,Yes,Offline
+VISA000644,UK,Work,India,2022-02-27,2022-03-20,21,Approved,Abuja,Yes,Yes,Offline
+VISA000645,Canada,Work,China,2023-10-22,2024-01-02,72,Rejected,Mumbai,Yes,Yes,Online
+VISA000646,Australia,Tourist,Bangladesh,2023-04-21,2023-06-16,56,Approved,Abuja,Yes,No,Online
+VISA000647,UK,Work,Brazil,2023-04-01,2023-05-30,59,Approved,Dhaka,No,Yes,Online
+VISA000648,USA,Visiting,China,2022-12-27,2023-02-24,59,Approved,Mumbai,Yes,No,Online
+VISA000649,UK,Work,India,2022-01-01,2022-03-08,66,Rejected,Dhaka,Yes,Yes,Offline
+VISA000650,Australia,Student,China,2023-01-22,2023-04-03,71,Rejected,Shanghai,Yes,Yes,Online
+VISA000651,UK,Work,Brazil,2022-12-14,2023-02-16,64,Approved,Beijing,No,Yes,Online
+VISA000652,UK,Tourist,India,2022-07-09,2022-09-09,62,Approved,Chennai,Yes,Yes,Offline
+VISA000653,Australia,Student,Nigeria,2023-05-20,2023-07-17,58,Approved,Manila,No,Yes,Offline
+VISA000654,Canada,Student,India,2022-07-10,2022-07-20,10,Approved,Sao Paulo,Yes,Yes,Online
+VISA000655,Canada,Tourist,Nigeria,2023-05-23,2023-07-12,50,Approved,Manila,Yes,Yes,Online
+VISA000656,Australia,Visiting,India,2023-01-04,2023-02-13,40,Approved,Shanghai,Yes,Yes,Online
+VISA000657,UK,Student,Brazil,2023-02-13,2023-04-27,73,Rejected,Beijing,Yes,Yes,Online
+VISA000658,Australia,Visiting,Brazil,2022-04-27,2022-06-30,64,Approved,Abuja,Yes,No,Online
+VISA000659,Canada,Student,India,2022-05-14,2022-07-01,48,Approved,Bengaluru,No,No,Online
+VISA000660,USA,Student,China,2022-02-27,2022-04-17,49,Approved,Dhaka,Yes,Yes,Online
+VISA000661,UK,Visiting,Brazil,2023-07-10,2023-08-28,49,Approved,Shanghai,Yes,No,Online
+VISA000662,Canada,Student,Nigeria,2023-11-16,2024-01-03,48,Approved,Dhaka,Yes,No,Online
+VISA000663,UK,Visiting,Nigeria,2023-11-03,2023-12-06,33,Approved,Abuja,Yes,No,Offline
+VISA000664,Australia,Tourist,Bangladesh,2022-06-22,2022-07-22,30,Approved,Beijing,Yes,Yes,Online
+VISA000665,USA,Visiting,Philippines,2022-05-29,2022-07-23,55,Approved,Chennai,Yes,Yes,Online
+VISA000666,Australia,Tourist,Philippines,2022-03-21,2022-05-31,71,Rejected,Manila,Yes,No,Offline
+VISA000667,USA,Student,Philippines,2022-08-01,2022-09-16,46,Approved,Abuja,Yes,Yes,Online
+VISA000668,UK,Visiting,Nigeria,2022-07-22,2022-09-19,59,Approved,Sao Paulo,No,No,Offline
+VISA000669,UK,Student,Bangladesh,2022-08-17,2022-10-22,66,Rejected,Mumbai,Yes,No,Online
+VISA000670,Australia,Visiting,Philippines,2023-11-07,2023-12-17,40,Approved,Shanghai,No,Yes,Online
+VISA000671,USA,Tourist,Philippines,2022-08-15,2022-10-08,54,Approved,Manila,Yes,Yes,Online
+VISA000672,USA,Tourist,India,2023-10-21,2023-12-05,45,Approved,Sao Paulo,Yes,Yes,Online
+VISA000673,UK,Visiting,India,2023-06-16,2023-09-03,79,Rejected,Chennai,Yes,Yes,Online
+VISA000674,Australia,Tourist,India,2023-03-17,2023-06-03,78,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000675,USA,Student,China,2023-02-06,2023-03-18,40,Approved,Beijing,No,Yes,Online
+VISA000676,UK,Student,Philippines,2022-02-16,2022-04-17,60,Approved,Mumbai,Yes,Yes,Online
+VISA000677,Canada,Work,China,2022-08-21,2022-10-31,71,Rejected,Dhaka,Yes,Yes,Online
+VISA000678,Australia,Tourist,Bangladesh,2022-11-01,2023-01-07,67,Rejected,Manila,No,No,Online
+VISA000679,Canada,Student,Nigeria,2023-06-10,2023-08-05,56,Approved,Mumbai,Yes,Yes,Online
+VISA000680,Australia,Visiting,Philippines,2022-05-23,2022-08-05,74,Rejected,Bengaluru,Yes,No,Online
+VISA000681,UK,Tourist,Nigeria,2023-02-19,2023-04-01,41,Approved,Abuja,Yes,No,Online
+VISA000682,USA,Student,India,2023-05-28,2023-07-17,50,Approved,Bengaluru,No,Yes,Online
+VISA000683,USA,Tourist,Philippines,2023-01-08,2023-02-18,41,Approved,Abuja,Yes,No,Online
+VISA000684,USA,Visiting,Brazil,2023-07-20,2023-09-24,66,Rejected,Beijing,Yes,Yes,Online
+VISA000685,Australia,Student,China,2022-09-16,2022-11-01,46,Approved,Mumbai,Yes,No,Offline
+VISA000686,UK,Work,China,2023-10-18,2023-12-09,52,Approved,Chennai,No,Yes,Online
+VISA000687,Canada,Work,Philippines,2023-04-16,2023-06-19,64,Approved,Sao Paulo,Yes,Yes,Online
+VISA000688,UK,Tourist,India,2022-01-12,2022-03-18,65,Approved,Mumbai,Yes,Yes,Online
+VISA000689,Canada,Visiting,China,2022-11-26,2023-01-06,41,Approved,Bengaluru,Yes,Yes,Online
+VISA000690,Australia,Student,India,2022-12-24,2023-03-04,70,Rejected,Shanghai,No,Yes,Online
+VISA000691,Australia,Visiting,Bangladesh,2023-02-12,2023-04-14,61,Approved,Abuja,No,Yes,Online
+VISA000692,Canada,Student,Nigeria,2023-10-30,2023-12-07,38,Approved,Shanghai,No,Yes,Online
+VISA000693,Canada,Tourist,Brazil,2023-01-08,2023-02-12,35,Approved,Manila,Yes,Yes,Online
+VISA000694,Canada,Student,Nigeria,2022-01-08,2022-03-03,54,Approved,Shanghai,Yes,Yes,Online
+VISA000695,UK,Visiting,Nigeria,2022-05-02,2022-07-08,67,Rejected,Mumbai,Yes,Yes,Online
+VISA000696,Canada,Visiting,Bangladesh,2022-12-14,2023-02-20,68,Rejected,Sao Paulo,No,Yes,Online
+VISA000697,Australia,Tourist,China,2023-11-07,2024-01-06,60,Approved,Manila,Yes,Yes,Online
+VISA000698,Australia,Visiting,Brazil,2022-03-31,2022-05-25,55,Approved,Chennai,Yes,No,Online
+VISA000699,USA,Student,China,2023-10-10,2023-12-11,62,Approved,Chennai,No,Yes,Online
+VISA000700,Canada,Tourist,Philippines,2023-11-29,2024-01-10,42,Approved,Beijing,Yes,No,Online
+VISA000701,UK,Student,Nigeria,2022-11-12,2023-01-31,80,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000702,UK,Visiting,Philippines,2022-06-27,2022-09-15,80,Rejected,Dhaka,Yes,No,Online
+VISA000703,UK,Tourist,India,2023-06-24,2023-08-24,61,Approved,Shanghai,Yes,Yes,Offline
+VISA000704,USA,Student,Nigeria,2022-02-10,2022-04-08,57,Approved,Manila,No,Yes,Online
+VISA000705,Australia,Visiting,China,2023-12-05,2024-01-22,48,Approved,Mumbai,Yes,Yes,Online
+VISA000706,UK,Visiting,Nigeria,2023-05-17,2023-07-18,62,Approved,Mumbai,Yes,Yes,Offline
+VISA000707,Australia,Work,India,2022-05-25,2022-07-08,44,Approved,Dhaka,Yes,Yes,Online
+VISA000708,USA,Visiting,Bangladesh,2022-07-20,2022-08-10,21,Approved,Beijing,Yes,Yes,Online
+VISA000709,Canada,Student,Philippines,2023-12-25,2024-01-08,14,Approved,Dhaka,Yes,No,Offline
+VISA000710,Canada,Tourist,Philippines,2023-04-06,2023-05-19,43,Approved,Abuja,Yes,Yes,Online
+VISA000711,Canada,Work,China,2023-07-12,2023-09-07,57,Approved,Bengaluru,Yes,Yes,Online
+VISA000712,UK,Visiting,Nigeria,2023-07-01,2023-08-29,59,Approved,Manila,Yes,No,Offline
+VISA000713,Canada,Visiting,China,2022-09-10,2022-10-27,47,Approved,Bengaluru,Yes,Yes,Offline
+VISA000714,UK,Visiting,Bangladesh,2023-01-25,2023-03-23,57,Approved,Dhaka,Yes,No,Online
+VISA000715,USA,Student,Nigeria,2023-08-17,2023-10-06,50,Approved,Beijing,No,Yes,Online
+VISA000716,USA,Work,Nigeria,2022-09-13,2022-10-23,40,Approved,Beijing,No,No,Online
+VISA000717,UK,Student,China,2023-12-10,2024-02-02,54,Approved,Chennai,No,Yes,Online
+VISA000718,Australia,Work,China,2023-03-26,2023-06-01,67,Rejected,Chennai,Yes,No,Online
+VISA000719,Canada,Tourist,India,2022-01-10,2022-02-19,40,Approved,Manila,Yes,No,Online
+VISA000720,Canada,Student,Bangladesh,2022-08-30,2022-10-09,40,Approved,Manila,Yes,Yes,Online
+VISA000721,Canada,Student,India,2022-09-08,2022-10-16,38,Approved,Manila,Yes,Yes,Online
+VISA000722,UK,Tourist,Philippines,2022-01-05,2022-01-30,25,Approved,Mumbai,Yes,Yes,Online
+VISA000723,USA,Work,Nigeria,2022-04-29,2022-06-15,47,Approved,Chennai,Yes,No,Online
+VISA000724,Canada,Visiting,China,2023-01-09,2023-03-15,65,Approved,Mumbai,No,Yes,Offline
+VISA000725,USA,Tourist,Nigeria,2022-03-06,2022-05-02,57,Approved,Bengaluru,Yes,Yes,Offline
+VISA000726,Canada,Visiting,Nigeria,2022-05-26,2022-07-17,52,Approved,Dhaka,Yes,Yes,Online
+VISA000727,Canada,Visiting,Brazil,2022-08-12,2022-10-07,56,Approved,Shanghai,No,Yes,Offline
+VISA000728,UK,Tourist,Philippines,2022-08-27,2022-10-13,47,Approved,Chennai,Yes,Yes,Offline
+VISA000729,Australia,Work,Brazil,2022-06-26,2022-07-21,25,Approved,Shanghai,No,No,Online
+VISA000730,UK,Visiting,Nigeria,2022-10-09,2022-12-14,66,Rejected,Beijing,No,Yes,Online
+VISA000731,Canada,Tourist,China,2022-03-04,2022-05-14,71,Rejected,Chennai,No,No,Online
+VISA000732,Canada,Student,Nigeria,2022-08-05,2022-09-18,44,Approved,Bengaluru,Yes,Yes,Online
+VISA000733,Australia,Student,Philippines,2023-11-20,2024-01-11,52,Approved,Chennai,Yes,Yes,Online
+VISA000734,USA,Student,Brazil,2023-04-06,2023-05-27,51,Approved,Mumbai,Yes,Yes,Online
+VISA000735,USA,Tourist,China,2023-09-02,2023-11-01,60,Approved,Dhaka,Yes,Yes,Online
+VISA000736,Canada,Student,Nigeria,2022-04-15,2022-07-04,80,Rejected,Sao Paulo,Yes,No,Online
+VISA000737,USA,Visiting,Bangladesh,2022-04-09,2022-06-20,72,Rejected,Dhaka,Yes,No,Online
+VISA000738,Canada,Student,Philippines,2023-05-26,2023-07-14,49,Approved,Dhaka,Yes,Yes,Offline
+VISA000739,Australia,Student,Philippines,2023-01-20,2023-03-24,63,Approved,Beijing,Yes,Yes,Online
+VISA000740,Australia,Visiting,Bangladesh,2023-02-09,2023-04-23,73,Rejected,Bengaluru,No,Yes,Offline
+VISA000741,Canada,Student,Nigeria,2023-06-02,2023-08-02,61,Approved,Shanghai,No,No,Online
+VISA000742,Australia,Visiting,Philippines,2023-04-21,2023-06-14,54,Approved,Bengaluru,Yes,No,Offline
+VISA000743,UK,Student,China,2023-12-10,2024-02-09,61,Approved,Sao Paulo,Yes,No,Online
+VISA000744,UK,Visiting,Nigeria,2023-10-07,2023-11-20,44,Approved,Beijing,No,Yes,Online
+VISA000745,Australia,Student,Nigeria,2023-03-13,2023-04-28,46,Approved,Dhaka,Yes,Yes,Online
+VISA000746,Canada,Visiting,Brazil,2022-01-23,2022-03-03,39,Approved,Mumbai,No,Yes,Online
+VISA000747,Canada,Tourist,Philippines,2023-07-19,2023-09-16,59,Approved,Beijing,No,Yes,Offline
+VISA000748,Australia,Visiting,Philippines,2023-11-08,2023-12-31,53,Approved,Manila,Yes,Yes,Online
+VISA000749,USA,Student,Bangladesh,2023-12-15,2024-01-26,42,Approved,Chennai,No,Yes,Offline
+VISA000750,UK,Student,Brazil,2023-04-03,2023-05-25,52,Approved,Bengaluru,Yes,Yes,Online
+VISA000751,USA,Work,Brazil,2022-03-24,2022-05-25,62,Approved,Beijing,Yes,No,Online
+VISA000752,Canada,Visiting,Philippines,2022-05-25,2022-08-16,83,Rejected,Manila,Yes,No,Offline
+VISA000753,Canada,Tourist,Nigeria,2022-03-26,2022-06-04,70,Rejected,Shanghai,Yes,Yes,Online
+VISA000754,USA,Visiting,Brazil,2022-03-19,2022-04-08,20,Approved,Sao Paulo,No,Yes,Online
+VISA000755,Australia,Visiting,Bangladesh,2023-04-02,2023-05-30,58,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000756,USA,Tourist,Brazil,2022-01-01,2022-03-18,76,Rejected,Dhaka,Yes,No,Offline
+VISA000757,USA,Visiting,Bangladesh,2022-02-20,2022-03-26,34,Approved,Dhaka,Yes,No,Offline
+VISA000758,UK,Tourist,Brazil,2023-11-16,2024-01-18,63,Approved,Beijing,No,No,Offline
+VISA000759,UK,Tourist,Bangladesh,2023-12-18,2024-02-07,51,Approved,Beijing,No,No,Online
+VISA000760,USA,Visiting,Brazil,2023-03-22,2023-06-02,72,Rejected,Chennai,No,Yes,Offline
+VISA000761,USA,Visiting,Brazil,2023-03-25,2023-05-25,61,Approved,Abuja,Yes,Yes,Online
+VISA000762,Canada,Student,China,2023-05-03,2023-06-13,41,Approved,Shanghai,Yes,Yes,Offline
+VISA000763,UK,Student,Bangladesh,2022-02-03,2022-03-26,51,Approved,Dhaka,Yes,Yes,Online
+VISA000764,UK,Work,Bangladesh,2022-12-14,2023-02-04,52,Approved,Abuja,Yes,No,Online
+VISA000765,Canada,Work,Bangladesh,2022-04-05,2022-05-28,53,Approved,Abuja,Yes,Yes,Online
+VISA000766,Australia,Visiting,India,2022-03-13,2022-05-23,71,Rejected,Chennai,Yes,Yes,Online
+VISA000767,UK,Tourist,Brazil,2023-07-05,2023-08-16,42,Approved,Mumbai,Yes,Yes,Online
+VISA000768,UK,Work,Bangladesh,2022-06-03,2022-08-12,70,Rejected,Mumbai,No,No,Offline
+VISA000769,Australia,Visiting,Philippines,2022-09-07,2022-10-27,50,Approved,Dhaka,Yes,Yes,Offline
+VISA000770,UK,Work,India,2023-11-05,2024-01-02,58,Approved,Manila,Yes,No,Online
+VISA000771,UK,Tourist,China,2023-03-14,2023-05-09,56,Approved,Chennai,Yes,Yes,Offline
+VISA000772,Australia,Visiting,Bangladesh,2022-04-28,2022-06-21,54,Approved,Chennai,No,Yes,Online
+VISA000773,Australia,Tourist,Bangladesh,2022-11-02,2022-12-26,54,Approved,Bengaluru,No,Yes,Online
+VISA000774,USA,Visiting,India,2022-09-25,2022-12-10,76,Rejected,Abuja,No,No,Online
+VISA000775,Canada,Work,Brazil,2022-02-23,2022-05-01,67,Rejected,Bengaluru,Yes,Yes,Offline
+VISA000776,Canada,Student,Philippines,2022-08-24,2022-10-12,49,Approved,Abuja,No,No,Online
+VISA000777,Australia,Work,China,2023-01-24,2023-04-12,78,Rejected,Mumbai,Yes,Yes,Online
+VISA000778,Australia,Work,Bangladesh,2023-02-05,2023-04-05,59,Approved,Dhaka,Yes,Yes,Online
+VISA000779,UK,Student,Brazil,2023-09-16,2023-11-15,60,Approved,Shanghai,No,No,Online
+VISA000780,USA,Student,Philippines,2022-10-30,2022-12-11,42,Approved,Mumbai,Yes,Yes,Online
+VISA000781,USA,Visiting,Philippines,2022-07-26,2022-09-11,47,Approved,Chennai,Yes,Yes,Online
+VISA000782,Australia,Visiting,China,2022-08-17,2022-09-30,44,Approved,Shanghai,Yes,No,Online
+VISA000783,UK,Tourist,Nigeria,2023-08-01,2023-09-26,56,Approved,Beijing,Yes,Yes,Online
+VISA000784,UK,Tourist,Philippines,2022-03-16,2022-05-19,64,Approved,Shanghai,No,No,Offline
+VISA000785,Canada,Work,Nigeria,2023-03-11,2023-05-10,60,Approved,Shanghai,Yes,Yes,Online
+VISA000786,Canada,Student,Philippines,2022-04-13,2022-06-30,78,Rejected,Mumbai,Yes,Yes,Online
+VISA000787,UK,Tourist,China,2023-02-26,2023-04-08,41,Approved,Chennai,Yes,Yes,Online
+VISA000788,Canada,Work,India,2023-12-05,2024-01-30,56,Approved,Shanghai,Yes,No,Offline
+VISA000789,Australia,Student,China,2022-11-02,2022-12-07,35,Approved,Mumbai,Yes,Yes,Online
+VISA000790,UK,Visiting,China,2022-04-08,2022-05-19,41,Approved,Mumbai,Yes,No,Offline
+VISA000791,Canada,Work,India,2022-12-01,2023-02-12,73,Rejected,Shanghai,Yes,No,Online
+VISA000792,USA,Visiting,India,2023-03-11,2023-04-28,48,Approved,Abuja,Yes,Yes,Offline
+VISA000793,UK,Tourist,Brazil,2023-03-23,2023-05-04,42,Approved,Chennai,No,Yes,Online
+VISA000794,UK,Tourist,Philippines,2022-11-04,2022-11-27,23,Approved,Sao Paulo,Yes,Yes,Online
+VISA000795,USA,Student,Brazil,2022-09-06,2022-10-18,42,Approved,Shanghai,Yes,Yes,Online
+VISA000796,Australia,Work,India,2022-06-15,2022-08-05,51,Approved,Bengaluru,Yes,Yes,Online
+VISA000797,USA,Visiting,Nigeria,2023-04-26,2023-05-30,34,Approved,Bengaluru,Yes,No,Offline
+VISA000798,UK,Student,Nigeria,2022-12-01,2023-01-21,51,Approved,Beijing,No,No,Offline
+VISA000799,Australia,Tourist,China,2023-06-26,2023-09-08,74,Rejected,Chennai,No,No,Online
+VISA000800,Canada,Tourist,Bangladesh,2022-04-16,2022-05-30,44,Approved,Mumbai,Yes,No,Online
+VISA000801,Canada,Work,China,2023-07-17,2023-08-26,40,Approved,Dhaka,No,No,Online
+VISA000802,Canada,Visiting,China,2022-03-22,2022-04-29,38,Approved,Manila,Yes,Yes,Online
+VISA000803,UK,Work,Bangladesh,2022-05-13,2022-06-19,37,Approved,Chennai,Yes,No,Online
+VISA000804,USA,Visiting,Philippines,2022-05-18,2022-07-20,63,Approved,Chennai,Yes,No,Offline
+VISA000805,Australia,Visiting,India,2022-07-03,2022-08-27,55,Approved,Shanghai,Yes,Yes,Offline
+VISA000806,Canada,Work,Nigeria,2023-02-05,2023-04-15,69,Rejected,Shanghai,Yes,No,Online
+VISA000807,Australia,Student,China,2022-11-26,2023-02-19,85,Rejected,Mumbai,No,Yes,Offline
+VISA000808,UK,Work,Bangladesh,2023-05-23,2023-06-19,27,Approved,Beijing,Yes,No,Online
+VISA000809,Canada,Work,Brazil,2022-03-10,2022-05-09,60,Approved,Shanghai,No,No,Online
+VISA000810,UK,Tourist,China,2023-06-30,2023-08-07,38,Approved,Manila,No,No,Online
+VISA000811,USA,Tourist,Nigeria,2022-02-22,2022-04-29,66,Rejected,Manila,Yes,Yes,Online
+VISA000812,UK,Work,India,2023-03-26,2023-05-15,50,Approved,Beijing,Yes,No,Online
+VISA000813,UK,Work,China,2022-07-24,2022-09-17,55,Approved,Abuja,Yes,Yes,Online
+VISA000814,USA,Tourist,China,2022-05-06,2022-06-10,35,Approved,Abuja,No,Yes,Online
+VISA000815,Australia,Visiting,Philippines,2022-02-12,2022-04-01,48,Approved,Chennai,Yes,No,Online
+VISA000816,USA,Work,Bangladesh,2022-04-21,2022-06-16,56,Approved,Shanghai,Yes,Yes,Offline
+VISA000817,USA,Student,Brazil,2023-10-25,2024-01-08,75,Rejected,Bengaluru,Yes,No,Online
+VISA000818,UK,Student,Brazil,2022-07-02,2022-08-14,43,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000819,Australia,Student,India,2022-04-05,2022-05-21,46,Approved,Beijing,Yes,Yes,Offline
+VISA000820,Canada,Work,Nigeria,2023-01-09,2023-03-19,69,Rejected,Chennai,Yes,No,Online
+VISA000821,USA,Visiting,India,2023-06-04,2023-07-16,42,Approved,Bengaluru,Yes,Yes,Online
+VISA000822,Australia,Visiting,China,2022-12-26,2023-03-08,72,Rejected,Shanghai,Yes,Yes,Offline
+VISA000823,USA,Tourist,China,2023-11-27,2024-01-20,54,Approved,Bengaluru,Yes,No,Online
+VISA000824,USA,Work,Brazil,2022-10-08,2022-12-06,59,Approved,Bengaluru,Yes,Yes,Offline
+VISA000825,USA,Visiting,Nigeria,2022-07-14,2022-09-12,60,Approved,Beijing,Yes,No,Online
+VISA000826,USA,Work,Bangladesh,2022-07-14,2022-08-28,45,Approved,Chennai,Yes,Yes,Online
+VISA000827,UK,Tourist,Nigeria,2023-10-29,2023-12-28,60,Approved,Mumbai,Yes,Yes,Offline
+VISA000828,Australia,Tourist,China,2022-04-03,2022-05-16,43,Approved,Manila,Yes,Yes,Offline
+VISA000829,Australia,Tourist,Bangladesh,2023-11-03,2023-12-20,47,Approved,Chennai,Yes,Yes,Offline
+VISA000830,Australia,Student,Nigeria,2022-03-02,2022-05-04,63,Approved,Sao Paulo,Yes,Yes,Online
+VISA000831,USA,Work,Nigeria,2023-09-26,2023-11-24,59,Approved,Bengaluru,Yes,Yes,Offline
+VISA000832,UK,Tourist,Bangladesh,2022-02-20,2022-04-14,53,Approved,Mumbai,Yes,Yes,Offline
+VISA000833,USA,Work,China,2023-02-07,2023-03-15,36,Approved,Beijing,Yes,Yes,Offline
+VISA000834,USA,Student,Nigeria,2022-01-05,2022-02-13,39,Approved,Dhaka,No,Yes,Online
+VISA000835,Australia,Student,Bangladesh,2023-04-11,2023-06-09,59,Approved,Manila,No,Yes,Online
+VISA000836,USA,Tourist,Philippines,2023-08-27,2023-10-31,65,Approved,Dhaka,No,Yes,Offline
+VISA000837,Canada,Tourist,Philippines,2023-11-13,2023-12-21,38,Approved,Shanghai,No,No,Online
+VISA000838,USA,Visiting,China,2023-06-18,2023-07-30,42,Approved,Dhaka,Yes,No,Online
+VISA000839,Canada,Work,Bangladesh,2023-02-09,2023-04-07,57,Approved,Bengaluru,Yes,No,Online
+VISA000840,USA,Tourist,Philippines,2023-05-28,2023-07-23,56,Approved,Bengaluru,Yes,Yes,Online
+VISA000841,UK,Visiting,Bangladesh,2023-10-07,2023-11-06,30,Approved,Bengaluru,Yes,No,Online
+VISA000842,UK,Work,Nigeria,2022-08-21,2022-10-17,57,Approved,Bengaluru,Yes,No,Online
+VISA000843,Australia,Tourist,China,2023-06-08,2023-07-24,46,Approved,Chennai,No,No,Offline
+VISA000844,USA,Visiting,Philippines,2022-12-12,2023-03-01,79,Rejected,Dhaka,Yes,Yes,Online
+VISA000845,Canada,Visiting,Nigeria,2022-02-15,2022-04-14,58,Approved,Sao Paulo,Yes,No,Online
+VISA000846,Canada,Work,India,2023-06-30,2023-08-30,61,Approved,Dhaka,Yes,No,Online
+VISA000847,USA,Visiting,India,2022-03-19,2022-05-19,61,Approved,Chennai,Yes,No,Online
+VISA000848,Canada,Work,China,2023-12-31,2024-02-05,36,Approved,Sao Paulo,Yes,Yes,Online
+VISA000849,UK,Work,Philippines,2022-03-14,2022-06-06,84,Rejected,Sao Paulo,No,Yes,Online
+VISA000850,Canada,Work,Philippines,2022-09-06,2022-10-06,30,Approved,Manila,Yes,Yes,Online
+VISA000851,Australia,Student,Philippines,2022-02-16,2022-04-23,66,Rejected,Sao Paulo,No,Yes,Offline
+VISA000852,UK,Visiting,Bangladesh,2022-05-01,2022-07-04,64,Approved,Dhaka,Yes,No,Online
+VISA000853,UK,Work,Nigeria,2022-08-02,2022-09-18,47,Approved,Bengaluru,No,Yes,Online
+VISA000854,UK,Tourist,Philippines,2022-08-27,2022-10-30,64,Approved,Bengaluru,Yes,Yes,Online
+VISA000855,USA,Student,Nigeria,2022-02-25,2022-04-16,50,Approved,Shanghai,Yes,Yes,Online
+VISA000856,USA,Student,China,2022-12-16,2023-01-29,44,Approved,Manila,Yes,Yes,Offline
+VISA000857,UK,Visiting,Philippines,2022-04-17,2022-06-18,62,Approved,Dhaka,No,Yes,Offline
+VISA000858,USA,Work,China,2022-02-17,2022-03-28,39,Approved,Dhaka,No,No,Online
+VISA000859,Canada,Visiting,Philippines,2023-07-27,2023-09-16,51,Approved,Beijing,Yes,Yes,Online
+VISA000860,USA,Student,India,2022-12-03,2023-01-18,46,Approved,Abuja,Yes,Yes,Online
+VISA000861,USA,Work,Brazil,2022-01-26,2022-03-16,49,Approved,Dhaka,No,Yes,Online
+VISA000862,UK,Tourist,China,2022-09-14,2022-11-14,61,Approved,Mumbai,Yes,Yes,Offline
+VISA000863,Australia,Work,Philippines,2022-01-08,2022-02-23,46,Approved,Dhaka,Yes,Yes,Online
+VISA000864,Australia,Student,Brazil,2023-09-17,2023-11-08,52,Approved,Beijing,Yes,No,Online
+VISA000865,Australia,Tourist,China,2022-09-10,2022-10-27,47,Approved,Sao Paulo,Yes,No,Online
+VISA000866,Canada,Work,Bangladesh,2023-11-23,2024-02-07,76,Rejected,Chennai,No,No,Online
+VISA000867,USA,Tourist,Philippines,2023-12-20,2024-02-18,60,Approved,Chennai,No,No,Online
+VISA000868,Australia,Tourist,Bangladesh,2022-10-30,2022-12-27,58,Approved,Mumbai,Yes,Yes,Online
+VISA000869,UK,Student,India,2023-10-01,2023-12-05,65,Approved,Mumbai,Yes,No,Offline
+VISA000870,Australia,Tourist,Philippines,2022-02-25,2022-04-12,46,Approved,Shanghai,No,No,Online
+VISA000871,Australia,Visiting,India,2023-12-27,2024-03-03,67,Rejected,Chennai,Yes,No,Online
+VISA000872,USA,Student,Brazil,2023-06-10,2023-08-09,60,Approved,Sao Paulo,No,Yes,Online
+VISA000873,USA,Visiting,China,2023-04-19,2023-05-20,31,Approved,Chennai,Yes,No,Offline
+VISA000874,USA,Tourist,Nigeria,2022-01-28,2022-03-02,33,Approved,Abuja,Yes,No,Online
+VISA000875,Canada,Visiting,India,2022-03-19,2022-05-04,46,Approved,Chennai,No,No,Offline
+VISA000876,Canada,Work,Nigeria,2022-08-04,2022-09-08,35,Approved,Bengaluru,Yes,Yes,Offline
+VISA000877,Australia,Tourist,Nigeria,2023-01-21,2023-03-13,51,Approved,Shanghai,Yes,No,Offline
+VISA000878,USA,Work,China,2022-12-31,2023-02-08,39,Approved,Beijing,Yes,No,Online
+VISA000879,Australia,Visiting,Brazil,2023-10-28,2023-12-20,53,Approved,Mumbai,Yes,No,Online
+VISA000880,UK,Work,China,2023-06-10,2023-08-25,76,Rejected,Abuja,Yes,Yes,Online
+VISA000881,UK,Tourist,Philippines,2023-11-30,2024-01-23,54,Approved,Mumbai,No,No,Online
+VISA000882,USA,Work,India,2022-11-08,2022-12-28,50,Approved,Shanghai,No,Yes,Online
+VISA000883,USA,Visiting,Nigeria,2022-01-07,2022-03-08,60,Approved,Dhaka,Yes,Yes,Online
+VISA000884,UK,Visiting,China,2022-01-03,2022-02-16,44,Approved,Abuja,Yes,Yes,Offline
+VISA000885,USA,Visiting,China,2023-09-15,2023-11-21,67,Rejected,Manila,Yes,No,Online
+VISA000886,Canada,Tourist,China,2022-12-29,2023-03-01,62,Approved,Abuja,Yes,Yes,Online
+VISA000887,Canada,Visiting,India,2023-05-23,2023-07-17,55,Approved,Shanghai,Yes,Yes,Online
+VISA000888,USA,Tourist,Brazil,2022-10-01,2022-11-27,57,Approved,Beijing,No,No,Online
+VISA000889,UK,Work,China,2023-05-21,2023-08-14,85,Rejected,Abuja,Yes,No,Online
+VISA000890,Australia,Visiting,India,2022-01-15,2022-03-25,69,Rejected,Shanghai,No,Yes,Online
+VISA000891,USA,Work,Nigeria,2022-07-11,2022-10-06,87,Rejected,Sao Paulo,Yes,No,Online
+VISA000892,USA,Student,Philippines,2023-09-23,2023-11-24,62,Approved,Chennai,Yes,No,Online
+VISA000893,Australia,Work,Bangladesh,2023-04-30,2023-06-01,32,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000894,USA,Student,India,2022-01-28,2022-03-20,51,Approved,Shanghai,Yes,Yes,Offline
+VISA000895,Australia,Work,Bangladesh,2023-12-15,2024-01-13,29,Approved,Bengaluru,Yes,Yes,Offline
+VISA000896,UK,Tourist,China,2022-02-08,2022-04-11,62,Approved,Dhaka,No,Yes,Online
+VISA000897,Canada,Work,China,2022-09-30,2022-12-05,66,Rejected,Chennai,Yes,Yes,Online
+VISA000898,UK,Tourist,India,2022-08-19,2022-09-29,41,Approved,Bengaluru,No,No,Online
+VISA000899,Canada,Tourist,Bangladesh,2022-03-27,2022-05-11,45,Approved,Beijing,Yes,No,Online
+VISA000900,Australia,Visiting,China,2023-04-19,2023-06-15,57,Approved,Mumbai,No,Yes,Online
+VISA000901,Canada,Tourist,Nigeria,2022-05-06,2022-06-12,37,Approved,Manila,Yes,Yes,Online
+VISA000902,UK,Student,Brazil,2023-06-21,2023-07-26,35,Approved,Chennai,No,Yes,Online
+VISA000903,Canada,Visiting,Brazil,2022-05-25,2022-08-06,73,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000904,Australia,Visiting,China,2023-06-09,2023-08-04,56,Approved,Dhaka,No,Yes,Offline
+VISA000905,Canada,Work,Bangladesh,2022-07-31,2022-09-15,46,Approved,Bengaluru,No,No,Online
+VISA000906,USA,Tourist,Philippines,2022-01-25,2022-02-23,29,Approved,Shanghai,Yes,No,Online
+VISA000907,UK,Tourist,China,2023-08-03,2023-10-09,67,Rejected,Chennai,Yes,Yes,Online
+VISA000908,USA,Student,Philippines,2023-01-29,2023-03-14,44,Approved,Mumbai,Yes,No,Online
+VISA000909,Australia,Work,Philippines,2022-03-08,2022-05-29,82,Rejected,Shanghai,No,Yes,Online
+VISA000910,Canada,Work,Bangladesh,2022-08-21,2022-10-27,67,Rejected,Bengaluru,Yes,No,Online
+VISA000911,USA,Visiting,Philippines,2022-04-19,2022-05-31,42,Approved,Dhaka,Yes,Yes,Online
+VISA000912,USA,Visiting,Nigeria,2022-05-26,2022-07-09,44,Approved,Abuja,Yes,Yes,Offline
+VISA000913,Canada,Visiting,Bangladesh,2022-04-21,2022-07-10,80,Rejected,Mumbai,Yes,No,Offline
+VISA000914,Canada,Student,China,2022-08-16,2022-10-08,53,Approved,Shanghai,No,Yes,Online
+VISA000915,UK,Student,Nigeria,2022-04-21,2022-06-07,47,Approved,Mumbai,Yes,No,Online
+VISA000916,USA,Visiting,India,2023-04-15,2023-06-09,55,Approved,Beijing,Yes,Yes,Online
+VISA000917,USA,Work,Brazil,2022-02-03,2022-03-22,47,Approved,Shanghai,No,Yes,Offline
+VISA000918,Australia,Student,China,2023-09-15,2023-11-12,58,Approved,Chennai,Yes,Yes,Online
+VISA000919,UK,Work,China,2023-01-04,2023-02-26,53,Approved,Abuja,Yes,Yes,Online
+VISA000920,Australia,Work,China,2023-08-18,2023-10-25,68,Rejected,Abuja,Yes,No,Online
+VISA000921,USA,Tourist,Nigeria,2023-07-08,2023-08-26,49,Approved,Manila,Yes,Yes,Online
+VISA000922,Australia,Visiting,India,2023-03-01,2023-04-11,41,Approved,Mumbai,Yes,No,Offline
+VISA000923,USA,Tourist,Bangladesh,2023-09-05,2023-10-24,49,Approved,Sao Paulo,No,No,Online
+VISA000924,USA,Visiting,India,2023-06-02,2023-07-21,49,Approved,Abuja,Yes,No,Online
+VISA000925,Australia,Visiting,Nigeria,2023-11-23,2024-01-15,53,Approved,Abuja,Yes,Yes,Online
+VISA000926,Australia,Work,China,2022-10-09,2022-12-12,64,Approved,Beijing,Yes,No,Online
+VISA000927,Canada,Visiting,Brazil,2022-11-16,2023-01-18,63,Approved,Beijing,Yes,Yes,Offline
+VISA000928,Canada,Work,China,2023-03-19,2023-05-30,72,Rejected,Beijing,No,Yes,Offline
+VISA000929,Canada,Work,Bangladesh,2022-11-11,2022-12-23,42,Approved,Mumbai,Yes,Yes,Online
+VISA000930,USA,Visiting,Philippines,2023-01-12,2023-03-13,60,Approved,Shanghai,Yes,Yes,Online
+VISA000931,Australia,Work,Brazil,2022-10-16,2022-12-20,65,Approved,Dhaka,Yes,Yes,Online
+VISA000932,UK,Work,China,2023-03-13,2023-04-26,44,Approved,Sao Paulo,Yes,No,Online
+VISA000933,USA,Work,Brazil,2023-10-24,2023-12-14,51,Approved,Abuja,Yes,Yes,Online
+VISA000934,UK,Student,Philippines,2022-10-04,2022-11-01,28,Approved,Manila,Yes,Yes,Online
+VISA000935,Australia,Work,India,2023-12-11,2024-02-17,68,Rejected,Sao Paulo,Yes,No,Online
+VISA000936,USA,Student,Nigeria,2023-08-05,2023-09-25,51,Approved,Shanghai,No,Yes,Online
+VISA000937,UK,Student,China,2023-05-18,2023-07-24,67,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000938,UK,Work,Bangladesh,2023-09-16,2023-11-13,58,Approved,Abuja,No,Yes,Offline
+VISA000939,Canada,Work,India,2023-05-31,2023-07-22,52,Approved,Sao Paulo,No,No,Online
+VISA000940,Canada,Student,China,2022-12-16,2023-01-16,31,Approved,Dhaka,Yes,Yes,Online
+VISA000941,Canada,Student,India,2023-03-22,2023-04-24,33,Approved,Sao Paulo,Yes,Yes,Online
+VISA000942,USA,Work,Bangladesh,2022-12-16,2023-01-01,16,Approved,Abuja,Yes,Yes,Online
+VISA000943,Australia,Work,China,2023-08-30,2023-10-15,46,Approved,Abuja,Yes,No,Online
+VISA000944,Australia,Visiting,Philippines,2023-10-26,2024-01-23,89,Rejected,Sao Paulo,No,No,Online
+VISA000945,Canada,Student,Philippines,2022-05-17,2022-06-21,35,Approved,Mumbai,Yes,No,Offline
+VISA000946,Canada,Student,Bangladesh,2022-08-31,2022-09-15,15,Approved,Manila,Yes,Yes,Online
+VISA000947,Canada,Visiting,Brazil,2023-06-27,2023-09-04,69,Rejected,Bengaluru,Yes,Yes,Online
+VISA000948,UK,Student,Bangladesh,2022-02-09,2022-05-10,90,Rejected,Beijing,Yes,Yes,Online
+VISA000949,Canada,Tourist,Brazil,2022-08-17,2022-10-15,59,Approved,Bengaluru,Yes,Yes,Online
+VISA000950,UK,Student,China,2023-07-02,2023-08-30,59,Approved,Shanghai,No,Yes,Online
+VISA000951,Australia,Visiting,Brazil,2022-08-11,2022-09-30,50,Approved,Shanghai,Yes,Yes,Online
+VISA000952,USA,Tourist,China,2022-01-06,2022-02-03,28,Approved,Abuja,No,Yes,Online
+VISA000953,USA,Work,China,2022-11-18,2022-12-21,33,Approved,Shanghai,Yes,No,Online
+VISA000954,USA,Visiting,Nigeria,2023-04-13,2023-06-02,50,Approved,Mumbai,Yes,Yes,Online
+VISA000955,USA,Visiting,China,2022-03-16,2022-05-02,47,Approved,Manila,Yes,No,Online
+VISA000956,UK,Work,Brazil,2022-01-04,2022-02-26,53,Approved,Shanghai,Yes,Yes,Online
+VISA000957,UK,Visiting,Nigeria,2023-10-08,2023-12-14,67,Rejected,Dhaka,Yes,Yes,Online
+VISA000958,Canada,Student,Nigeria,2022-04-28,2022-06-13,46,Approved,Manila,No,Yes,Online
+VISA000959,UK,Work,China,2023-08-29,2023-11-04,67,Rejected,Mumbai,No,Yes,Offline
+VISA000960,Canada,Visiting,Bangladesh,2023-05-19,2023-07-04,46,Approved,Bengaluru,Yes,Yes,Online
+VISA000961,Canada,Work,Bangladesh,2023-07-28,2023-10-06,70,Rejected,Manila,Yes,Yes,Offline
+VISA000962,USA,Work,Philippines,2023-03-17,2023-05-12,56,Approved,Manila,Yes,No,Online
+VISA000963,UK,Work,Nigeria,2022-07-13,2022-08-30,48,Approved,Bengaluru,No,No,Offline
+VISA000964,UK,Tourist,China,2023-12-16,2024-02-10,56,Approved,Mumbai,Yes,Yes,Online
+VISA000965,Canada,Visiting,Bangladesh,2023-01-27,2023-03-18,50,Approved,Shanghai,No,No,Online
+VISA000966,Canada,Tourist,China,2022-01-26,2022-03-23,56,Approved,Abuja,Yes,No,Online
+VISA000967,Australia,Visiting,China,2023-03-11,2023-05-16,66,Rejected,Bengaluru,Yes,No,Online
+VISA000968,Australia,Student,Nigeria,2022-06-22,2022-08-14,53,Approved,Bengaluru,No,No,Online
+VISA000969,Canada,Student,Philippines,2022-10-27,2022-12-15,49,Approved,Bengaluru,Yes,Yes,Online
+VISA000970,Australia,Student,Nigeria,2023-10-07,2023-11-14,38,Approved,Bengaluru,Yes,Yes,Online
+VISA000971,Australia,Visiting,India,2022-11-22,2023-01-24,63,Approved,Shanghai,Yes,Yes,Offline
+VISA000972,Canada,Work,Bangladesh,2023-02-14,2023-04-15,60,Approved,Sao Paulo,Yes,Yes,Online
+VISA000973,Canada,Work,Bangladesh,2022-04-28,2022-06-04,37,Approved,Sao Paulo,Yes,Yes,Offline
+VISA000974,UK,Tourist,Bangladesh,2023-12-25,2024-03-01,67,Rejected,Chennai,Yes,Yes,Online
+VISA000975,Canada,Tourist,Brazil,2022-08-13,2022-09-19,37,Approved,Bengaluru,No,No,Online
+VISA000976,Canada,Student,China,2023-06-16,2023-08-25,70,Rejected,Bengaluru,Yes,No,Online
+VISA000977,USA,Tourist,Nigeria,2022-04-23,2022-06-27,65,Approved,Manila,No,No,Online
+VISA000978,UK,Visiting,Bangladesh,2022-05-20,2022-07-20,61,Approved,Sao Paulo,Yes,No,Online
+VISA000979,UK,Visiting,India,2023-07-13,2023-08-31,49,Approved,Shanghai,Yes,No,Offline
+VISA000980,UK,Tourist,Bangladesh,2022-01-01,2022-03-05,63,Approved,Abuja,Yes,Yes,Online
+VISA000981,USA,Tourist,Philippines,2022-03-31,2022-06-10,71,Rejected,Chennai,Yes,Yes,Online
+VISA000982,Canada,Tourist,China,2023-10-16,2023-12-18,63,Approved,Chennai,Yes,Yes,Offline
+VISA000983,UK,Tourist,China,2022-11-16,2022-12-30,44,Approved,Shanghai,No,No,Online
+VISA000984,UK,Student,Nigeria,2023-07-04,2023-09-01,59,Approved,Abuja,Yes,Yes,Offline
+VISA000985,Australia,Student,Brazil,2022-05-19,2022-07-29,71,Rejected,Manila,Yes,No,Offline
+VISA000986,UK,Tourist,Nigeria,2023-05-26,2023-08-21,87,Rejected,Beijing,Yes,Yes,Online
+VISA000987,Canada,Visiting,Bangladesh,2022-09-16,2022-11-06,51,Approved,Sao Paulo,No,Yes,Online
+VISA000988,Canada,Student,Philippines,2023-11-04,2024-01-10,67,Rejected,Bengaluru,No,No,Online
+VISA000989,Australia,Visiting,India,2023-11-21,2024-02-01,72,Rejected,Shanghai,Yes,Yes,Offline
+VISA000990,UK,Work,Nigeria,2022-01-10,2022-02-21,42,Approved,Sao Paulo,Yes,Yes,Online
+VISA000991,UK,Visiting,Brazil,2022-09-18,2022-12-08,81,Rejected,Bengaluru,Yes,Yes,Online
+VISA000992,UK,Tourist,Nigeria,2023-10-12,2023-11-20,39,Approved,Beijing,Yes,Yes,Offline
+VISA000993,USA,Work,China,2022-06-21,2022-08-27,67,Rejected,Beijing,Yes,No,Online
+VISA000994,UK,Student,Bangladesh,2022-01-13,2022-03-13,59,Approved,Mumbai,Yes,Yes,Offline
+VISA000995,Canada,Student,Bangladesh,2022-06-17,2022-08-11,55,Approved,Beijing,Yes,Yes,Online
+VISA000996,Canada,Work,Bangladesh,2023-10-04,2024-01-05,93,Rejected,Sao Paulo,Yes,Yes,Online
+VISA000997,USA,Visiting,Bangladesh,2023-08-19,2023-10-08,50,Approved,Dhaka,Yes,No,Offline
+VISA000998,USA,Student,Bangladesh,2022-11-17,2023-01-06,50,Approved,Dhaka,No,Yes,Online
+VISA000999,UK,Tourist,Bangladesh,2022-11-15,2023-01-28,74,Rejected,Bengaluru,No,No,Online
+VISA001000,Australia,Work,India,2023-09-05,2023-11-10,66,Rejected,Bengaluru,Yes,No,Online
+VISA001001,USA,Tourist,Brazil,2022-11-25,2023-02-07,74,Rejected,Mumbai,Yes,Yes,Online
+VISA001002,USA,Work,Bangladesh,2023-07-04,2023-08-29,56,Approved,Dhaka,Yes,No,Online
+VISA001003,UK,Student,Brazil,2023-02-23,2023-04-23,59,Approved,Bengaluru,Yes,No,Offline
+VISA001004,UK,Visiting,Philippines,2023-08-29,2023-11-20,83,Rejected,Beijing,No,Yes,Online
+VISA001005,USA,Work,Bangladesh,2022-04-05,2022-05-17,42,Approved,Bengaluru,Yes,Yes,Online
+VISA001006,Australia,Work,Nigeria,2023-08-04,2023-09-26,53,Approved,Chennai,No,No,Online
+VISA001007,USA,Tourist,Bangladesh,2022-11-14,2023-01-19,66,Rejected,Mumbai,No,No,Online
+VISA001008,UK,Student,China,2022-08-24,2022-10-15,52,Approved,Shanghai,Yes,Yes,Offline
+VISA001009,UK,Tourist,India,2022-11-30,2023-01-15,46,Approved,Abuja,Yes,Yes,Offline
+VISA001010,USA,Student,Nigeria,2023-01-11,2023-03-16,64,Approved,Manila,Yes,No,Online
+VISA001011,Australia,Tourist,Nigeria,2023-04-04,2023-06-18,75,Rejected,Abuja,Yes,No,Online
+VISA001012,USA,Work,China,2022-05-17,2022-07-08,52,Approved,Abuja,Yes,No,Online
+VISA001013,USA,Tourist,Bangladesh,2023-08-11,2023-10-02,52,Approved,Shanghai,Yes,Yes,Online
+VISA001014,UK,Visiting,India,2023-07-01,2023-08-15,45,Approved,Bengaluru,No,No,Online
+VISA001015,Australia,Student,Nigeria,2023-05-28,2023-07-17,50,Approved,Abuja,Yes,Yes,Online
+VISA001016,Canada,Student,India,2022-10-23,2023-01-02,71,Rejected,Chennai,Yes,Yes,Offline
+VISA001017,Australia,Work,Nigeria,2022-11-16,2023-01-11,56,Approved,Manila,Yes,No,Online
+VISA001018,USA,Student,Bangladesh,2023-07-26,2023-09-06,42,Approved,Abuja,Yes,No,Offline
+VISA001019,USA,Visiting,Philippines,2022-12-15,2023-02-11,58,Approved,Dhaka,Yes,Yes,Online
+VISA001020,USA,Tourist,Nigeria,2022-08-17,2022-10-26,70,Rejected,Shanghai,No,Yes,Online
+VISA001021,Australia,Work,Philippines,2022-09-27,2022-11-12,46,Approved,Shanghai,Yes,No,Offline
+VISA001022,UK,Visiting,Nigeria,2022-10-18,2022-11-22,35,Approved,Shanghai,Yes,Yes,Online
+VISA001023,USA,Student,Brazil,2023-12-26,2024-03-22,87,Rejected,Mumbai,Yes,No,Offline
+VISA001024,USA,Student,Bangladesh,2022-06-14,2022-07-18,34,Approved,Mumbai,Yes,No,Online
+VISA001025,Australia,Visiting,China,2022-01-05,2022-02-23,49,Approved,Beijing,No,Yes,Online
+VISA001026,Canada,Tourist,Philippines,2023-01-14,2023-03-13,58,Approved,Sao Paulo,Yes,No,Offline
+VISA001027,Canada,Tourist,China,2022-03-19,2022-05-08,50,Approved,Manila,No,No,Online
+VISA001028,UK,Work,Bangladesh,2023-02-14,2023-04-08,53,Approved,Bengaluru,Yes,No,Offline
+VISA001029,UK,Student,China,2023-07-28,2023-09-29,63,Approved,Abuja,Yes,No,Offline
+VISA001030,USA,Visiting,Bangladesh,2022-05-12,2022-05-31,19,Approved,Sao Paulo,Yes,No,Online
+VISA001031,Australia,Tourist,China,2023-08-24,2023-09-28,35,Approved,Bengaluru,Yes,Yes,Online
+VISA001032,USA,Work,Philippines,2022-02-11,2022-04-07,55,Approved,Sao Paulo,Yes,Yes,Online
+VISA001033,UK,Student,Brazil,2022-03-30,2022-05-17,48,Approved,Bengaluru,No,No,Online
+VISA001034,Australia,Student,China,2023-02-06,2023-04-03,56,Approved,Chennai,Yes,Yes,Offline
+VISA001035,Australia,Work,Philippines,2022-10-23,2022-12-20,58,Approved,Mumbai,Yes,Yes,Online
+VISA001036,UK,Work,Nigeria,2022-10-22,2022-11-14,23,Approved,Manila,Yes,No,Online
+VISA001037,Canada,Tourist,Bangladesh,2023-09-08,2023-11-21,74,Rejected,Dhaka,Yes,No,Online
+VISA001038,Canada,Visiting,India,2023-06-10,2023-07-27,47,Approved,Chennai,Yes,Yes,Online
+VISA001039,Australia,Student,India,2023-11-22,2024-01-03,42,Approved,Mumbai,Yes,No,Offline
+VISA001040,USA,Visiting,Bangladesh,2023-09-29,2023-11-26,58,Approved,Shanghai,Yes,No,Online
+VISA001041,Canada,Student,Brazil,2023-02-26,2023-04-23,56,Approved,Mumbai,Yes,Yes,Offline
+VISA001042,USA,Student,China,2022-01-23,2022-04-05,72,Rejected,Sao Paulo,Yes,No,Online
+VISA001043,Canada,Visiting,Brazil,2023-07-29,2023-09-26,59,Approved,Beijing,Yes,Yes,Online
+VISA001044,Canada,Work,India,2022-05-23,2022-08-03,72,Rejected,Chennai,Yes,Yes,Online
+VISA001045,USA,Tourist,Philippines,2023-10-27,2023-12-06,40,Approved,Shanghai,Yes,Yes,Online
+VISA001046,UK,Student,Bangladesh,2022-05-25,2022-07-21,57,Approved,Sao Paulo,No,Yes,Offline
+VISA001047,Canada,Work,Bangladesh,2022-08-13,2022-09-20,38,Approved,Manila,Yes,Yes,Online
+VISA001048,Canada,Student,Brazil,2023-05-18,2023-07-13,56,Approved,Mumbai,Yes,No,Offline
+VISA001049,USA,Tourist,Philippines,2023-09-08,2023-10-31,53,Approved,Shanghai,Yes,No,Online
+VISA001050,UK,Student,Brazil,2022-04-14,2022-06-05,52,Approved,Sao Paulo,Yes,Yes,Online
+VISA001051,Canada,Tourist,China,2022-02-08,2022-04-01,52,Approved,Beijing,No,No,Online
+VISA001052,Canada,Tourist,Nigeria,2022-07-17,2022-09-21,66,Rejected,Mumbai,Yes,Yes,Online
+VISA001053,UK,Student,Philippines,2023-10-08,2023-11-07,30,Approved,Manila,No,Yes,Online
+VISA001054,Canada,Student,Nigeria,2023-08-02,2023-09-12,41,Approved,Beijing,No,No,Online
+VISA001055,UK,Tourist,China,2023-01-26,2023-03-21,54,Approved,Bengaluru,Yes,Yes,Offline
+VISA001056,UK,Work,Nigeria,2022-06-28,2022-08-04,37,Approved,Sao Paulo,Yes,Yes,Online
+VISA001057,USA,Visiting,India,2023-07-08,2023-09-01,55,Approved,Mumbai,Yes,No,Online
+VISA001058,Australia,Tourist,Nigeria,2023-03-24,2023-05-17,54,Approved,Mumbai,Yes,Yes,Online
+VISA001059,UK,Student,China,2023-05-15,2023-06-17,33,Approved,Shanghai,Yes,No,Online
+VISA001060,USA,Student,Nigeria,2022-01-15,2022-02-17,33,Approved,Manila,Yes,Yes,Offline
+VISA001061,Australia,Work,Bangladesh,2023-09-15,2023-09-30,15,Approved,Dhaka,Yes,Yes,Online
+VISA001062,Canada,Visiting,Brazil,2023-10-31,2023-12-06,36,Approved,Bengaluru,Yes,Yes,Online
+VISA001063,Australia,Tourist,India,2022-10-16,2022-12-10,55,Approved,Beijing,Yes,Yes,Online
+VISA001064,UK,Tourist,Bangladesh,2023-04-23,2023-06-19,57,Approved,Chennai,No,Yes,Online
+VISA001065,UK,Visiting,Bangladesh,2022-08-19,2022-10-16,58,Approved,Chennai,Yes,Yes,Online
+VISA001066,UK,Tourist,China,2023-02-24,2023-04-08,43,Approved,Mumbai,No,No,Online
+VISA001067,UK,Visiting,Brazil,2022-06-06,2022-07-30,54,Approved,Shanghai,Yes,No,Online
+VISA001068,UK,Student,Brazil,2023-07-04,2023-09-02,60,Approved,Abuja,Yes,Yes,Online
+VISA001069,USA,Visiting,Philippines,2023-03-17,2023-04-21,35,Approved,Mumbai,Yes,Yes,Offline
+VISA001070,UK,Tourist,India,2022-04-07,2022-06-02,56,Approved,Chennai,Yes,Yes,Online
+VISA001071,USA,Visiting,China,2023-02-15,2023-04-20,64,Approved,Chennai,Yes,No,Offline
+VISA001072,Canada,Work,India,2022-10-16,2022-12-02,47,Approved,Bengaluru,Yes,No,Online
+VISA001073,UK,Student,Philippines,2022-09-11,2022-11-20,70,Rejected,Abuja,No,Yes,Offline
+VISA001074,UK,Student,Nigeria,2022-07-15,2022-08-31,47,Approved,Mumbai,Yes,No,Online
+VISA001075,Australia,Visiting,Bangladesh,2023-08-21,2023-10-02,42,Approved,Bengaluru,Yes,Yes,Online
+VISA001076,Canada,Tourist,India,2023-06-06,2023-08-08,63,Approved,Shanghai,No,Yes,Online
+VISA001077,UK,Work,Bangladesh,2023-06-01,2023-08-25,85,Rejected,Bengaluru,No,Yes,Online
+VISA001078,UK,Student,China,2023-09-27,2023-11-22,56,Approved,Mumbai,Yes,Yes,Online
+VISA001079,Canada,Student,Nigeria,2022-04-28,2022-07-01,64,Approved,Sao Paulo,Yes,Yes,Online
+VISA001080,USA,Tourist,China,2022-06-08,2022-07-25,47,Approved,Dhaka,No,Yes,Online
+VISA001081,UK,Tourist,Nigeria,2022-08-16,2022-09-21,36,Approved,Mumbai,Yes,No,Online
+VISA001082,Australia,Work,Nigeria,2022-08-04,2022-09-30,57,Approved,Manila,Yes,Yes,Online
+VISA001083,UK,Visiting,Bangladesh,2023-11-27,2024-01-25,59,Approved,Chennai,Yes,Yes,Offline
+VISA001084,Australia,Tourist,China,2022-01-15,2022-03-05,49,Approved,Abuja,No,Yes,Online
+VISA001085,Australia,Visiting,China,2022-06-06,2022-08-09,64,Approved,Abuja,Yes,Yes,Online
+VISA001086,UK,Work,India,2023-10-10,2023-11-24,45,Approved,Dhaka,No,Yes,Online
+VISA001087,UK,Visiting,China,2022-09-18,2022-10-29,41,Approved,Manila,Yes,Yes,Online
+VISA001088,Australia,Student,India,2022-06-06,2022-08-15,70,Rejected,Chennai,No,Yes,Online
+VISA001089,Canada,Visiting,Brazil,2022-02-16,2022-04-27,70,Rejected,Abuja,Yes,Yes,Offline
+VISA001090,Canada,Work,Brazil,2022-11-20,2023-01-04,45,Approved,Manila,Yes,Yes,Online
+VISA001091,UK,Work,Brazil,2023-11-16,2024-02-04,80,Rejected,Bengaluru,No,Yes,Online
+VISA001092,USA,Work,Philippines,2022-05-10,2022-06-29,50,Approved,Mumbai,Yes,No,Online
+VISA001093,Canada,Visiting,China,2023-02-15,2023-04-12,56,Approved,Mumbai,Yes,No,Online
+VISA001094,UK,Student,Philippines,2022-04-05,2022-05-28,53,Approved,Sao Paulo,Yes,Yes,Offline
+VISA001095,Canada,Tourist,China,2023-09-19,2023-11-20,62,Approved,Chennai,Yes,Yes,Offline
+VISA001096,USA,Student,India,2022-10-19,2022-12-17,59,Approved,Manila,Yes,Yes,Online
+VISA001097,UK,Visiting,Philippines,2022-10-10,2022-12-07,58,Approved,Beijing,Yes,Yes,Online
+VISA001098,USA,Visiting,Philippines,2022-03-10,2022-04-18,39,Approved,Abuja,Yes,Yes,Online
+VISA001099,UK,Tourist,Philippines,2023-10-22,2023-11-20,29,Approved,Shanghai,Yes,Yes,Online
+VISA001100,USA,Visiting,Nigeria,2022-01-11,2022-03-24,72,Rejected,Shanghai,Yes,Yes,Online
+VISA001101,Canada,Work,India,2022-09-11,2022-10-27,46,Approved,Mumbai,Yes,No,Online
+VISA001102,Canada,Work,Brazil,2023-07-04,2023-08-27,54,Approved,Beijing,No,Yes,Online
+VISA001103,USA,Work,India,2022-05-14,2022-07-12,59,Approved,Shanghai,Yes,Yes,Online
+VISA001104,USA,Work,Nigeria,2023-12-13,2024-03-01,79,Rejected,Dhaka,Yes,Yes,Online
+VISA001105,USA,Work,China,2022-01-23,2022-03-21,57,Approved,Dhaka,No,No,Offline
+VISA001106,UK,Visiting,India,2022-12-12,2023-01-30,49,Approved,Chennai,Yes,No,Online
+VISA001107,Canada,Tourist,Philippines,2022-10-29,2022-12-15,47,Approved,Beijing,No,Yes,Offline
+VISA001108,UK,Tourist,Brazil,2022-12-29,2023-02-21,54,Approved,Dhaka,No,No,Online
+VISA001109,Canada,Work,Brazil,2023-01-31,2023-03-13,41,Approved,Dhaka,No,Yes,Online
+VISA001110,Australia,Visiting,China,2022-08-06,2022-09-30,55,Approved,Mumbai,Yes,No,Offline
+VISA001111,UK,Student,India,2022-05-21,2022-07-14,54,Approved,Shanghai,No,No,Offline
+VISA001112,Canada,Student,Nigeria,2023-09-08,2023-11-26,79,Rejected,Chennai,No,Yes,Online
+VISA001113,Canada,Visiting,China,2022-07-29,2022-09-20,53,Approved,Manila,Yes,No,Online
+VISA001114,UK,Work,India,2023-09-15,2023-10-11,26,Approved,Bengaluru,Yes,Yes,Offline
+VISA001115,UK,Tourist,Bangladesh,2023-09-08,2023-12-12,95,Rejected,Abuja,Yes,Yes,Online
+VISA001116,Canada,Visiting,Brazil,2023-11-14,2024-01-22,69,Rejected,Abuja,Yes,Yes,Online
+VISA001117,UK,Student,Nigeria,2023-04-05,2023-06-30,86,Rejected,Bengaluru,Yes,No,Offline
+VISA001118,USA,Student,Philippines,2022-12-22,2023-01-28,37,Approved,Bengaluru,Yes,Yes,Online
+VISA001119,UK,Student,Nigeria,2022-11-20,2023-01-10,51,Approved,Abuja,Yes,Yes,Online
+VISA001120,UK,Work,Philippines,2022-05-13,2022-07-17,65,Approved,Abuja,Yes,No,Online
+VISA001121,UK,Student,Nigeria,2022-05-07,2022-07-09,63,Approved,Manila,Yes,Yes,Online
+VISA001122,Canada,Visiting,Brazil,2022-04-16,2022-06-14,59,Approved,Beijing,Yes,Yes,Online
+VISA001123,USA,Visiting,Philippines,2023-08-27,2023-09-18,22,Approved,Beijing,No,Yes,Online
+VISA001124,Australia,Student,India,2023-01-13,2023-02-11,29,Approved,Manila,Yes,Yes,Online
+VISA001125,Australia,Visiting,Philippines,2022-02-20,2022-05-08,77,Rejected,Shanghai,Yes,Yes,Online
+VISA001126,USA,Student,China,2022-01-29,2022-04-19,80,Rejected,Bengaluru,Yes,Yes,Online
+VISA001127,USA,Student,India,2023-04-07,2023-05-30,53,Approved,Sao Paulo,Yes,No,Online
+VISA001128,USA,Tourist,China,2022-10-23,2023-01-06,75,Rejected,Bengaluru,No,No,Offline
+VISA001129,Canada,Work,Nigeria,2022-10-24,2022-12-02,39,Approved,Abuja,No,Yes,Online
+VISA001130,Australia,Work,India,2023-12-27,2024-02-08,43,Approved,Bengaluru,Yes,Yes,Offline
+VISA001131,USA,Tourist,Nigeria,2023-02-11,2023-03-21,38,Approved,Abuja,No,Yes,Online
+VISA001132,Canada,Tourist,Bangladesh,2023-09-05,2023-10-17,42,Approved,Bengaluru,Yes,No,Offline
+VISA001133,Australia,Work,Nigeria,2023-02-09,2023-04-15,65,Approved,Shanghai,Yes,Yes,Online
+VISA001134,UK,Student,Nigeria,2022-12-12,2023-01-23,42,Approved,Sao Paulo,Yes,Yes,Online
+VISA001135,Canada,Student,China,2023-09-14,2023-12-11,88,Rejected,Dhaka,No,No,Offline
+VISA001136,Australia,Work,Philippines,2023-02-24,2023-04-26,61,Approved,Manila,Yes,Yes,Offline
+VISA001137,Canada,Student,Bangladesh,2022-07-01,2022-09-10,71,Rejected,Manila,Yes,Yes,Online
+VISA001138,Australia,Tourist,Nigeria,2022-01-01,2022-03-04,62,Approved,Sao Paulo,No,No,Online
+VISA001139,Australia,Student,Nigeria,2023-07-21,2023-10-02,73,Rejected,Bengaluru,Yes,No,Online
+VISA001140,UK,Student,Bangladesh,2023-01-06,2023-02-16,41,Approved,Dhaka,Yes,Yes,Offline
+VISA001141,Canada,Visiting,Bangladesh,2023-10-23,2024-01-07,76,Rejected,Beijing,No,No,Online
+VISA001142,USA,Visiting,India,2023-03-07,2023-05-03,57,Approved,Bengaluru,Yes,Yes,Online
+VISA001143,UK,Visiting,China,2022-11-05,2023-01-17,73,Rejected,Shanghai,Yes,No,Online
+VISA001144,UK,Student,Bangladesh,2022-05-17,2022-06-19,33,Approved,Abuja,Yes,Yes,Online
+VISA001145,Australia,Work,Bangladesh,2022-07-21,2022-09-16,57,Approved,Chennai,Yes,No,Offline
+VISA001146,USA,Tourist,Brazil,2023-03-12,2023-05-08,57,Approved,Bengaluru,Yes,No,Online
+VISA001147,Canada,Student,Philippines,2022-11-09,2022-12-24,45,Approved,Chennai,Yes,No,Online
+VISA001148,USA,Work,Bangladesh,2022-04-27,2022-06-25,59,Approved,Bengaluru,Yes,No,Online
+VISA001149,USA,Student,China,2023-10-28,2024-01-14,78,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001150,USA,Tourist,Philippines,2023-07-29,2023-09-11,44,Approved,Chennai,No,Yes,Online
+VISA001151,USA,Student,Philippines,2022-09-01,2022-11-09,69,Rejected,Bengaluru,No,Yes,Online
+VISA001152,USA,Tourist,Nigeria,2023-06-21,2023-07-29,38,Approved,Manila,Yes,No,Offline
+VISA001153,Australia,Student,Nigeria,2023-08-25,2023-11-19,86,Rejected,Chennai,Yes,No,Online
+VISA001154,Australia,Tourist,Nigeria,2022-03-16,2022-05-21,66,Rejected,Bengaluru,No,Yes,Online
+VISA001155,UK,Student,Nigeria,2023-01-21,2023-04-11,80,Rejected,Beijing,Yes,No,Online
+VISA001156,Australia,Tourist,Brazil,2022-07-29,2022-10-02,65,Approved,Abuja,Yes,No,Online
+VISA001157,UK,Visiting,Bangladesh,2023-04-20,2023-06-19,60,Approved,Beijing,No,No,Offline
+VISA001158,UK,Student,Nigeria,2023-02-22,2023-04-29,66,Rejected,Dhaka,No,No,Online
+VISA001159,Canada,Student,India,2022-12-13,2023-02-03,52,Approved,Bengaluru,No,Yes,Online
+VISA001160,USA,Work,Nigeria,2023-06-13,2023-07-13,30,Approved,Mumbai,No,Yes,Online
+VISA001161,Australia,Work,Bangladesh,2023-10-02,2023-12-02,61,Approved,Shanghai,Yes,Yes,Online
+VISA001162,Canada,Tourist,Nigeria,2022-06-28,2022-08-10,43,Approved,Beijing,Yes,Yes,Online
+VISA001163,Australia,Student,Brazil,2022-07-01,2022-08-08,38,Approved,Chennai,Yes,No,Offline
+VISA001164,UK,Tourist,China,2023-10-26,2023-12-29,64,Approved,Sao Paulo,Yes,No,Online
+VISA001165,Australia,Visiting,China,2022-01-25,2022-03-16,50,Approved,Shanghai,Yes,No,Online
+VISA001166,USA,Work,Bangladesh,2022-06-29,2022-09-07,70,Rejected,Mumbai,No,No,Online
+VISA001167,UK,Tourist,China,2023-12-11,2024-01-23,43,Approved,Bengaluru,No,Yes,Online
+VISA001168,UK,Tourist,China,2023-05-16,2023-07-02,47,Approved,Sao Paulo,Yes,Yes,Online
+VISA001169,Canada,Work,India,2022-06-10,2022-08-21,72,Rejected,Bengaluru,No,Yes,Offline
+VISA001170,USA,Student,Bangladesh,2022-06-26,2022-08-24,59,Approved,Dhaka,No,Yes,Online
+VISA001171,UK,Tourist,Bangladesh,2022-10-12,2022-11-13,32,Approved,Mumbai,Yes,Yes,Online
+VISA001172,USA,Work,China,2022-03-04,2022-05-01,58,Approved,Bengaluru,Yes,Yes,Online
+VISA001173,Australia,Student,China,2023-10-24,2024-01-09,77,Rejected,Chennai,Yes,Yes,Offline
+VISA001174,USA,Visiting,China,2023-10-28,2023-12-14,47,Approved,Dhaka,Yes,Yes,Online
+VISA001175,UK,Work,Philippines,2022-06-05,2022-08-07,63,Approved,Manila,Yes,No,Offline
+VISA001176,Canada,Tourist,Brazil,2023-04-14,2023-05-26,42,Approved,Mumbai,Yes,Yes,Online
+VISA001177,UK,Visiting,Nigeria,2022-02-18,2022-04-11,52,Approved,Abuja,Yes,Yes,Offline
+VISA001178,USA,Student,Brazil,2022-03-25,2022-06-04,71,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001179,USA,Student,Bangladesh,2022-12-27,2023-02-23,58,Approved,Beijing,No,No,Online
+VISA001180,UK,Work,India,2023-11-20,2024-02-02,74,Rejected,Bengaluru,Yes,Yes,Online
+VISA001181,USA,Work,Nigeria,2022-05-28,2022-07-28,61,Approved,Sao Paulo,No,Yes,Online
+VISA001182,Australia,Work,India,2023-09-22,2023-12-19,88,Rejected,Sao Paulo,Yes,No,Online
+VISA001183,UK,Student,Philippines,2022-12-08,2023-01-08,31,Approved,Abuja,Yes,Yes,Online
+VISA001184,Canada,Visiting,Bangladesh,2023-04-21,2023-06-11,51,Approved,Abuja,No,No,Online
+VISA001185,UK,Student,Philippines,2022-03-04,2022-04-11,38,Approved,Dhaka,Yes,Yes,Online
+VISA001186,Australia,Tourist,Bangladesh,2023-12-02,2024-01-10,39,Approved,Mumbai,Yes,Yes,Offline
+VISA001187,Australia,Student,India,2022-12-26,2023-02-03,39,Approved,Chennai,No,Yes,Online
+VISA001188,Australia,Tourist,India,2023-07-15,2023-09-10,57,Approved,Abuja,Yes,No,Offline
+VISA001189,Australia,Visiting,India,2022-11-23,2023-01-20,58,Approved,Abuja,Yes,Yes,Online
+VISA001190,Australia,Work,Bangladesh,2022-05-21,2022-07-21,61,Approved,Beijing,Yes,Yes,Online
+VISA001191,Canada,Work,China,2022-08-03,2022-09-10,38,Approved,Manila,No,Yes,Online
+VISA001192,USA,Student,India,2023-03-11,2023-04-30,50,Approved,Abuja,Yes,Yes,Online
+VISA001193,Australia,Work,Philippines,2023-12-24,2024-02-02,40,Approved,Manila,Yes,Yes,Offline
+VISA001194,Australia,Visiting,Nigeria,2022-11-14,2023-01-22,69,Rejected,Dhaka,Yes,No,Online
+VISA001195,UK,Work,Bangladesh,2022-02-01,2022-03-14,41,Approved,Chennai,Yes,No,Offline
+VISA001196,Canada,Student,Philippines,2023-11-01,2023-12-22,51,Approved,Sao Paulo,No,Yes,Offline
+VISA001197,Canada,Visiting,Brazil,2022-10-12,2022-12-14,63,Approved,Abuja,Yes,Yes,Online
+VISA001198,USA,Tourist,Brazil,2022-11-01,2022-12-16,45,Approved,Bengaluru,Yes,No,Offline
+VISA001199,Canada,Student,Nigeria,2023-03-05,2023-05-09,65,Approved,Manila,Yes,Yes,Online
+VISA001200,UK,Tourist,China,2023-04-22,2023-07-09,78,Rejected,Beijing,No,Yes,Offline
+VISA001201,UK,Visiting,India,2022-10-13,2022-12-09,57,Approved,Beijing,Yes,Yes,Online
+VISA001202,USA,Student,Bangladesh,2022-05-24,2022-07-31,68,Rejected,Abuja,No,No,Online
+VISA001203,UK,Student,Philippines,2023-02-28,2023-03-23,23,Approved,Mumbai,No,No,Offline
+VISA001204,Australia,Visiting,India,2022-01-19,2022-03-08,48,Approved,Sao Paulo,Yes,No,Online
+VISA001205,Australia,Work,Philippines,2022-01-18,2022-03-16,57,Approved,Chennai,Yes,Yes,Online
+VISA001206,UK,Student,Bangladesh,2023-08-13,2023-09-21,39,Approved,Bengaluru,Yes,Yes,Online
+VISA001207,USA,Student,Brazil,2023-01-06,2023-03-05,58,Approved,Mumbai,No,No,Online
+VISA001208,Canada,Tourist,India,2022-06-24,2022-09-02,70,Rejected,Beijing,Yes,Yes,Online
+VISA001209,USA,Work,Nigeria,2022-07-13,2022-08-08,26,Approved,Manila,Yes,No,Offline
+VISA001210,Canada,Tourist,China,2023-05-17,2023-06-23,37,Approved,Manila,No,No,Online
+VISA001211,UK,Tourist,Nigeria,2022-04-23,2022-06-19,57,Approved,Mumbai,Yes,Yes,Online
+VISA001212,UK,Work,China,2022-04-24,2022-06-24,61,Approved,Manila,Yes,No,Online
+VISA001213,Australia,Work,Philippines,2022-08-10,2022-10-15,66,Rejected,Beijing,Yes,Yes,Online
+VISA001214,Canada,Visiting,India,2023-11-09,2024-01-04,56,Approved,Mumbai,Yes,No,Online
+VISA001215,USA,Work,India,2023-10-06,2023-12-06,61,Approved,Beijing,No,Yes,Offline
+VISA001216,UK,Student,China,2022-09-21,2022-11-28,68,Rejected,Bengaluru,Yes,Yes,Offline
+VISA001217,USA,Work,Brazil,2022-02-24,2022-04-13,48,Approved,Sao Paulo,Yes,No,Online
+VISA001218,Australia,Visiting,Bangladesh,2023-10-05,2023-11-19,45,Approved,Bengaluru,No,No,Online
+VISA001219,Canada,Visiting,Nigeria,2023-04-03,2023-05-25,52,Approved,Bengaluru,Yes,Yes,Offline
+VISA001220,Canada,Visiting,Philippines,2022-06-11,2022-08-07,57,Approved,Manila,No,Yes,Offline
+VISA001221,UK,Work,Nigeria,2023-01-15,2023-03-01,45,Approved,Abuja,No,Yes,Online
+VISA001222,Canada,Work,Nigeria,2022-03-28,2022-05-16,49,Approved,Shanghai,Yes,Yes,Online
+VISA001223,UK,Tourist,Philippines,2022-02-24,2022-04-25,60,Approved,Manila,Yes,Yes,Offline
+VISA001224,Australia,Tourist,Philippines,2023-04-21,2023-06-17,57,Approved,Abuja,No,Yes,Online
+VISA001225,Canada,Student,India,2022-06-27,2022-08-18,52,Approved,Beijing,Yes,Yes,Online
+VISA001226,UK,Tourist,Nigeria,2023-01-26,2023-02-23,28,Approved,Shanghai,Yes,Yes,Online
+VISA001227,USA,Student,Bangladesh,2022-12-15,2023-02-07,54,Approved,Manila,No,Yes,Online
+VISA001228,UK,Visiting,Bangladesh,2022-01-08,2022-02-17,40,Approved,Shanghai,Yes,Yes,Online
+VISA001229,Canada,Tourist,China,2022-11-09,2023-01-17,69,Rejected,Shanghai,No,Yes,Online
+VISA001230,Australia,Work,Philippines,2023-03-19,2023-05-08,50,Approved,Dhaka,Yes,No,Online
+VISA001231,Canada,Tourist,India,2022-11-24,2023-01-03,40,Approved,Sao Paulo,Yes,Yes,Online
+VISA001232,Canada,Student,Bangladesh,2022-02-23,2022-04-18,54,Approved,Dhaka,Yes,No,Online
+VISA001233,UK,Tourist,Brazil,2022-08-27,2022-11-09,74,Rejected,Abuja,No,No,Online
+VISA001234,USA,Visiting,India,2022-08-17,2022-10-20,64,Approved,Chennai,Yes,No,Offline
+VISA001235,Canada,Work,India,2023-08-02,2023-09-29,58,Approved,Mumbai,No,No,Offline
+VISA001236,USA,Student,Bangladesh,2022-02-20,2022-03-27,35,Approved,Chennai,Yes,No,Online
+VISA001237,UK,Work,Brazil,2023-09-01,2023-11-19,79,Rejected,Mumbai,Yes,Yes,Online
+VISA001238,USA,Work,China,2023-08-27,2023-10-11,45,Approved,Abuja,Yes,Yes,Offline
+VISA001239,UK,Student,Bangladesh,2022-09-21,2022-11-29,69,Rejected,Abuja,Yes,No,Online
+VISA001240,Australia,Work,Brazil,2023-02-22,2023-04-13,50,Approved,Beijing,Yes,Yes,Online
+VISA001241,USA,Work,India,2022-04-06,2022-06-12,67,Rejected,Sao Paulo,Yes,No,Offline
+VISA001242,USA,Tourist,Brazil,2022-03-29,2022-06-11,74,Rejected,Shanghai,Yes,Yes,Online
+VISA001243,Australia,Work,India,2022-03-19,2022-05-22,64,Approved,Dhaka,No,No,Offline
+VISA001244,USA,Work,Bangladesh,2022-10-15,2022-12-20,66,Rejected,Dhaka,Yes,Yes,Offline
+VISA001245,Australia,Work,Philippines,2022-04-30,2022-06-22,53,Approved,Abuja,No,Yes,Online
+VISA001246,Canada,Work,Bangladesh,2023-05-06,2023-06-23,48,Approved,Dhaka,Yes,Yes,Online
+VISA001247,UK,Student,Nigeria,2023-03-28,2023-05-24,57,Approved,Abuja,Yes,No,Online
+VISA001248,Australia,Visiting,Nigeria,2023-05-15,2023-07-03,49,Approved,Shanghai,Yes,No,Online
+VISA001249,USA,Tourist,Nigeria,2022-06-14,2022-09-14,92,Rejected,Abuja,Yes,Yes,Online
+VISA001250,Australia,Work,Bangladesh,2022-07-01,2022-08-10,40,Approved,Beijing,Yes,No,Online
+VISA001251,USA,Work,China,2023-04-14,2023-06-23,70,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001252,Canada,Student,Bangladesh,2022-01-07,2022-03-10,62,Approved,Bengaluru,Yes,Yes,Offline
+VISA001253,Australia,Visiting,Philippines,2022-11-26,2023-01-23,58,Approved,Manila,No,Yes,Online
+VISA001254,Canada,Work,Brazil,2023-11-04,2024-01-20,77,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001255,UK,Student,Bangladesh,2022-05-31,2022-07-29,59,Approved,Sao Paulo,No,Yes,Online
+VISA001256,USA,Tourist,Bangladesh,2022-03-26,2022-05-10,45,Approved,Chennai,Yes,Yes,Online
+VISA001257,USA,Tourist,India,2022-05-27,2022-07-25,59,Approved,Mumbai,Yes,No,Online
+VISA001258,Canada,Work,India,2023-09-16,2023-11-07,52,Approved,Manila,Yes,No,Online
+VISA001259,UK,Work,India,2023-01-16,2023-03-19,62,Approved,Shanghai,Yes,Yes,Online
+VISA001260,Australia,Visiting,Bangladesh,2023-07-02,2023-09-07,67,Rejected,Bengaluru,Yes,Yes,Offline
+VISA001261,Australia,Visiting,China,2022-10-12,2022-11-23,42,Approved,Bengaluru,Yes,Yes,Offline
+VISA001262,USA,Work,Brazil,2023-12-01,2024-02-11,72,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001263,Canada,Student,Brazil,2022-03-23,2022-05-13,51,Approved,Beijing,Yes,Yes,Online
+VISA001264,Canada,Visiting,Philippines,2023-05-29,2023-07-29,61,Approved,Mumbai,Yes,Yes,Online
+VISA001265,Australia,Work,China,2023-12-10,2024-02-12,64,Approved,Abuja,Yes,No,Online
+VISA001266,UK,Visiting,China,2023-06-07,2023-08-06,60,Approved,Mumbai,Yes,No,Online
+VISA001267,UK,Work,Brazil,2023-01-21,2023-03-15,53,Approved,Chennai,No,Yes,Offline
+VISA001268,Australia,Tourist,Nigeria,2023-12-08,2024-01-24,47,Approved,Mumbai,No,Yes,Online
+VISA001269,Australia,Work,India,2023-04-16,2023-06-05,50,Approved,Sao Paulo,Yes,Yes,Online
+VISA001270,Canada,Tourist,India,2022-04-29,2022-07-16,78,Rejected,Shanghai,No,No,Online
+VISA001271,UK,Visiting,Brazil,2023-01-31,2023-03-14,42,Approved,Sao Paulo,No,Yes,Offline
+VISA001272,Australia,Work,China,2023-06-16,2023-07-30,44,Approved,Shanghai,Yes,Yes,Offline
+VISA001273,Australia,Visiting,Philippines,2022-09-18,2022-10-31,43,Approved,Dhaka,Yes,No,Online
+VISA001274,USA,Tourist,Nigeria,2022-09-13,2022-11-09,57,Approved,Shanghai,No,Yes,Online
+VISA001275,Australia,Work,Brazil,2022-08-14,2022-09-15,32,Approved,Mumbai,Yes,Yes,Online
+VISA001276,Australia,Visiting,India,2022-02-22,2022-03-28,34,Approved,Mumbai,No,Yes,Online
+VISA001277,UK,Tourist,Bangladesh,2023-05-15,2023-07-05,51,Approved,Mumbai,Yes,Yes,Online
+VISA001278,Canada,Visiting,China,2023-05-21,2023-06-25,35,Approved,Dhaka,Yes,Yes,Offline
+VISA001279,UK,Student,Bangladesh,2022-12-30,2023-02-04,36,Approved,Abuja,Yes,Yes,Online
+VISA001280,Canada,Tourist,Philippines,2022-10-07,2022-11-11,35,Approved,Manila,Yes,Yes,Offline
+VISA001281,USA,Tourist,Brazil,2023-08-16,2023-09-27,42,Approved,Mumbai,No,Yes,Online
+VISA001282,Australia,Tourist,India,2023-12-15,2024-02-18,65,Approved,Chennai,No,No,Offline
+VISA001283,USA,Work,Nigeria,2022-06-07,2022-08-15,69,Rejected,Bengaluru,Yes,Yes,Offline
+VISA001284,Canada,Work,Bangladesh,2023-09-24,2023-12-16,83,Rejected,Bengaluru,Yes,Yes,Online
+VISA001285,UK,Work,Nigeria,2022-02-28,2022-05-22,83,Rejected,Manila,No,No,Online
+VISA001286,UK,Student,Philippines,2023-12-28,2024-03-03,66,Rejected,Manila,Yes,No,Online
+VISA001287,USA,Student,India,2022-05-08,2022-07-17,70,Rejected,Abuja,Yes,No,Offline
+VISA001288,Canada,Tourist,Bangladesh,2023-12-22,2024-02-16,56,Approved,Chennai,Yes,Yes,Online
+VISA001289,USA,Student,Philippines,2022-04-25,2022-06-26,62,Approved,Sao Paulo,No,Yes,Online
+VISA001290,USA,Visiting,Nigeria,2022-07-28,2022-10-20,84,Rejected,Shanghai,No,No,Online
+VISA001291,Australia,Tourist,Nigeria,2023-06-10,2023-08-09,60,Approved,Shanghai,Yes,No,Online
+VISA001292,USA,Tourist,Bangladesh,2023-06-05,2023-08-16,72,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001293,Australia,Visiting,India,2023-07-06,2023-08-15,40,Approved,Bengaluru,No,No,Online
+VISA001294,Australia,Tourist,Nigeria,2022-08-25,2022-10-09,45,Approved,Sao Paulo,Yes,Yes,Online
+VISA001295,UK,Student,Brazil,2022-10-08,2022-12-06,59,Approved,Chennai,Yes,No,Online
+VISA001296,Australia,Work,Philippines,2022-12-25,2023-02-20,57,Approved,Mumbai,Yes,No,Offline
+VISA001297,Australia,Visiting,Bangladesh,2022-07-20,2022-09-03,45,Approved,Dhaka,No,No,Offline
+VISA001298,UK,Student,China,2022-10-05,2023-01-04,91,Rejected,Mumbai,Yes,No,Online
+VISA001299,USA,Visiting,China,2022-08-23,2022-10-19,57,Approved,Dhaka,Yes,No,Offline
+VISA001300,Canada,Visiting,India,2023-05-09,2023-06-26,48,Approved,Shanghai,Yes,Yes,Online
+VISA001301,Canada,Tourist,Brazil,2022-01-04,2022-03-02,57,Approved,Manila,Yes,Yes,Online
+VISA001302,Canada,Tourist,Nigeria,2023-10-28,2023-12-22,55,Approved,Mumbai,Yes,Yes,Online
+VISA001303,USA,Student,China,2023-03-18,2023-05-14,57,Approved,Sao Paulo,Yes,Yes,Online
+VISA001304,Australia,Visiting,India,2022-01-29,2022-03-01,31,Approved,Chennai,Yes,No,Online
+VISA001305,Canada,Tourist,Philippines,2022-04-19,2022-07-02,74,Rejected,Chennai,Yes,Yes,Online
+VISA001306,USA,Tourist,Brazil,2023-09-02,2023-11-16,75,Rejected,Bengaluru,Yes,Yes,Online
+VISA001307,Australia,Visiting,Brazil,2023-12-28,2024-03-14,77,Rejected,Chennai,Yes,Yes,Offline
+VISA001308,UK,Student,India,2022-03-16,2022-05-14,59,Approved,Chennai,No,No,Online
+VISA001309,Canada,Student,India,2022-05-26,2022-07-29,64,Approved,Manila,No,Yes,Online
+VISA001310,Australia,Visiting,Nigeria,2022-05-08,2022-06-19,42,Approved,Sao Paulo,Yes,Yes,Offline
+VISA001311,Canada,Student,India,2022-02-11,2022-04-19,67,Rejected,Shanghai,No,Yes,Offline
+VISA001312,Canada,Tourist,Nigeria,2022-12-22,2023-02-18,58,Approved,Chennai,Yes,No,Online
+VISA001313,Canada,Visiting,Nigeria,2022-02-10,2022-03-30,48,Approved,Shanghai,No,Yes,Online
+VISA001314,Australia,Tourist,Bangladesh,2022-02-03,2022-04-11,67,Rejected,Manila,Yes,No,Online
+VISA001315,USA,Work,Brazil,2022-01-17,2022-03-26,68,Rejected,Chennai,Yes,Yes,Online
+VISA001316,Australia,Work,Philippines,2023-11-08,2024-01-02,55,Approved,Bengaluru,Yes,Yes,Online
+VISA001317,Canada,Student,Brazil,2022-06-02,2022-08-02,61,Approved,Mumbai,Yes,No,Online
+VISA001318,Australia,Work,Brazil,2023-01-13,2023-02-21,39,Approved,Beijing,No,Yes,Offline
+VISA001319,UK,Tourist,Bangladesh,2023-08-11,2023-10-23,73,Rejected,Abuja,Yes,Yes,Online
+VISA001320,USA,Work,Nigeria,2023-08-22,2023-10-02,41,Approved,Chennai,Yes,Yes,Offline
+VISA001321,Australia,Tourist,Nigeria,2023-09-21,2023-11-04,44,Approved,Shanghai,Yes,Yes,Offline
+VISA001322,UK,Student,India,2022-12-08,2023-02-01,55,Approved,Abuja,No,Yes,Offline
+VISA001323,USA,Student,Bangladesh,2022-01-27,2022-04-08,71,Rejected,Dhaka,Yes,Yes,Online
+VISA001324,UK,Tourist,India,2022-10-14,2022-12-24,71,Rejected,Chennai,Yes,Yes,Offline
+VISA001325,USA,Work,Bangladesh,2023-10-08,2023-12-01,54,Approved,Beijing,No,Yes,Online
+VISA001326,Australia,Student,India,2022-06-17,2022-08-22,66,Rejected,Manila,Yes,No,Online
+VISA001327,UK,Visiting,China,2023-09-02,2023-10-01,29,Approved,Bengaluru,Yes,No,Online
+VISA001328,Canada,Student,Brazil,2022-09-25,2022-11-08,44,Approved,Beijing,No,Yes,Online
+VISA001329,UK,Work,Brazil,2023-03-31,2023-05-14,44,Approved,Shanghai,Yes,Yes,Offline
+VISA001330,USA,Visiting,Philippines,2023-11-16,2024-01-28,73,Rejected,Manila,Yes,Yes,Offline
+VISA001331,Australia,Work,Nigeria,2023-02-05,2023-04-10,64,Approved,Mumbai,Yes,Yes,Online
+VISA001332,USA,Tourist,Philippines,2023-04-21,2023-06-17,57,Approved,Manila,No,Yes,Online
+VISA001333,UK,Visiting,China,2023-12-03,2024-01-31,59,Approved,Chennai,Yes,Yes,Online
+VISA001334,UK,Work,Philippines,2023-09-26,2023-12-13,78,Rejected,Abuja,No,Yes,Online
+VISA001335,Canada,Visiting,Brazil,2023-07-12,2023-09-02,52,Approved,Abuja,No,Yes,Offline
+VISA001336,Australia,Work,Nigeria,2023-07-30,2023-09-03,35,Approved,Shanghai,Yes,Yes,Online
+VISA001337,Australia,Visiting,China,2022-05-10,2022-07-20,71,Rejected,Manila,No,No,Offline
+VISA001338,UK,Work,Brazil,2022-12-29,2023-02-24,57,Approved,Beijing,Yes,Yes,Online
+VISA001339,Australia,Tourist,India,2023-12-06,2024-02-13,69,Rejected,Shanghai,Yes,No,Online
+VISA001340,Canada,Visiting,Bangladesh,2023-11-24,2024-01-17,54,Approved,Bengaluru,No,No,Online
+VISA001341,USA,Visiting,China,2022-10-19,2022-11-30,42,Approved,Shanghai,No,Yes,Online
+VISA001342,Australia,Visiting,Nigeria,2023-01-06,2023-03-08,61,Approved,Shanghai,Yes,Yes,Online
+VISA001343,UK,Visiting,Philippines,2022-01-29,2022-03-25,55,Approved,Mumbai,Yes,Yes,Offline
+VISA001344,USA,Tourist,Philippines,2022-05-29,2022-07-25,57,Approved,Chennai,Yes,Yes,Offline
+VISA001345,USA,Visiting,China,2022-10-23,2023-01-10,79,Rejected,Mumbai,Yes,Yes,Online
+VISA001346,Canada,Student,Nigeria,2022-01-11,2022-02-18,38,Approved,Abuja,Yes,No,Online
+VISA001347,UK,Tourist,China,2023-05-27,2023-07-25,59,Approved,Abuja,Yes,Yes,Online
+VISA001348,Australia,Student,Nigeria,2023-11-07,2023-12-19,42,Approved,Dhaka,Yes,Yes,Online
+VISA001349,UK,Visiting,Philippines,2022-04-23,2022-05-09,16,Approved,Dhaka,Yes,No,Online
+VISA001350,USA,Work,Brazil,2022-07-06,2022-08-29,54,Approved,Beijing,Yes,No,Online
+VISA001351,UK,Student,India,2022-08-15,2022-10-09,55,Approved,Abuja,No,Yes,Offline
+VISA001352,Australia,Visiting,Brazil,2022-11-06,2023-01-09,64,Approved,Mumbai,No,No,Online
+VISA001353,Australia,Student,India,2022-04-08,2022-05-29,51,Approved,Bengaluru,Yes,Yes,Offline
+VISA001354,Canada,Visiting,Philippines,2022-02-24,2022-03-28,32,Approved,Dhaka,Yes,Yes,Online
+VISA001355,Australia,Visiting,Brazil,2023-09-15,2023-10-27,42,Approved,Manila,Yes,Yes,Offline
+VISA001356,Australia,Visiting,Brazil,2023-10-26,2024-01-08,74,Rejected,Dhaka,Yes,Yes,Online
+VISA001357,UK,Work,China,2023-02-10,2023-03-24,42,Approved,Abuja,Yes,No,Online
+VISA001358,UK,Student,Bangladesh,2022-03-10,2022-05-27,78,Rejected,Shanghai,No,Yes,Offline
+VISA001359,USA,Tourist,Philippines,2022-11-08,2023-01-17,70,Rejected,Chennai,Yes,Yes,Online
+VISA001360,Canada,Tourist,Nigeria,2022-10-16,2022-12-05,50,Approved,Abuja,Yes,Yes,Online
+VISA001361,UK,Tourist,Philippines,2023-07-02,2023-08-15,44,Approved,Shanghai,Yes,Yes,Online
+VISA001362,Australia,Tourist,Nigeria,2022-05-28,2022-08-06,70,Rejected,Bengaluru,Yes,Yes,Offline
+VISA001363,USA,Visiting,Nigeria,2023-04-12,2023-06-02,51,Approved,Bengaluru,Yes,Yes,Offline
+VISA001364,UK,Student,India,2022-09-01,2022-10-02,31,Approved,Manila,No,No,Online
+VISA001365,Canada,Student,Nigeria,2023-05-06,2023-07-08,63,Approved,Sao Paulo,Yes,Yes,Online
+VISA001366,Canada,Work,Nigeria,2023-05-22,2023-07-22,61,Approved,Mumbai,Yes,Yes,Offline
+VISA001367,USA,Student,China,2022-12-31,2023-03-13,72,Rejected,Chennai,Yes,Yes,Online
+VISA001368,USA,Student,Brazil,2023-04-27,2023-06-26,60,Approved,Abuja,No,Yes,Online
+VISA001369,USA,Student,Philippines,2022-07-20,2022-09-04,46,Approved,Abuja,Yes,Yes,Online
+VISA001370,USA,Work,Philippines,2022-06-03,2022-08-16,74,Rejected,Sao Paulo,Yes,No,Online
+VISA001371,USA,Tourist,Nigeria,2023-03-26,2023-06-09,75,Rejected,Manila,No,No,Online
+VISA001372,Australia,Student,Bangladesh,2023-05-16,2023-07-13,58,Approved,Beijing,Yes,Yes,Online
+VISA001373,Australia,Work,Philippines,2022-03-14,2022-05-08,55,Approved,Dhaka,Yes,Yes,Online
+VISA001374,UK,Work,Nigeria,2023-12-14,2024-01-18,35,Approved,Manila,Yes,No,Online
+VISA001375,Canada,Visiting,India,2022-10-23,2022-12-07,45,Approved,Shanghai,Yes,Yes,Online
+VISA001376,Australia,Work,India,2022-01-17,2022-03-24,66,Rejected,Manila,Yes,Yes,Online
+VISA001377,Australia,Tourist,India,2023-10-03,2023-11-18,46,Approved,Sao Paulo,Yes,Yes,Offline
+VISA001378,Australia,Student,Nigeria,2022-08-05,2022-09-07,33,Approved,Sao Paulo,Yes,No,Online
+VISA001379,UK,Work,China,2022-03-02,2022-06-17,107,Rejected,Mumbai,Yes,Yes,Online
+VISA001380,USA,Tourist,Bangladesh,2023-09-08,2023-10-11,33,Approved,Chennai,Yes,No,Offline
+VISA001381,UK,Work,Nigeria,2022-02-11,2022-05-10,88,Rejected,Bengaluru,Yes,No,Online
+VISA001382,Canada,Work,China,2022-01-25,2022-03-16,50,Approved,Sao Paulo,Yes,Yes,Online
+VISA001383,Canada,Work,China,2022-02-08,2022-04-02,53,Approved,Mumbai,No,No,Online
+VISA001384,Canada,Work,Philippines,2022-05-11,2022-06-24,44,Approved,Dhaka,Yes,No,Offline
+VISA001385,Canada,Work,Nigeria,2023-05-13,2023-07-18,66,Rejected,Bengaluru,Yes,Yes,Offline
+VISA001386,Australia,Tourist,Nigeria,2022-08-17,2022-09-19,33,Approved,Beijing,Yes,Yes,Offline
+VISA001387,Australia,Student,China,2022-04-18,2022-05-15,27,Approved,Abuja,Yes,Yes,Offline
+VISA001388,UK,Student,China,2022-06-21,2022-09-08,79,Rejected,Dhaka,Yes,Yes,Online
+VISA001389,USA,Student,China,2023-03-11,2023-04-22,42,Approved,Beijing,Yes,Yes,Online
+VISA001390,Canada,Student,Philippines,2023-04-23,2023-06-28,66,Rejected,Bengaluru,Yes,Yes,Online
+VISA001391,UK,Tourist,Nigeria,2022-04-12,2022-05-20,38,Approved,Dhaka,Yes,Yes,Online
+VISA001392,Australia,Visiting,China,2023-06-08,2023-08-12,65,Approved,Mumbai,No,No,Online
+VISA001393,Australia,Visiting,India,2022-10-02,2022-12-21,80,Rejected,Beijing,Yes,Yes,Online
+VISA001394,USA,Tourist,Nigeria,2023-09-05,2023-10-22,47,Approved,Abuja,Yes,Yes,Online
+VISA001395,USA,Tourist,Philippines,2022-02-13,2022-03-10,25,Approved,Mumbai,Yes,Yes,Offline
+VISA001396,USA,Work,India,2022-01-17,2022-04-07,80,Rejected,Shanghai,Yes,Yes,Online
+VISA001397,UK,Work,Brazil,2022-11-26,2023-02-02,68,Rejected,Abuja,Yes,Yes,Online
+VISA001398,Australia,Work,Nigeria,2023-07-23,2023-09-08,47,Approved,Chennai,Yes,Yes,Online
+VISA001399,Australia,Student,Brazil,2023-05-12,2023-07-02,51,Approved,Manila,Yes,Yes,Online
+VISA001400,USA,Work,China,2022-01-12,2022-02-19,38,Approved,Chennai,No,No,Online
+VISA001401,Canada,Visiting,Philippines,2022-11-14,2023-01-29,76,Rejected,Sao Paulo,No,No,Online
+VISA001402,USA,Student,China,2023-08-15,2023-09-30,46,Approved,Shanghai,Yes,Yes,Online
+VISA001403,UK,Work,Philippines,2022-08-04,2022-09-06,33,Approved,Shanghai,Yes,No,Offline
+VISA001404,USA,Student,Bangladesh,2022-12-05,2023-02-01,58,Approved,Manila,No,No,Offline
+VISA001405,USA,Visiting,China,2023-10-23,2023-12-04,42,Approved,Beijing,Yes,Yes,Online
+VISA001406,UK,Work,Brazil,2022-03-22,2022-04-30,39,Approved,Manila,Yes,No,Online
+VISA001407,USA,Visiting,Philippines,2023-12-28,2024-02-14,48,Approved,Sao Paulo,Yes,No,Online
+VISA001408,Australia,Visiting,China,2023-04-30,2023-06-25,56,Approved,Chennai,Yes,Yes,Offline
+VISA001409,Canada,Visiting,Nigeria,2023-01-09,2023-02-12,34,Approved,Shanghai,Yes,Yes,Online
+VISA001410,USA,Work,Philippines,2023-12-11,2024-02-24,75,Rejected,Chennai,Yes,Yes,Online
+VISA001411,UK,Tourist,Philippines,2022-07-19,2022-09-22,65,Approved,Abuja,Yes,Yes,Offline
+VISA001412,Canada,Work,China,2023-06-21,2023-08-09,49,Approved,Dhaka,Yes,No,Online
+VISA001413,UK,Visiting,Bangladesh,2023-04-11,2023-05-22,41,Approved,Sao Paulo,No,Yes,Online
+VISA001414,Canada,Work,China,2022-03-30,2022-05-22,53,Approved,Dhaka,Yes,No,Online
+VISA001415,Canada,Visiting,Brazil,2022-09-25,2022-12-02,68,Rejected,Sao Paulo,Yes,No,Online
+VISA001416,USA,Tourist,Brazil,2023-10-17,2023-12-22,66,Rejected,Bengaluru,Yes,No,Online
+VISA001417,Australia,Student,Philippines,2023-07-25,2023-10-03,70,Rejected,Abuja,No,No,Online
+VISA001418,USA,Tourist,Philippines,2023-05-04,2023-06-20,47,Approved,Beijing,No,Yes,Offline
+VISA001419,UK,Tourist,China,2023-06-22,2023-07-03,11,Approved,Sao Paulo,Yes,Yes,Online
+VISA001420,UK,Student,Brazil,2022-02-16,2022-04-30,73,Rejected,Dhaka,Yes,No,Online
+VISA001421,Canada,Work,Brazil,2022-10-15,2022-12-06,52,Approved,Sao Paulo,No,Yes,Online
+VISA001422,Canada,Student,Bangladesh,2022-01-16,2022-03-21,64,Approved,Beijing,Yes,Yes,Offline
+VISA001423,Australia,Work,Nigeria,2023-12-12,2024-03-01,80,Rejected,Sao Paulo,Yes,No,Online
+VISA001424,USA,Work,Bangladesh,2023-02-05,2023-05-07,91,Rejected,Mumbai,Yes,No,Online
+VISA001425,UK,Visiting,India,2022-03-27,2022-05-11,45,Approved,Sao Paulo,Yes,Yes,Online
+VISA001426,Canada,Visiting,Bangladesh,2022-09-07,2022-11-03,57,Approved,Bengaluru,Yes,No,Offline
+VISA001427,Australia,Student,China,2023-01-26,2023-04-11,75,Rejected,Bengaluru,Yes,No,Online
+VISA001428,UK,Tourist,Nigeria,2022-12-01,2023-01-12,42,Approved,Shanghai,Yes,Yes,Online
+VISA001429,Canada,Student,China,2023-09-21,2023-11-06,46,Approved,Bengaluru,No,Yes,Online
+VISA001430,UK,Work,India,2023-06-03,2023-07-19,46,Approved,Sao Paulo,No,No,Offline
+VISA001431,Australia,Visiting,Nigeria,2022-05-17,2022-07-10,54,Approved,Sao Paulo,No,Yes,Online
+VISA001432,Australia,Student,Philippines,2023-11-19,2024-01-09,51,Approved,Mumbai,No,Yes,Online
+VISA001433,UK,Student,Brazil,2023-05-13,2023-06-28,46,Approved,Bengaluru,Yes,Yes,Offline
+VISA001434,USA,Visiting,Bangladesh,2023-12-28,2024-02-06,40,Approved,Chennai,Yes,No,Offline
+VISA001435,UK,Visiting,China,2023-04-22,2023-06-28,67,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001436,Canada,Visiting,India,2023-08-17,2023-10-31,75,Rejected,Abuja,No,Yes,Offline
+VISA001437,USA,Work,Brazil,2022-08-11,2022-10-27,77,Rejected,Abuja,Yes,Yes,Online
+VISA001438,Canada,Visiting,Bangladesh,2023-01-07,2023-02-23,47,Approved,Dhaka,No,No,Online
+VISA001439,UK,Tourist,Brazil,2023-02-06,2023-04-14,67,Rejected,Mumbai,Yes,Yes,Offline
+VISA001440,USA,Student,Bangladesh,2023-03-19,2023-05-16,58,Approved,Beijing,No,Yes,Online
+VISA001441,Canada,Visiting,Philippines,2023-05-05,2023-06-20,46,Approved,Chennai,Yes,No,Online
+VISA001442,UK,Visiting,Nigeria,2023-09-07,2023-11-12,66,Rejected,Sao Paulo,Yes,Yes,Online
+VISA001443,UK,Work,Brazil,2022-09-30,2022-11-14,45,Approved,Manila,No,No,Online
+VISA001444,USA,Work,Brazil,2023-06-10,2023-07-29,49,Approved,Manila,Yes,No,Online
+VISA001445,UK,Student,Brazil,2022-06-08,2022-07-12,34,Approved,Beijing,No,No,Online
+VISA001446,Australia,Tourist,Nigeria,2022-06-01,2022-07-19,48,Approved,Shanghai,Yes,Yes,Offline
+VISA001447,Canada,Student,India,2023-09-12,2023-11-09,58,Approved,Manila,Yes,No,Online
+VISA001448,Canada,Visiting,Bangladesh,2022-07-07,2022-09-23,78,Rejected,Beijing,Yes,No,Online
+VISA001449,UK,Tourist,Philippines,2022-04-08,2022-05-27,49,Approved,Manila,Yes,No,Offline
+VISA001450,UK,Tourist,Brazil,2022-05-11,2022-06-19,39,Approved,Mumbai,Yes,Yes,Online
+VISA001451,Australia,Tourist,Nigeria,2022-06-20,2022-09-05,77,Rejected,Dhaka,Yes,No,Online
+VISA001452,USA,Tourist,India,2022-07-02,2022-08-18,47,Approved,Shanghai,Yes,Yes,Online
+VISA001453,UK,Student,Bangladesh,2022-12-30,2023-01-27,28,Approved,Mumbai,Yes,Yes,Online
+VISA001454,UK,Work,Nigeria,2022-02-08,2022-04-05,56,Approved,Beijing,Yes,Yes,Online
+VISA001455,UK,Work,Philippines,2023-06-11,2023-07-31,50,Approved,Chennai,Yes,No,Online
+VISA001456,UK,Visiting,Philippines,2023-05-12,2023-08-09,89,Rejected,Bengaluru,No,Yes,Online
+VISA001457,Canada,Work,Bangladesh,2023-05-31,2023-08-01,62,Approved,Chennai,Yes,Yes,Online
+VISA001458,UK,Work,Brazil,2022-12-15,2023-02-05,52,Approved,Abuja,Yes,No,Online
+VISA001459,Canada,Work,Philippines,2023-02-01,2023-03-14,41,Approved,Bengaluru,Yes,Yes,Offline
+VISA001460,UK,Work,India,2023-12-23,2024-02-20,59,Approved,Beijing,Yes,No,Offline
+VISA001461,USA,Visiting,Nigeria,2022-06-10,2022-08-25,76,Rejected,Abuja,Yes,Yes,Online
+VISA001462,Australia,Student,India,2022-01-16,2022-03-16,59,Approved,Manila,No,Yes,Online
+VISA001463,USA,Tourist,Brazil,2023-05-08,2023-06-19,42,Approved,Manila,No,No,Offline
+VISA001464,UK,Work,India,2023-03-02,2023-05-04,63,Approved,Bengaluru,Yes,No,Online
+VISA001465,UK,Student,India,2022-04-18,2022-06-11,54,Approved,Sao Paulo,Yes,Yes,Offline
+VISA001466,UK,Work,China,2023-03-26,2023-05-26,61,Approved,Chennai,No,No,Online
+VISA001467,USA,Work,India,2022-11-07,2022-12-26,49,Approved,Abuja,Yes,Yes,Offline
+VISA001468,UK,Tourist,Bangladesh,2022-06-19,2022-08-07,49,Approved,Chennai,Yes,Yes,Online
+VISA001469,USA,Tourist,Nigeria,2023-06-30,2023-08-17,48,Approved,Bengaluru,Yes,Yes,Online
+VISA001470,Canada,Tourist,China,2023-02-18,2023-04-28,69,Rejected,Mumbai,Yes,Yes,Online
+VISA001471,Australia,Work,Nigeria,2022-09-08,2022-10-27,49,Approved,Manila,No,Yes,Online
+VISA001472,Australia,Work,Nigeria,2022-05-21,2022-07-08,48,Approved,Abuja,Yes,Yes,Online
+VISA001473,USA,Work,Brazil,2022-10-01,2022-11-10,40,Approved,Abuja,Yes,Yes,Online
+VISA001474,Canada,Tourist,Brazil,2023-02-20,2023-04-22,61,Approved,Beijing,Yes,Yes,Online
+VISA001475,USA,Visiting,China,2023-08-31,2023-10-29,59,Approved,Abuja,No,Yes,Online
+VISA001476,Canada,Student,Philippines,2022-02-08,2022-03-28,48,Approved,Bengaluru,No,Yes,Online
+VISA001477,UK,Visiting,Brazil,2022-01-29,2022-03-14,44,Approved,Abuja,Yes,No,Online
+VISA001478,Canada,Work,Brazil,2023-04-22,2023-07-14,83,Rejected,Abuja,Yes,No,Online
+VISA001479,Canada,Work,Brazil,2022-11-14,2022-12-10,26,Approved,Chennai,Yes,Yes,Online
+VISA001480,Canada,Visiting,Nigeria,2022-09-02,2022-11-03,62,Approved,Dhaka,No,No,Online
+VISA001481,Australia,Work,China,2023-11-28,2024-02-10,74,Rejected,Abuja,No,No,Online
+VISA001482,Canada,Student,Nigeria,2022-09-29,2022-10-09,10,Approved,Sao Paulo,Yes,Yes,Online
+VISA001483,UK,Work,Bangladesh,2023-03-16,2023-05-21,66,Rejected,Shanghai,No,Yes,Online
+VISA001484,UK,Student,Nigeria,2022-08-27,2022-10-17,51,Approved,Beijing,Yes,No,Online
+VISA001485,UK,Visiting,Bangladesh,2023-01-12,2023-03-11,58,Approved,Chennai,Yes,Yes,Online
+VISA001486,Canada,Visiting,India,2022-09-23,2022-11-12,50,Approved,Beijing,Yes,No,Online
+VISA001487,USA,Work,India,2022-12-25,2023-03-06,71,Rejected,Mumbai,Yes,No,Offline
+VISA001488,USA,Student,Bangladesh,2022-12-06,2023-02-04,60,Approved,Abuja,Yes,No,Online
+VISA001489,UK,Work,Bangladesh,2023-01-24,2023-03-21,56,Approved,Manila,Yes,No,Online
+VISA001490,Australia,Tourist,Nigeria,2023-07-31,2023-09-10,41,Approved,Sao Paulo,Yes,Yes,Online
+VISA001491,USA,Tourist,Bangladesh,2023-11-20,2024-02-11,83,Rejected,Chennai,Yes,Yes,Online
+VISA001492,Canada,Tourist,China,2022-01-03,2022-02-27,55,Approved,Beijing,Yes,No,Online
+VISA001493,USA,Tourist,India,2023-03-05,2023-06-02,89,Rejected,Abuja,Yes,Yes,Online
+VISA001494,UK,Work,India,2022-05-22,2022-08-13,83,Rejected,Manila,Yes,No,Offline
+VISA001495,Australia,Tourist,Philippines,2023-01-11,2023-02-08,28,Approved,Manila,Yes,No,Offline
+VISA001496,USA,Student,Bangladesh,2023-11-01,2023-12-16,45,Approved,Mumbai,Yes,No,Offline
+VISA001497,USA,Visiting,Brazil,2022-11-20,2022-12-29,39,Approved,Sao Paulo,No,Yes,Online
+VISA001498,UK,Visiting,Brazil,2022-05-26,2022-07-19,54,Approved,Dhaka,No,Yes,Online
+VISA001499,Australia,Tourist,Bangladesh,2022-10-20,2022-12-16,57,Approved,Sao Paulo,No,Yes,Online
+VISA001500,Australia,Tourist,China,2023-10-27,2023-12-24,58,Approved,Mumbai,Yes,Yes,Offline
